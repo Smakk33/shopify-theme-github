@@ -785,8 +785,8 @@
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "How long does delivery take and how can I track my order?",
-            "content": "<p>Our products are delivered within <strong>4 to 9 working days via Royal Mail.</strong> Once your order has been dispatched, you'll receive a tracking number so you can follow your delivery every step of the way.</p>"
+            "title": "How long does shipping take and how can I track my order?",
+            "content": "<p>Our products are shipped within <strong>4 to 9 business days via Canada Post</strong>. Once your order has been shipped, you’ll receive a tracking number so you can follow it every step of the way.</p>"
           }
         },
         "item_9w86PN": {
