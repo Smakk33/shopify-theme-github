@@ -800,7 +800,7 @@
           "type": "item",
           "settings": {
             "title": "How can I contact your customer service team?",
-            "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <a>contact@dermelectcosmeceutiques.com</a> or <a>dermelectcosmecontact@gmail.com</a><br/><br/>📞 <strong>Phone:</strong> 07 56 98 22 06<br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
+            "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <strong>contact@meritage.com</strong><br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
           }
         }
       },
@@ -818,7 +818,7 @@
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer service team is available Monday to Friday, from 9am to 8pm.",
-        "answer_time": "Average response time: around 5 minutes",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
