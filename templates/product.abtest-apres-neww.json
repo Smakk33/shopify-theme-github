@@ -657,6 +657,7 @@
         "image_j9qUTp": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/GIF2-ezgif.com-gif-to-webp-converter.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
