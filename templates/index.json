@@ -15,20 +15,20 @@
         "subheading_P9itfp": {
           "type": "subheading",
           "settings": {
-            "text": "Youth-preserving"
+            "text": ""
           }
         },
         "heading_LeWM9k": {
           "type": "heading",
           "settings": {
-            "text": "Your most beautiful smile No invasive treatments required.",
-            "heading_tag": "h1"
+            "text": "Elegant Skin. Empowered Age. Exceptional Care.",
+            "heading_tag": "h2"
           }
         },
         "richtext_fyxhDb": {
           "type": "richtext",
           "settings": {
-            "content": ""
+            "content": "<p>Make-up & skincare for women who define their own prime.</p>"
           }
         }
       },
@@ -39,7 +39,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/Capture_d_ecran_2025-04-15_a_16.45.28.png",
