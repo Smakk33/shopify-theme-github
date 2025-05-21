@@ -497,6 +497,7 @@
         "image_iLMWJT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/GIF2-ezgif.com-gif-to-webp-converter.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -657,12 +658,13 @@
         "image_j9qUTp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF2-ezgif.com-gif-to-webp-converter.webp",
+            "image": "shopify://shop_images/Docteur_TrishaKanna.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
-            "icon_width": 100,
+            "custom_icon": "shopify://shop_images/signature_jpeg.jpg",
+            "icon_width": 120,
             "subheading": "",
             "title": "A professional-grade solution, approved by age-defying skincare experts.",
             "content": "<p>“Better than injections for vertical lines. An advanced technology that delivers visible results – without any invasive treatments.”</p><p><strong>Dr. Trisha Khanna</strong><br/>Expert Dermatologist<br/></p>",
