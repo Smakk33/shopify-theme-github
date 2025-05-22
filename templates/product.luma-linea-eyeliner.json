@@ -14,6 +14,7 @@
       "blocks": {
         "liquid_hhwVe3": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<span style=\"line-height: 1.25;\">🏆 Voted Best Lip Line Treatment 2023</span>\n</li>"
           }
@@ -26,6 +27,13 @@
         },
         "liquid_acEgXV": {
           "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\" style=\"padding-top: 12px; padding-bottom: 12px;\">\n    <div class=\"trustpilot\">\n        <a style=\"display: flex; align-items: center;\" href=\"#shopify-section-template--16834633498880__4fa813d7-a43c-4acf-a3eb-021ace3a79b5\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0765/6738/0295/files/avis.avif?v=1689246924\" alt=\"Trustpilot Rating\" width=\"110\" height=\"25\" style=\"margin-right: 5px;\">\n            <span style=\"font-size: 12px; text-decoration: underline; text-underline-offset: 3px;\"><b></b> 4.8/5 (Excellent) | 1243 Avis vérifiés</span>\n        </a>\n    </div>\n</div>"
+          }
+        },
+        "liquid_FdYp49": {
+          "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-meta__price-list-container\"><!-- Rating placé à gauche du prix -->\n  <div class=\"product-meta__rating-display\">\n    <div class=\"rating\">\n      <div class=\"rating__stars rating__clickable\" role=\"img\" data-href=\"#looxReviewsFrame\" aria-label=\"4.8 out of 5 stars\">\n        <!-- 5 étoiles SVG -->\n        {% for i in (1..5) %}\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"100.3625 119.997 196.024 196.901\" width=\"14\" height=\"14\" class=\"icon icon--rating-star rating__star rating__star--full\">\n          <g transform=\"matrix(1, 0, 0, 1, -64.05353546142578, -1.912045955657959)\">\n            <rect x=\"164.416\" y=\"-318.81\" class=\"st1\" width=\"196.024\" height=\"196.901\" style=\"fill: rgb(0, 182, 122);\" transform=\"matrix(1, 0, 0, -1, 0, 0)\"></rect>\n            <path class=\"st4\" d=\"M 261.473 249.67 L 293.551 241.986 L 306.383 278.485 L 261.473 249.67 Z M 334.184 203.566 L 278.581 203.566 L 261.473 157.462 L 244.364 203.566 L 188.761 203.566 L 233.671 232.381 L 216.563 278.485 L 261.473 249.67 L 289.274 232.381 L 334.184 203.566 Z\" style=\"fill: rgb(255, 255, 255);\"></path>\n          </g>\n        </svg>\n        {% endfor %}\n      </div>\n      <span class=\"rating__caption rating__clickable\" data-href=\"#looxReviewsFrame\" style=\"margin-left:4px;\">Excellent 4.8/5 | 68 verified reviews</span>\n    </div>\n\n    <style>\n      .rating {\n        display: inline-flex;\n        align-items: center;\n        gap: 2px;\n      }\n\n      @media screen and (max-width: 768px) {\n        .rating {\n          gap: 1px;\n          flex-wrap: nowrap;\n        }\n      }\n\n      .rating__clickable {\n        cursor: pointer;\n      }\n\n      .rating__clickable:hover {\n        text-decoration: underline;\n      }\n    </style>\n\n    <script>\n      document.addEventListener('DOMContentLoaded', function() {\n        const clickableElements = document.querySelectorAll('.rating__clickable');\n\n        clickableElements.forEach(element => {\n          element.addEventListener('click', function() {\n            const target = document.querySelector(this.getAttribute('data-href'));\n            if (target) {\n              target.scrollIntoView({\n                behavior: 'smooth'\n              });\n            }\n          });\n        });\n      });\n    </script>\n  </div>\n</div>"
           }
@@ -233,6 +241,7 @@
         "liquid_hhwVe3",
         "title",
         "liquid_acEgXV",
+        "liquid_FdYp49",
         "badges",
         "price",
         "rating",
