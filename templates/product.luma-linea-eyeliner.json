@@ -634,6 +634,55 @@
         "text_color": ""
       }
     },
+    "custom_liquid_XaqVYp": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .steps-container {\n    display: flex;\n    justify-content: center;\n    align-items: flex-start; /* Aligne les images et les textes en haut */\n    gap: 40px;\n    text-align: center;\n    flex-wrap: nowrap; /* Empêche l'empilement sur mobile */\n  }\n\n  .step {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    width: 150px; /* Fixe une largeur pour un meilleur alignement */\n  }\n\n  .step img {\n    width: 60px;\n    height: 60px;\n    margin-bottom: 10px;\n  }\n\n  .step-text {\n    font-size: 16px;\n    font-weight: bold;\n    color: #000;\n  }\n\n  /* Réglages pour les petits écrans */\n  @media (max-width: 768px) {\n    .steps-container {\n      flex-direction: row;\n      justify-content: space-around; /* Garde les éléments bien espacés sur mobile */\n      gap: 20px;\n    }\n\n    .step {\n      width: 100px; /* Ajuste la largeur des éléments sur mobile pour les aligner correctement */\n    }\n\n    .step img {\n      width: 50px;\n      height: 50px;\n    }\n\n    .step-text {\n      font-size: 14px;\n    }\n  }\n</style>\n\n<div class=\"steps-container\">\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/1_Numbers_MRS.avif?v=1727691471\" alt=\"Step 1\">\n    <div class=\"step-text\">Choose the shade that suits you</div>\n  </div>\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/2_Numbers_MRS.avif?v=1727691361\" alt=\"Step 2\">\n    <div class=\"step-text\">Select it from the colour picker (near the gallery)</div>\n  </div>\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/3_Numbers_MRS.avif?v=1727691470\" alt=\"Step 3\">\n    <div class=\"step-text\">Add it to your cart</div>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_hGR39G": {
+      "type": "impact-text",
+      "blocks": {
+        "item_DpaT64": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "content": "<h4>More than just a line... This eyeliner experience will help you feel confident again.</h4>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_DpaT64"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "heading_text_color": "#ffffff",
+        "heading_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -1126,6 +1175,8 @@
     "media_with_text_exinVG",
     "multi_column_PTVyFk",
     "custom_html_bqeDLE",
+    "custom_liquid_XaqVYp",
+    "impact_text_hGR39G",
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
