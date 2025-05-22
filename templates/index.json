@@ -133,7 +133,7 @@
         "ss-title": "Trusted by Beauty Experts. Loved by Women Over 50.",
         "heading_custom": true,
         "heading_font": "dm_sans_n7",
-        "header_size": 30,
+        "header_size": 34,
         "header_align": "center",
         "scrolling_velocity": 30,
         "pause_hover": false,
@@ -166,7 +166,7 @@
           "type": "heading",
           "settings": {
             "text": "Make-up & skincare for women who define their own prime.",
-            "heading_tag": "h3",
+            "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
