@@ -81,7 +81,7 @@
         "liquid_XbjCxh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">“Love this. Goes on like butter. Smooth. Crisp. Stays on for the day!”</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Susan, 61 years old</span>\n  </div>\n</div>"
+            "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">\"I was amazed by how well this mascara worked on my thinning lashes. I’m 59, but my lashes looked just like they used to! I tossed all my old mascaras — even Lancôme!\"</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Sandy, Luma Lash customer</span>\n  </div>\n</div>"
           }
         },
         "text_p8fqM4": {
