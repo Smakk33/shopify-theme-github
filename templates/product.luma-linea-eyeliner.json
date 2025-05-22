@@ -1088,6 +1088,27 @@
             "title": "Is the tip retractable?",
             "content": "<p>No, the tip is not retractable. Retractable eyeliners often play hide-and-seek with how much product you actually get.</p><p>With Luma Linea, there’s no smoke and mirrors — what you see is what you get. Sharpen the tip for long-lasting precision!</p>"
           }
+        },
+        "item_mAaVEx": {
+          "type": "item",
+          "settings": {
+            "title": "How many times do I need to reapply Luma Linea during the day?",
+            "content": "<p>93% of testers found that a single application of Luma Linea lasted all day.<br/><br/>That said, every queen is different — wear time may vary based on the initial layer’s intensity, eyelid sebum, and air humidity.</p><p>What we can say is: the more you use this eyeliner, the more your lashes and eyelids will benefit over time.</p>"
+          }
+        },
+        "item_Tkcq9p": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_j3wgBK": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
@@ -1096,7 +1117,10 @@
         "item_FmKhth",
         "item_9w86PN",
         "item_U8BnMe",
-        "item_i46BEY"
+        "item_i46BEY",
+        "item_mAaVEx",
+        "item_Tkcq9p",
+        "item_j3wgBK"
       ],
       "settings": {
         "full_width": true,
