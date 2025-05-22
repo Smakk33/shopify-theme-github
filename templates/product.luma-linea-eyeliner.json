@@ -793,6 +793,19 @@
         "spacing": "none"
       }
     },
+    "custom_liquid_mNqg7K": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"features-section\">\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/hypoallergenic_icon_eae08cf9-7601-49e9-bc46-6e5c68285898.webp?v=1738319211\" alt=\"Easy & precise application\" class=\"feature-icon\">\n      <p class=\"feature-text\">Hypoallergenic</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/pH_png.webp?v=1738319210\" alt=\"Water-resistant and smudge-proof\" class=\"feature-icon\">\n      <p class=\"feature-text\">pH balanced</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/teste_par_les_ophtalmologist_2.webp?v=1738319455\" alt=\"Buildable, velvety, deep colors\" class=\"feature-icon\">\n      <p class=\"feature-text\">Ophthalmologist-tested</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-section {\n    display: flex;\n    justify-content: space-around;\n    padding: 5px 0;\n  }\n\n  .feature-item {\n    flex: 1;\n    display: flex;\n    justify-content: center;\n  }\n\n  .feature-content {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .feature-icon {\n    margin-bottom: 10px;\n    max-width: 50px;\n  }\n\n  .feature-text {\n    font-size: 14px; /* Taille de texte par défaut, que tu peux modifier */\n  }\n\n  .text-center {\n    text-align: center;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_JY4g6c": {
       "type": "multi-column",
       "blocks": {
@@ -911,6 +924,7 @@
         "item_EbneNg",
         "item_RcnDRA"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -929,6 +943,7 @@
       "blocks": {
         "image_j9qUTp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Docteur_TrishaKanna.webp",
             "media_width": 50,
@@ -1035,8 +1050,8 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "Can I apply this treatment under my lipstick?",
-            "content": "<p>Yes – its lightweight texture absorbs quickly and creates the perfect base for lipstick or makeup.</p>"
+            "title": "Is Luma Linea a liquid or a pencil?",
+            "content": "<p>Luma Linea has a unique gel-cream texture. It behaves like a pencil — easy to hold, apply, and control. It doesn’t budge. But it delivers pigment like a liquid — in clean, precise lines. Generous, vibrant, silky.</p>"
           }
         },
         "item_wB8JVQ": {
@@ -1199,6 +1214,7 @@
     "impact_text_hGR39G",
     "press_d49NgN",
     "media_with_text_XgGpQw",
+    "custom_liquid_mNqg7K",
     "multi_column_JY4g6c",
     "media_with_text_AJRELr",
     "related-products",
