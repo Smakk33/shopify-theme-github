@@ -23,6 +23,7 @@
         },
         "message_Kgeg3H": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "24 Hours Only – Free Delivery",
             "url": ""
@@ -31,7 +32,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "30-Day Money-Back Guarantee",
+            "text": "30-DAY MONEY-BACK GUARANTEE",
             "url": ""
           }
         }
