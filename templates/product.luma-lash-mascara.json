@@ -28,7 +28,7 @@
         "liquid_acEgXV": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\" style=\"padding-top: 12px; padding-bottom: 12px;\">\n    <div class=\"trustpilot\">\n        <a style=\"display: flex; align-items: center;\" href=\"#shopify-section-template--16834633498880__4fa813d7-a43c-4acf-a3eb-021ace3a79b5\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0765/6738/0295/files/avis.avif?v=1689246924\" alt=\"Trustpilot Rating\" width=\"110\" height=\"25\" style=\"margin-right: 5px;\">\n            <span style=\"font-size: 11px; text-decoration: underline; text-underline-offset: 3px;\"><b></b> 4.8/5 (Excellent) | 1243 verified reviews</span>\n        </a>\n    </div>\n</div>"
+            "liquid": "<div class=\"product-info__liquid\" style=\"padding-top: 12px; padding-bottom: 12px;\">\n    <div class=\"trustpilot\">\n        <a style=\"display: flex; align-items: center;\" href=\"#shopify-section-template--16834633498880__4fa813d7-a43c-4acf-a3eb-021ace3a79b5\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0765/6738/0295/files/avis.avif?v=1689246924\" alt=\"Trustpilot Rating\" width=\"110\" height=\"25\" style=\"margin-right: 5px;\">\n            <span style=\"font-size: 11px; text-decoration: underline; text-underline-offset: 3px;\"><b></b> 4.7/5 (Excellent) | 1696 verified reviews</span>\n        </a>\n    </div>\n</div>"
           }
         },
         "liquid_FdYp49": {
