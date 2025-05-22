@@ -186,120 +186,52 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_F4tQfr": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_NFDbWM": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_jRXYJN": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_7W6axj": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_NFDbWM",
-        "item_jRXYJN",
-        "item_7W6axj"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "+4,423",
-            "subheading": "Femmes Satisfaites",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2.7
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(138, 178, 190, 1) 1%, rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
         "collection": "",
         "products": [
-          "remedy-serum-de-nuit-pour-taches-brunes",
-          "serum-de-nuit-9-en-1-au-retinol-eliminez-les-taches-brunes-copie",
-          "serum-de-nuit-9-en-1-au-retinol-favorisez-un-vieillissement-sain-copie"
+          "luma-bright-eyeliner",
+          "luma-lash-mascara",
+          "luma-linea-eyeliner",
+          "luma-lash-serum",
+          "luma-lash-volumizeur"
         ],
-        "full_width": false,
+        "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 4,
         "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
+        "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Nos Soins",
+        "title": "Makeup",
+        "content": "",
+        "link_url": "",
+        "link_text": "Voir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_UQti4Q": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "correcteur"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Skincare",
         "content": "",
         "link_url": "",
         "link_text": "Voir",
@@ -473,9 +405,8 @@
     "slideshow_iPxVFx",
     "ss_scrolling_logo_cloud_BHjtcq",
     "rich_text_YpGD3R",
-    "image_link_blocks_F4tQfr",
-    "impact-text",
     "featured-collection",
+    "featured_collection_UQti4Q",
     "featured-product",
     "faq"
   ]
