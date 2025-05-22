@@ -84,8 +84,15 @@
             "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">“I love this product. Applies like butter. Smooth. Flawless. Stays in place all day!”</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Susan, 61 years old</span>\n  </div>\n</div>"
           }
         },
+        "text_p8fqM4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No more eyeliner struggles. Luma Linea is designed for mature women.</p>"
+          }
+        },
         "liquid_FQpVrJ": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Smooth and soften vertical lip lines</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Improve firmness and skin elasticity</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Hydrate deeply and help prevent signs of ageing</span>\n</li>"
           }
@@ -98,6 +105,7 @@
         },
         "liquid_tTtDrq": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  .icon-grid {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 0.5rem;\n    align-items: center;\n    color: #000000;\n    font-family: 'Archivo', sans-serif;\n    font-size: 9px;\n    font-weight: bold;\n    text-transform: uppercase;\n  }\n\n  .icon-grid-item {\n    display: flex;\n    align-items: center;\n    gap: 0.4rem;\n  }\n\n  .icon-grid-item svg {\n    width: 14px;\n    height: 14px;\n    fill: #000000;\n  }\n</style>\n\n<div class=\"icon-grid\">\n  <div class=\"icon-grid-item\">\n    <svg viewBox=\"0 0 12 15\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.25 9.259a5.143 5.143 0 0 1-5.138 5.139 5.143 5.143 0 0 1-5.14-5.14C.973 7 4.252 2.127 5.58.267a.665.665 0 0 1 1.063 0C7.928 2.126 11.251 7 11.251 9.259Z\"/></svg>\n    <span>Fragrance-free</span>\n  </div>\n  <div class=\"icon-grid-item\">\n    <svg viewBox=\"0 0 15 14\" xmlns=\"http://www.w3.org/2000/svg\"><path clip-rule=\"evenodd\" d=\"M10.084.654A.67.67 0 0 0 9.43 0H5.592a.67.67 0 0 0-.654.654v3.184a.67.67 0 0 1-.655.654H1.1a.67.67 0 0 0-.655.654v3.838a.67.67 0 0 0 .655.655h3.183a.67.67 0 0 1 .655.654v3.053a.67.67 0 0 0 .654.654H9.43a.67.67 0 0 0 .654-.654v-3.053a.67.67 0 0 1 .654-.654h3.053a.67.67 0 0 0 .654-.655V5.146a.67.67 0 0 0-.654-.654h-3.053a.67.67 0 0 1-.654-.654V.654Z\" fill-rule=\"evenodd\"/></svg>\n    <span>Suitable for sensitive skin</span>\n  </div>\n  <div class=\"icon-grid-item\">\n    <svg viewBox=\"0 0 20 15\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M3.08 7.863A4.216 4.216 0 0 1 4.62 2.108a4.216 4.216 0 0 1 5.755 1.542c.927 1.604.597 6.408.416 8.274a.545.545 0 0 1-.755.435c-1.675-.794-6.032-2.892-6.958-4.496Z\"/><path d=\"M10.201 3.649a4.216 4.216 0 0 1 5.755-1.542A4.216 4.216 0 0 1 17.5 7.862c-.927 1.604-5.252 3.72-6.958 4.496a.545.545 0 0 1-.755-.436c-.15-1.847-.51-6.67.415-8.273Z\"/></svg>\n    <span>Not tested on animals</span>\n  </div>\n  <div class=\"icon-grid-item\">\n    <svg viewBox=\"0 0 15 14\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m13.977 11.463-3.705-5.666a.876.876 0 0 1-.174-.567V.654A.67.67 0 0 0 9.444 0H5.696a.67.67 0 0 0-.654.654v4.533a.876.876 0 0 1-.174.566L1.163 11.42a2.12 2.12 0 0 0-.13.305c-.088.48-.262 1.83 1.045 2.005h10.984c1.307-.174 1.133-1.525 1.046-2.005l-.131-.261Z\"/></svg>\n    <span>Dermatologist recommended</span>\n  </div>\n</div>"
           }
@@ -121,6 +129,7 @@
         },
         "liquid_wQNJEm": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>ONLY 7 LEFT IN STOCK\n</p>"
           }
@@ -254,6 +263,7 @@
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
         "liquid_XbjCxh",
+        "text_p8fqM4",
         "liquid_FQpVrJ",
         "description",
         "liquid_tTtDrq",
