@@ -1078,8 +1078,15 @@
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "How can I contact your customer service team?",
-            "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <strong>contact@meritage.com</strong><br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
+            "title": "Will the tip break if the eyeliner falls?",
+            "content": "<p>Handle your Luma Linea with care. The tip is reinforced and protected by its casing. While creamy in texture, it’s sturdier than many lightweight liners and less prone to breaking.</p>"
+          }
+        },
+        "item_i46BEY": {
+          "type": "item",
+          "settings": {
+            "title": "Is the tip retractable?",
+            "content": "<p>No, the tip is not retractable. Retractable eyeliners often play hide-and-seek with how much product you actually get.</p><p>With Luma Linea, there’s no smoke and mirrors — what you see is what you get. Sharpen the tip for long-lasting precision!</p>"
           }
         }
       },
@@ -1088,7 +1095,8 @@
         "item_wB8JVQ",
         "item_FmKhth",
         "item_9w86PN",
-        "item_U8BnMe"
+        "item_U8BnMe",
+        "item_i46BEY"
       ],
       "settings": {
         "full_width": true,
