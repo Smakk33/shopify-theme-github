@@ -36,6 +36,7 @@
         },
         "image_q6tpCi": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -69,8 +70,87 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
+      }
+    },
+    "ss_scrolling_logo_cloud_BHjtcq": {
+      "type": "ss-scrolling-logo-cloud",
+      "blocks": {
+        "slide_37y4gn": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_jDTGN4": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_4QPPap": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_anmKKF": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_t6T4bJ": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_JKQTwy": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_37y4gn",
+        "slide_jDTGN4",
+        "slide_4QPPap",
+        "slide_anmKKF",
+        "slide_t6T4bJ",
+        "slide_JKQTwy"
+      ],
+      "name": "SS - Scrolling Logo Cloud",
+      "settings": {
+        "ss-title": "Trusted by Beauty Experts. Loved by Women Over 50.",
+        "heading_custom": true,
+        "heading_font": "archivo_n7",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 30,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "image_with_text_overlay_AhmwF3": {
@@ -474,6 +554,7 @@
   },
   "order": [
     "slideshow_iPxVFx",
+    "ss_scrolling_logo_cloud_BHjtcq",
     "image_with_text_overlay_AhmwF3",
     "slideshow",
     "rich_text_YpGD3R",
