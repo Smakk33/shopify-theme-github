@@ -74,6 +74,19 @@
         "background_gradient": ""
       }
     },
+    "custom_html_q6KahD": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "html": "<meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Made in USA Widget</title>\n    <style>\n        body.unique-body-7907 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f9f9f9;\n        }\n\n        .usa-widget-7907 {\n            text-align: center;\n        }\n\n        .usa-text-7907 {\n            font-size: 14px;\n            color: #333333;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n        }\n\n        .usa-text-7907 img {\n            width: 20px;\n            height: 20px;\n            margin-right: 8px;\n        }\n    </style>\n\n\n\n    <div class=\"usa-widget-7907\">\n        <div class=\"usa-text-7907\">\n            <img src=\"https://www.svgrepo.com/show/313980/flag-usa-solid.svg\" alt=\"Made in USA Icon\">\n            Proudly Made in USA\n        </div>\n    </div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ss_scrolling_logo_cloud_BHjtcq": {
       "type": "ss-scrolling-logo-cloud",
       "blocks": {
@@ -139,12 +152,12 @@
         "pause_hover": false,
         "shadow": false,
         "sliders_mt": 32,
-        "logo_padding_top": 0,
+        "logo_padding_top": 32,
         "logo_padding_bottom": 0,
         "slider_gap": 30,
         "slider_gap_mobile": 30,
         "slider_direction": "left",
-        "icon_width": 150,
+        "icon_width": 200,
         "header_color": "#121212",
         "border_color": "#ffffff",
         "background-color": "#ffffff",
@@ -152,7 +165,7 @@
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 36,
-        "padding_bottom": 4,
+        "padding_bottom": 16,
         "full_width": true,
         "content_width": 120,
         "border_thickness": 0,
@@ -369,6 +382,7 @@
   },
   "order": [
     "slideshow_iPxVFx",
+    "custom_html_q6KahD",
     "ss_scrolling_logo_cloud_BHjtcq",
     "rich_text_YpGD3R",
     "featured-collection",
