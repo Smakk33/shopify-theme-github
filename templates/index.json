@@ -244,107 +244,64 @@
         "product_card_text_color": ""
       }
     },
-    "featured-product": {
-      "type": "featured-product",
+    "testimonials_cWtWj3": {
+      "type": "testimonials",
       "blocks": {
-        "liquid_Qxbnmt": {
-          "type": "liquid",
-          "disabled": true,
+        "testimonial_FfwpbP": {
+          "type": "testimonial",
           "settings": {
-            "liquid": "<div style=\"display: flex; gap: 10px; margin-bottom: 10px;\">\n  <!-- Badge 1: 8X SOLD-OUT -->\n  <div style=\"display: flex; align-items: center; justify-content: center; padding: 5px 10px; background-color: #f8f6e5; border-radius: 12px; font-size: 12px; font-weight: bold; color: #1b3153;\">\n    <span style=\"margin-right: 5px;\">🔥</span> 3X SOLD-OUT\n  </div>\n\n  <!-- Badge 2: ON SALE -->\n  <div style=\"display: flex; align-items: center; justify-content: center; padding: 5px 10px; background-color: #f8f6e5; border-radius: 12px; font-size: 12px; font-weight: bold; color: #1b3153;\">\n    REASSORT 100 UNITÉS\n  </div>\n</div>"
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         },
-        "title": {
-          "type": "title",
+        "testimonial_zbpm4T": {
+          "type": "testimonial",
           "settings": {
-            "heading_tag": "h2"
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         },
-        "badges": {
-          "type": "badges",
-          "disabled": true,
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
+        "testimonial_fkT7Xn": {
+          "type": "testimonial",
           "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "disabled": true,
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant-picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "color",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {}
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#c0282e",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
           }
         }
       },
       "block_order": [
-        "liquid_Qxbnmt",
-        "title",
-        "badges",
-        "price",
-        "rating",
-        "separator",
-        "description",
-        "variant-picker",
-        "quantity-selector",
-        "buy-buttons"
+        "testimonial_FfwpbP",
+        "testimonial_zbpm4T",
+        "testimonial_fkT7Xn"
       ],
+      "name": "Testimonials",
       "settings": {
         "full_width": false,
-        "product": "correcteur-pro-contours-des-levres-soin-anti-age",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "contained",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "faq": {
@@ -407,7 +364,7 @@
     "rich_text_YpGD3R",
     "featured-collection",
     "featured_collection_UQti4Q",
-    "featured-product",
+    "testimonials_cWtWj3",
     "faq"
   ]
 }
