@@ -559,6 +559,68 @@
         "spacing": "none"
       }
     },
+    "multi_column_PTVyFk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pHtig7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_c10844cf-08ce-4c23-8663-4c62f0f5855b.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>Fantastic is the best way to describe this amazing eyeliner. It glides on, it’s natural and subtle, with a soft look—not harsh like so many I’ve tried. And it stays put with no smudging or raccoon eyes. I even slept with it and my mascara on—neither one moved or ran. I’ll be buying it again. I got the black and just ordered the sapphire. Thank you, Prime, I’m really happy!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pnqaxT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_3.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>I really love this eyeliner! I've been using the same one for years and always liked it, but I think I love this one even more. It goes on super easily and doesn’t come off when I cry. I ordered two more to make sure I have backup later.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HKkmGH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_2d34ce8f-eaba-46eb-a39d-cf318070df86.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p>I absolutely loved my experience with this eyeliner. It glides on so smoothly, you won’t want to use anything else. The smudger and built-in sharpener are such helpful bonus tools.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pHtig7",
+        "item_pnqaxT",
+        "item_HKkmGH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Verified customer reviews",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -1049,6 +1111,7 @@
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
     "media_with_text_exinVG",
+    "multi_column_PTVyFk",
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
