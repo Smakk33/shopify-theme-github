@@ -28,7 +28,7 @@
         "liquid_acEgXV": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\" style=\"padding-top: 12px; padding-bottom: 12px;\">\n    <div class=\"trustpilot\">\n        <a style=\"display: flex; align-items: center;\" href=\"#shopify-section-template--16834633498880__4fa813d7-a43c-4acf-a3eb-021ace3a79b5\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0765/6738/0295/files/avis.avif?v=1689246924\" alt=\"Trustpilot Rating\" width=\"110\" height=\"25\" style=\"margin-right: 5px;\">\n            <span style=\"font-size: 16px; text-decoration: underline; text-underline-offset: 3px;\"><b></b> 4.8/5 (Excellent) | 1243 verified reviews</span>\n        </a>\n    </div>\n</div>"
+            "liquid": "<div class=\"product-info__liquid\" style=\"padding-top: 12px; padding-bottom: 12px;\">\n    <div class=\"trustpilot\">\n        <a style=\"display: flex; align-items: center;\" href=\"#shopify-section-template--16834633498880__4fa813d7-a43c-4acf-a3eb-021ace3a79b5\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0765/6738/0295/files/avis.avif?v=1689246924\" alt=\"Trustpilot Rating\" width=\"110\" height=\"25\" style=\"margin-right: 5px;\">\n            <span style=\"font-size: 11px; text-decoration: underline; text-underline-offset: 3px;\"><b></b> 4.8/5 (Excellent) | 1243 verified reviews</span>\n        </a>\n    </div>\n</div>"
           }
         },
         "liquid_FdYp49": {
@@ -511,6 +511,19 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
+      }
+    },
+    "custom_liquid_fppJ3k": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"features-section\">\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/hypoallergenic_icon_eae08cf9-7601-49e9-bc46-6e5c68285898.webp?v=1738319211\" alt=\"Easy & precise application\" class=\"feature-icon\">\n      <p class=\"feature-text\">Hypoallergenic</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/pH_png.webp?v=1738319210\" alt=\"Water-resistant and smudge-proof\" class=\"feature-icon\">\n      <p class=\"feature-text\">pH balanced</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/teste_par_les_ophtalmologist_2.webp?v=1738319455\" alt=\"Buildable, velvety, deep colors\" class=\"feature-icon\">\n      <p class=\"feature-text\">Ophthalmologist-tested</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-section {\n    display: flex;\n    justify-content: space-around;\n    padding: 5px 0;\n  }\n\n  .feature-item {\n    flex: 1;\n    display: flex;\n    justify-content: center;\n  }\n\n  .feature-content {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .feature-icon {\n    margin-bottom: 10px;\n    max-width: 50px;\n  }\n\n  .feature-text {\n    font-size: 14px; /* Taille de texte par défaut, que tu peux modifier */\n  }\n\n  .text-center {\n    text-align: center;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press_d49NgN": {
@@ -1000,6 +1013,7 @@
     "before_after_image_VyHEee",
     "rich_text_mXMeWG",
     "media_with_text_yArhtg",
+    "custom_liquid_fppJ3k",
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
