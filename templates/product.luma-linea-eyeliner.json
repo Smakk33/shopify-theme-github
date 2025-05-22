@@ -526,6 +526,39 @@
         "text_color": ""
       }
     },
+    "media_with_text_exinVG": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_RUa4Wx": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "How to apply Luma Linea?",
+            "content": "<p><strong>Shaky hands?</strong> Define small sections of your upper lash line at a time. The pigments glide on smoothly for a glossy, glamorous, uninterrupted finish.</p><p><strong>Let it set for 60 seconds.</strong> Luma Linea is buildable. Dial up the intensity exactly how you like it — from subtle to striking.</p><p><strong>Use the hidden sharpener</strong> to refine the tip. Dot along the lash line... it creates the illusion of longer, fuller lashes.</p><p><strong>Made a mistake?</strong> There’s no such thing. Just use the smudger to blend the pigment.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RUa4Wx"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -543,6 +576,7 @@
       "block_order": [
         "quote_RM84eb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -1014,6 +1048,7 @@
     "rich_text_mXMeWG",
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
+    "media_with_text_exinVG",
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
