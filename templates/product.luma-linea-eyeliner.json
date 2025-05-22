@@ -719,15 +719,14 @@
         "image_9khmqm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF3ok-ezgif.com-gif-to-webp-converter.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Turn heads with an even complexion and a beautifully defined, radiant lip contour.",
-            "content": "<p>This treatment smooths, plumps, and helps <strong>restore a more even, radiant lip contour.</strong><br/><br/><strong>Ideal for softening smoker’s lines, smile lines, and visibly smoothing signs of aging.</strong></p>",
+            "title": "The Luxury of a Liquid, in a Pencil.",
+            "content": "<p>Do you love the rich, velvety intensity of liquid liners—but dread the mess and precision it requires?</p><p>Luma Linea gives you the best of both worlds. A unique gel-cream texture.</p><p>It glides effortlessly over mature eyelids, delivering a vibrant, clean, uninterrupted line—no smudging, no skipping.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -741,7 +740,27 @@
         "image_iLMWJT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF2-ezgif.com-gif-to-webp-converter.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Water-Resistant & Long-Wearing",
+            "content": "<p>Water-resistant, but not harshly waterproof — to better respect sensitive eyes and lashes.<br/><br/>Non-drying, enriched with gentle conditioners. Stays put, even along the waterline. Your eyes will thank you.</p>",
+            "link_text": "ADD TO CART",
+            "link_url": "shopify://products/luma-linea-eyeliner",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_jipdcy": {
+          "type": "image",
+          "settings": {
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -763,7 +782,8 @@
       },
       "block_order": [
         "image_9khmqm",
-        "image_iLMWJT"
+        "image_iLMWJT",
+        "image_jipdcy"
       ],
       "custom_css": [
         ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 32px; /* Ajustez selon vos besoins */}"
