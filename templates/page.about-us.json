@@ -1,0 +1,143 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "rich_text_RDPEgn": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_4tHhnn": {
+          "type": "subheading",
+          "settings": {
+            "text": "A brand born from a glance. A connection. And a promise."
+          }
+        },
+        "heading_zi4PgH": {
+          "type": "heading",
+          "settings": {
+            "text": "The Story of Dermelect",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4tHhnn",
+        "heading_zi4PgH"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_V6gTA6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_mTVGyV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/story_dermalect.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p>5 years ago, a simple conversation between a mother and her daughter sparked something far greater than a skincare brand. At that moment, it wasn’t yet called Dermelect. It was just a quiet pause in time. A 30-year-old daughter – deep in her dermatology and science training.<br/>And a mother – 60, beautiful, bright, strong – but struggling to recognise herself in the mirror.</p><p>Not because she had changed. But because<strong> nothing on the beauty shelves seemed made for her.</strong></p><p>Skincare that felt too harsh. Too young. Too vague.<br/><br/>And the growing sense that everything was designed for oily skin or glowing twenty-somethings.<br/><br/>Not for her.<br/><br/>Not for the vertical lines around her mouth.<br/><br/>Not for the smile lines that hadn’t been \"earned\", despite years of caring for her skin, avoiding the sun, never smoking. So the daughter stopped everything. Her placements. Her degree. Her future plans.<br/><br/><strong>And took her mother’s hand.</strong></p><p>Together, they created Dermelect – a brand dedicated to mature women.<br/><br/>To overlooked lines and forgotten skin.<br/><br/>To all those left behind by marketing trends and empty promises.</p><p>Hand in hand, they researched, formulated, tested.<br/><br/>At home. Between themselves.<br/><br/>And soon, word spread.</p><p>A friend, a sister, a neighbour – then ten, then a hundred…<br/><br/>Each one sharing the name of a product that, finally, understood her skin. <strong>One that didn’t sting. Didn’t pull. Didn’t overpromise. Just comfort – and visible results</strong>, week after week.</p><p>Today, the shelves are fuller. The love letters keep arriving. And the story continues.<br/><br/>But the heart of it remains unchanged.</p><p><strong>Dermelect is still the promise</strong> born from a bond between two women:<br/><br/>A daughter who wanted her mother to feel beautiful again.<br/><br/>And a mother who dared to believe – just once more – that skincare could make a difference.</p><p><strong>Dermelect is that difference.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mTVGyV"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "featured_product_P68bxw": {
+      "type": "featured-product",
+      "blocks": {
+        "title_aFyNtp": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "description_rkeXQF": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "button_PJmXqb": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/correcteur-pro-contours-des-levres-soin-anti-age",
+            "text": "Discover",
+            "size": "lg",
+            "style": "fill",
+            "stretch": true,
+            "background": "#c0282e",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "title_aFyNtp",
+        "description_rkeXQF",
+        "button_PJmXqb"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "correcteur-pro-contours-des-levres-soin-anti-age",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_RDPEgn",
+    "media_with_text_V6gTA6",
+    "featured_product_P68bxw"
+  ]
+}
