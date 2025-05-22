@@ -183,6 +183,9 @@
         "heading_9cxrFJ",
         "richtext_br9JDF"
       ],
+      "custom_css": [
+        ".section-blends {margin-top: 0px; margin-bottom: 0px;}"
+      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
