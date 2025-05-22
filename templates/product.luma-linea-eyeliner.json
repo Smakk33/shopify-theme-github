@@ -621,6 +621,19 @@
         "text_color": ""
       }
     },
+    "custom_html_bqeDLE": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<!-- Lien pour importer la police Poppins depuis Google Fonts -->\n<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div class=\"colors-section\">\n  <h2 class=\"section-title\">Eight shades designed for mature women.</h2>\n  \n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/NOIR.webp?v=1727689848\" alt=\"KOHL\" class=\"color-image\">\n    <h3>KOHL</h3>\n    <p><strong>[Soft Black]</strong><br>For instant definition. Complements all eye colours.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Fumee.webp?v=1727689848\" alt=\"FUMÉE\" class=\"color-image\">\n    <h3>FUMÉE</h3>\n    <p><strong>[Charcoal]</strong><br>The perfect everyday look with a smoky touch.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Bois.webp?v=1727689848\" alt=\"WOOD\" class=\"color-image\">\n    <h3>WOOD</h3>\n    <p><strong>[Deep Brown]</strong><br>A subtle glow. Ideal for grey or hazel eyes.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Saphir.webp?v=1727689848\" alt=\"SAPHIR\" class=\"color-image\">\n    <h3>SAPPHIRE</h3>\n    <p><strong>[Jewel Blue]</strong><br>Makes eyes appear whiter and brighter. Enhances blue eyes beautifully.</p>\n  </div>\n  \n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Emeraude.webp?v=1727689848\" alt=\"EMERALD\" class=\"color-image\">\n    <h3>EMERALD</h3>\n    <p><strong>[Pure Green]</strong><br>Softly enhances the lash line.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Mocha.webp?v=1727689848\" alt=\"MOCHA\" class=\"color-image\">\n    <h3>MOCHA</h3>\n    <p><strong>[Rich Cocoa]</strong><br>A touch of shimmer for versatile everyday looks.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Cuivre.webp?v=1727689848\" alt=\"COPPER\" class=\"color-image\">\n    <h3>COPPER</h3>\n    <p><strong>[Warm Copper Brown]</strong><br>Adds a hint of glow for radiant-looking eyes.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Doree.webp?v=1727689847\" alt=\"GOLDEN\" class=\"color-image\">\n    <h3>GOLDEN</h3>\n    <p><strong>[Golden Bronze]</strong><br>Can be used across the entire lid for a soft shimmer.</p>\n  </div>\n</div>\n\n<style>\n  /* Appliquer la police Poppins à toute la section */\n  * {\n    font-family: 'Poppins', sans-serif;\n  }\n\n  .colors-section {\n    text-align: center;\n    padding: 20px;\n    display: grid;\n    grid-template-columns: repeat(2, 1fr); /* 2 colonnes pour mobile */\n    gap: 20px;\n  }\n\n  .section-title {\n    grid-column: 1 / -1; /* Pour que le titre occupe toute la largeur */\n    font-size: 24px;\n    margin-bottom: 20px;\n    font-weight: 600; /* Appliquer un poids de police plus important pour le titre */\n  }\n\n  .color-item {\n    margin-bottom: 20px;\n    padding: 10px;\n  }\n  \n  .color-image {\n    width: 100%;\n    max-width: 200px;\n    margin: 0 auto;\n    display: block;\n  }\n\n  h3 {\n    font-size: 18px;\n    color: #8D6FBD; /* Couleur du titre */\n    margin: 10px 0 5px;\n    font-weight: 600; /* Appliquer un poids de police plus important pour les sous-titres */\n  }\n\n  /* Modification de la couleur du texte spécifique à cette section */\n  .colors-section p {\n    font-size: 16px;\n    color: #333; /* Couleur spécifique pour les paragraphes de cette section */\n    font-weight: 400; /* Appliquer un poids de police normal pour le texte des paragraphes */\n  }\n\n  @media (min-width: 1024px) {\n    .colors-section {\n      grid-template-columns: repeat(4, 1fr); /* 4 colonnes pour desktop */\n    }\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -1112,6 +1125,7 @@
     "custom_liquid_fppJ3k",
     "media_with_text_exinVG",
     "multi_column_PTVyFk",
+    "custom_html_bqeDLE",
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
