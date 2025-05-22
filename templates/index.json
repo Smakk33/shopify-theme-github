@@ -153,97 +153,13 @@
         "lazy": true
       }
     },
-    "image_with_text_overlay_AhmwF3": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_P9itfp": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_LeWM9k": {
-          "type": "heading",
-          "settings": {
-            "text": "Elegant Skin. Empowered Age. Exceptional Care.",
-            "heading_tag": "h2"
-          }
-        },
-        "richtext_fyxhDb": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<p>Make-up & skincare for women who define their own prime.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_P9itfp",
-        "heading_LeWM9k",
-        "richtext_fyxhDb"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-04-15_a_16.45.28.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 20
-      }
-    },
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-1": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h3",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 3,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "numbers",
-        "transition_type": "fade_with_text",
-        "autoplay": true,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
-      }
-    },
     "rich_text_YpGD3R": {
       "type": "rich-text",
       "blocks": {
         "heading_9cxrFJ": {
           "type": "heading",
           "settings": {
-            "text": "Visible results. Renewed confidence – in just 4 weeks.",
+            "text": "Make-up & skincare for women who define their own prime.",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -251,6 +167,7 @@
         },
         "richtext_br9JDF": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p><br/>Our treatment works deep beneath <strong>the surface to smooth lip-line wrinkles</strong>, <strong>improve elasticity, and revive your skin’s natural glow.</strong> Day by day, your reflection becomes softer, brighter – and your confidence grows with every smile.<br/></p>"
           }
@@ -555,8 +472,6 @@
   "order": [
     "slideshow_iPxVFx",
     "ss_scrolling_logo_cloud_BHjtcq",
-    "image_with_text_overlay_AhmwF3",
-    "slideshow",
     "rich_text_YpGD3R",
     "image_link_blocks_F4tQfr",
     "impact-text",
