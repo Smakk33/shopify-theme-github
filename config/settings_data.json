@@ -37,7 +37,7 @@
     "text_font": "archivo_n4",
     "text_font_size_mobile": 14,
     "heading_apparition": "split_fade",
-    "color_swatch_config": "NOIR:#111111\nBOIS:#4E3639\nSAPHIR:#455166\nFUMÉE:#545859\nÉMERAUDE:#2B4735\nDORÉE:#8C7B5B\nCUIVRE:#B37A5E\nMOCHA:#664240\nBRUN FONCÉ:#583c3e\nBLEU MARINE:#4d5b73\nESTRELLA:#efccb9\nNEBULA:#74514c\nSTARDUST:#e3b9b1",
+    "color_swatch_config": "NOIR:#111111\nKOHL:#111111\nBOIS:#4E3639\nSAPHIR:#455166\nFUMÉE:#545859\nÉMERAUDE:#2B4735\nDORÉE:#8C7B5B\nCUIVRE:#B37A5E\nMOCHA:#664240\nBRUN FONCÉ:#583c3e\nBLEU MARINE:#4d5b73\nESTRELLA:#efccb9\nNEBULA:#74514c\nSTARDUST:#e3b9b1",
     "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
