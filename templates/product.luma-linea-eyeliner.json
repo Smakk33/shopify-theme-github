@@ -226,6 +226,7 @@
         },
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "What are the key ingredients?",
             "content": "<p>✨ <strong>Matrixyl 3000</strong><br/><br/>→ A powerful multi-peptide clinically proven to reduce the appearance of wrinkles and fine lines.</p><p>💧 <strong>Hyaluronic Filling Spheres</strong><br/><br/>→ Advanced technology that deeply boosts hydration for smoother, plumper-looking skin.</p><p>🍅 <strong>Retinol (0.1%)</strong><br/><br/>→ Pure vitamin A that helps reduce fine lines, improves skin tone and refines texture.</p><p>🌿 <strong>GABA</strong><br/><br/>→ Delivers an immediate tightening effect to visibly smooth expression lines and firm the lip contour.</p><p>✨ <strong>Arbutin</strong><br/><br/>→ A natural brightening agent derived from bearberry to even out and illuminate the skin.</p><p>💎 <strong>Collagen</strong><br/><br/>→ A powerful hydrator and humectant that leaves skin supple, plumped, and visibly younger.</p>",
@@ -243,6 +244,7 @@
         },
         "collapsible_text_TMJMhq": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "How soon will I see results?",
             "content": "<p>Most women notice a visible improvement in vertical lip lines and skin firmness around the mouth within<strong> 4 weeks </strong>of daily use. <br/><br/>Hydration and skin tone evenness often improve from the very first applications :<br/><br/>- <strong>Instant hydration</strong> from the first use<br/><br/>- <strong>Progressive results</strong> – the more consistently you use it, the smoother and firmer your skin feels over time</p>",
@@ -251,6 +253,7 @@
         },
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Does this product really work on deep wrinkles?",
             "content": "<p>Yes, it does. Thanks to its advanced formula enriched with <strong>peptides, retinol and hyaluronic acid</strong>, this treatment targets both early fine lines and deeper-set wrinkles – including those caused by smoking or repeated facial expressions.</p>",
@@ -259,6 +262,7 @@
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Is this treatment suitable for sensitive skin?",
             "content": "<p>Absolutely. It’s been carefully formulated without harsh irritants, making it suitable for sensitive skin. If you have any concerns, we recommend doing a small patch test before regular use – just to be sure.</p>",
@@ -267,6 +271,7 @@
         },
         "collapsible_text_AVwGFJ": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "How do I use this treatment as part of my daily routine – including under makeup?",
             "content": "<p>Apply <strong>morning and evening </strong>to clean, dry skin.<br/><br/><strong>Recommended routine:</strong><br/></p><ol><li><strong>Gently cleanse</strong> your skin and pat dry.</li><li><strong>Apply</strong> your serums (if using).</li><li><strong>Smooth </strong>on the Lip Line Corrector and allow it to absorb.</li><li><strong>Follow</strong> with your moisturiser and/or SPF (in the morning).<br/></li></ol><p><strong>Makeup tip:</strong><br/>Wait until the product is fully absorbed before applying foundation or lipstick.</p>",
