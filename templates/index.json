@@ -9,6 +9,70 @@
  */
 {
   "sections": {
+    "slideshow_iPxVFx": {
+      "type": "slideshow",
+      "blocks": {
+        "image_hFnxjE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre.png",
+            "mobile_image": "shopify://shop_images/1080x1350_meritage.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Elegant Skin. Empowered Age. Exceptional Care.",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_q6tpCi": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hFnxjE",
+        "image_q6tpCi"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "image_with_text_overlay_AhmwF3": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -38,6 +102,7 @@
         "heading_LeWM9k",
         "richtext_fyxhDb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
@@ -408,6 +473,7 @@
     }
   },
   "order": [
+    "slideshow_iPxVFx",
     "image_with_text_overlay_AhmwF3",
     "slideshow",
     "rich_text_YpGD3R",
