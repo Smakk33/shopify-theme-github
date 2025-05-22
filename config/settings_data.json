@@ -43,7 +43,7 @@
     "product_info_alignment": "start",
     "cart_type": "drawer",
     "cart_icon": "shopping_basket",
-    "cart_empty_button_link": "shopify://products/correcteur-pro-contours-des-levres-soin-anti-age",
+    "cart_empty_button_link": "shopify://collections",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "15",
     "checkout_accent_color": "#f0c417",
@@ -170,7 +170,7 @@
       ".h-stack {display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px;}",
       ".h-stack svg {width: 30px; height: 30px;}",
       ".product-info__buy-buttons .button {border-radius: 10px; padding: 12px 24px; font-size: 16px;}",
-      ".buy-buttons.buy-buttons--compact .button {background-color: #ab182b; border-radius: 10px; padding: 12px 24px; font-size: 16px;}",
+      ".buy-buttons.buy-buttons--compact .button {background-color: ##1a1a1a; border-radius: 10px; padding: 12px 24px; font-size: 16px;}",
       ".h-stack.grow.gap-2.sm\\:gap-2\\.5,.h-stack.gap-4.justify-between {justify-content: flex-start;}"
     ]
   }
