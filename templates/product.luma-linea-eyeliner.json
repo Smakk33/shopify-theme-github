@@ -78,6 +78,12 @@
             "text_color": "#94bac4"
           }
         },
+        "liquid_XbjCxh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">“I love this product. Applies like butter. Smooth. Flawless. Stays in place all day!”</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Susan, 61 years old</span>\n  </div>\n</div>"
+          }
+        },
         "liquid_FQpVrJ": {
           "type": "liquid",
           "settings": {
@@ -247,6 +253,7 @@
         "payment_terms",
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
+        "liquid_XbjCxh",
         "liquid_FQpVrJ",
         "description",
         "liquid_tTtDrq",
