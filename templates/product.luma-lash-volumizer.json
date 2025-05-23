@@ -127,6 +127,12 @@
             "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>ONLY 7 LEFT IN STOCK\n</p>"
           }
         },
+        "text_Bckm3K": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fuller, bolder, more defined lashes. LumaLash Volumizer is the thickening, lifting mascara mature women have been waiting for.</strong></p><p>It layers beautifully and separates every lash.</p><p><strong>No clumps. No smudging.</strong></p><p>Dreaming of spectacular, shiny, lively lashes?</p><p><strong>This is the one solution made for women over 50.</strong></p>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -155,12 +161,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Capture_d_ecran_2025-05-21_a_18.23.13.png?v=1747844636\" style=\"width: 100%; margin-bottom: 10px;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
-          }
-        },
-        "text_Bckm3K": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Tired of thin, sparse lashes and dull-looking eyes?<strong> </strong>We created a<strong> </strong><em><strong>pro-age mascara</strong></em><strong> designed specifically for mature women</strong> — and it might just earn you more compliments than you ever imagined.</p><p><strong>Years of research went into creating the perfect duo: </strong>A brush that catches even the tiniest lashes — no clumps, and a formula that lifts and thickens while supporting natural lash growth. pH balanced, 100% natural. No more irritation. No more panda eyes</p>"
           }
         },
         "liquid_tJpDht": {
@@ -273,11 +273,11 @@
         "liquid_tTtDrq",
         "quantity_selector",
         "liquid_wQNJEm",
+        "text_Bckm3K",
         "buy_buttons",
         "liquid_RWM9DH",
         "liquid_qaqar9",
         "liquid_Gb3mF3",
-        "text_Bckm3K",
         "liquid_tJpDht",
         "liquid_f9mADK",
         "liquid_hnaFAw",
