@@ -594,6 +594,46 @@
         "spacing": "none"
       }
     },
+    "rich_text_iV6BXn": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_BQR9rJ": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_JAbqQ7": {
+          "type": "heading",
+          "settings": {
+            "text": "Estrella, Nebula, Stardust — A closer look!",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_TEqfjV": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BQR9rJ",
+        "heading_JAbqQ7",
+        "richtext_TEqfjV"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "custom_liquid_Nd7kXb": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1064,6 +1104,7 @@
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
     "media_with_text_exinVG",
+    "rich_text_iV6BXn",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
     "multi_column_JY4g6c",
