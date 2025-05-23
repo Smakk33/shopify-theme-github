@@ -947,14 +947,7 @@
           "type": "item",
           "settings": {
             "title": "Is it easy to remove the mascara at the end of the day?",
-            "content": "<p>Even though our mascara is water-resistant and lasts all day — even through heat and intense activity — it's <strong>easy to remove after a long day</strong>.</p>"
-          }
-        },
-        "item_Tkcq9p": {
-          "type": "item",
-          "settings": {
-            "title": "What are the ingredients in LumaLash?",
-            "content": "<p><strong>LumaLash Mascara – Black</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Navy Blue</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, Ultramarine Blue, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Deep Brown</strong><br/><br/>• Aqua (Water), Carnauba Wax, Acrylates Copolymer, Synthetic Wax, Propylene Glycol, Glyceryl Stearate, Ethylhexyl Myristate, CI 77499, CI 77491, Carbomer, Phenoxyethanol, Methylparaben, Ethylparaben, Propylparaben.</p>"
+            "content": "<h4><strong>LumaLash Volumizer – Black</strong></h4><p>Aqua (Water), styrene/acrylates copolymer, synthetic candelilla wax, beeswax, polyvinyl alcohol, CI 77499, glycerin, stearic acid, glyceryl monostearate, cetostearyl alcohol, polysorbate 80, triethanolamine, hydroxyethylcellulose, methylparaben, propylparaben, fragrance</p><h4><strong>LumaLash Volumizer – Blue</strong></h4><p>Aqua (Water), styrene/acrylates copolymer, synthetic candelilla wax, beeswax, polyvinyl alcohol, ultramarine blue, CI 77499, glycerin, stearic acid, glyceryl monostearate, cetostearyl alcohol, polysorbate 80, triethanolamine, hydroxyethylcellulose, methylparaben, propylparaben, fragrance</p><h4><strong>LumaLash Volumizer – Brown</strong></h4><p>Aqua (Water), Copernicia Cerifera (Carnauba) Wax, acrylates copolymer, synthetic wax, propylene glycol, glyceryl stearate, ethylhexyl myristate, CI 77499, CI 77491, carbomer, phenoxyethanol, methylparaben, ethylparaben, propylparaben</p>"
           }
         }
       },
@@ -965,8 +958,7 @@
         "item_9w86PN",
         "item_U8BnMe",
         "item_i46BEY",
-        "item_mAaVEx",
-        "item_Tkcq9p"
+        "item_mAaVEx"
       ],
       "settings": {
         "full_width": true,
