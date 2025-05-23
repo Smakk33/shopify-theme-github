@@ -1132,15 +1132,8 @@
         "item_mAaVEx": {
           "type": "item",
           "settings": {
-            "title": "Is it easy to remove the mascara at the end of the day?",
-            "content": "<p>Even though our mascara is water-resistant and lasts all day — even through heat and intense activity — it's <strong>easy to remove after a long day</strong>.</p>"
-          }
-        },
-        "item_Tkcq9p": {
-          "type": "item",
-          "settings": {
-            "title": "What are the ingredients in LumaLash?",
-            "content": "<p><strong>LumaLash Mascara – Black</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Navy Blue</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, Ultramarine Blue, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Deep Brown</strong><br/><br/>• Aqua (Water), Carnauba Wax, Acrylates Copolymer, Synthetic Wax, Propylene Glycol, Glyceryl Stearate, Ethylhexyl Myristate, CI 77499, CI 77491, Carbomer, Phenoxyethanol, Methylparaben, Ethylparaben, Propylparaben.</p>"
+            "title": "How long does the product last on my eyelids?",
+            "content": "<p>Based on feedback from our testers, a single application of LumaBright can last up to 8 hours.</p>"
           }
         }
       },
@@ -1151,8 +1144,7 @@
         "item_9w86PN",
         "item_U8BnMe",
         "item_i46BEY",
-        "item_mAaVEx",
-        "item_Tkcq9p"
+        "item_mAaVEx"
       ],
       "settings": {
         "full_width": true,
