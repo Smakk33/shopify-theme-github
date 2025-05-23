@@ -266,6 +266,68 @@
         "product_card_text_color": ""
       }
     },
+    "multi_column_WRbryP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_GGVLqg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_km7hek9vcj_photo.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gHCBqg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_vw3gt4fh6c_photo.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kLg8aB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zeoob.com_mortazk0pk_photo.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_GGVLqg",
+        "item_gHCBqg",
+        "item_kLg8aB"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_cWtWj3": {
       "type": "testimonials",
       "blocks": {
@@ -387,6 +449,7 @@
     "rich_text_YpGD3R",
     "featured-collection",
     "featured_collection_UQti4Q",
+    "multi_column_WRbryP",
     "testimonials_cWtWj3",
     "faq"
   ]
