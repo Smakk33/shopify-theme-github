@@ -81,7 +81,7 @@
         "liquid_XbjCxh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">\"I was amazed by how well this mascara worked on my thinning lashes. I’m 59, but my lashes looked just like they used to! I tossed all my old mascaras — even Lancôme!\"</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Sandy, Luma Lash customer</span>\n  </div>\n</div>"
+            "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">\"Every penny is worth it. The LumaLash serum is simply miraculous. I’m getting used to waking up with no makeup… and still feeling beautiful. My lashes are longer and fuller than they were 20 years ago!\"</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Linda, LumaLash growth serum customer</span>\n  </div>\n</div>"
           }
         },
         "variant_picker": {
@@ -127,6 +127,12 @@
             "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>ONLY 7 LEFT IN STOCK\n</p>"
           }
         },
+        "text_Bckm3K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With LumaLash serum, care for your lashes <strong>like never before</strong>. A daily swipe of its gentle, growth-boosting formula works overnight. Wake up to <strong>a naturally enhanced gaze</strong>.</p><p>LumaLash transforms sparse, thin, or clumped lashes into long, dense, beautifully separated lashes — <strong>just like you always dreamed.</strong></p>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -155,12 +161,6 @@
           "type": "liquid",
           "settings": {
             "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Capture_d_ecran_2025-05-21_a_18.23.13.png?v=1747844636\" style=\"width: 100%; margin-bottom: 10px;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
-          }
-        },
-        "text_Bckm3K": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Tired of thin, sparse lashes and dull-looking eyes?<strong> </strong>We created a<strong> </strong><em><strong>pro-age mascara</strong></em><strong> designed specifically for mature women</strong> — and it might just earn you more compliments than you ever imagined.</p><p><strong>Years of research went into creating the perfect duo: </strong>A brush that catches even the tiniest lashes — no clumps, and a formula that lifts and thickens while supporting natural lash growth. pH balanced, 100% natural. No more irritation. No more panda eyes</p>"
           }
         },
         "liquid_tJpDht": {
@@ -273,11 +273,11 @@
         "liquid_tTtDrq",
         "quantity_selector",
         "liquid_wQNJEm",
+        "text_Bckm3K",
         "buy_buttons",
         "liquid_RWM9DH",
         "liquid_qaqar9",
         "liquid_Gb3mF3",
-        "text_Bckm3K",
         "liquid_tJpDht",
         "liquid_f9mADK",
         "liquid_hnaFAw",
