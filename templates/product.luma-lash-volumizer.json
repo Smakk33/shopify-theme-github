@@ -583,11 +583,33 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_BkWbdC": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Tapered brush for a spectacular curl",
+            "content": "<p><strong>Why do mature lashes droop?</strong><br/><br/>As we age, lashes grow straighter, thinner, and lose vitality.<br/><br/>This is a natural sign of lash aging.</p><p>The tapered brush of LumaLash Volumizer was made to change that.</p><p>Short bristles add density at the root by delivering maximum pigment,<br/><br/>while longer ones comb and separate each lash —<br/><br/>for a <strong>lifted, clump-free, subtly glossy</strong> result.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "image_RUa4Wx",
-        "image_tb9Aa9"
+        "image_tb9Aa9",
+        "image_BkWbdC"
       ],
       "settings": {
         "full_width": true,
