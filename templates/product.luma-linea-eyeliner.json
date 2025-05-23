@@ -763,7 +763,7 @@
           "type": "image",
           "settings": {
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
