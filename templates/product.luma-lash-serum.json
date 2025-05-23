@@ -461,8 +461,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Why has LumaLash Mascara won over thousands of mature women?",
-            "content": "<p><strong>1 – The magic brush</strong><br/><br/>Say goodbye to your biggest struggle: sparse lashes and brushes that miss them. LumaLash features a unique wand that grabs even the thinnest lashes and coats them all evenly.</p><p><strong>2 – Instant lift & length</strong><br/><br/>Its buildable formula transforms droopy lashes into bold, full fans. No dryness. No breakage. Just beautiful volume and lift.</p><p><strong>3 – Long-term lash care</strong><br/><br/>LumaLash is more than just mascara. It’s a lash treatment — enriched with high-quality ingredients that nourish lashes to make them look thicker and longer over time.</p>",
+            "title": "The lash booster mature women have been waiting for.",
+            "content": "<p><strong>YOU HAVE</strong><br/><br/>Thin, sparse, weakened lashes</p><p><strong>WE DELIVER</strong><br/><br/>A unique, vitamin-rich formula that stimulates growth</p><p><strong>THE RESULT</strong><br/><br/>Longer, fuller, stronger lashes — with just one swipe a day</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -487,6 +487,7 @@
     },
     "custom_liquid_fppJ3k": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
