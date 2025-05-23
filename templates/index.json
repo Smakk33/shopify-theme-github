@@ -213,11 +213,11 @@
       "settings": {
         "collection": "",
         "products": [
-          "luma-bright-eyeliner",
-          "luma-lash-mascara",
           "luma-linea-eyeliner",
-          "luma-lash-serum",
-          "luma-lash-volumizeur"
+          "luma-lash-mascara",
+          "luma-bright-eyeliner",
+          "luma-lash-volumizeur",
+          "luma-lash-serum"
         ],
         "full_width": true,
         "stack_products": true,
