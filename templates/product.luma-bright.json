@@ -693,6 +693,39 @@
         "text_color": ""
       }
     },
+    "media_with_text_6MRnkC": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7KbqPV": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "I'm 68. And these eyes have seen it all…",
+            "content": "<p>I thought nothing could surprise me anymore. But Luma Bright is a whole different story.<br/><br/>The moment I apply it, it instantly erases every trace of fatigue and dullness from my face.</p><p>It’s such a versatile product. I use it daily for a fresh boost — for special occasions or even when I’m feeling a little low.<br/><br/>A true game-changer!</p><p>– Michelle</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7KbqPV"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "custom_liquid_Nd7kXb": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1165,6 +1198,7 @@
     "media_with_text_exinVG",
     "rich_text_iV6BXn",
     "multi_column_mHN6Hh",
+    "media_with_text_6MRnkC",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
     "multi_column_JY4g6c",
