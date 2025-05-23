@@ -867,15 +867,8 @@
         "item_Tkcq9p": {
           "type": "item",
           "settings": {
-            "title": "Is Luma Linea waterproof?",
-            "content": "<p>Yes. Luma Linea is water-resistant. It doesn’t rely on waxes or heavy fibres to cling to your skin or lashes — instead, it repels moisture.</p><p>Oil and water don’t mix — and that’s the secret to bold, long-lasting pigment.</p>"
-          }
-        },
-        "item_j3wgBK": {
-          "type": "item",
-          "settings": {
-            "title": "I wear contact lenses. Can I use Luma Linea?",
-            "content": "<p>Absolutely. Luma Linea is gentle to the touch and doesn’t irritate the eyes — even if you wear contact lenses.</p>"
+            "title": "What are the ingredients in LumaLash?",
+            "content": "<p><strong>LumaLash Mascara – Black</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Navy Blue</strong><br/><br/>• Aqua (Water), Styrene/Acrylates Copolymer, Synthetic Candelilla Wax, Beeswax, Polyvinyl Alcohol, Ultramarine Blue, CI 77499, Glycerin, Stearic Acid, Glyceryl Monostearate, Cetearyl Alcohol, Polysorbate 80, Triethanolamine, Hydroxyethylcellulose, Methylparaben, Propylparaben, Fragrance.</p><p><strong>LumaLash Mascara – Deep Brown</strong><br/><br/>• Aqua (Water), Carnauba Wax, Acrylates Copolymer, Synthetic Wax, Propylene Glycol, Glyceryl Stearate, Ethylhexyl Myristate, CI 77499, CI 77491, Carbomer, Phenoxyethanol, Methylparaben, Ethylparaben, Propylparaben.</p>"
           }
         }
       },
@@ -887,8 +880,7 @@
         "item_U8BnMe",
         "item_i46BEY",
         "item_mAaVEx",
-        "item_Tkcq9p",
-        "item_j3wgBK"
+        "item_Tkcq9p"
       ],
       "settings": {
         "full_width": true,
