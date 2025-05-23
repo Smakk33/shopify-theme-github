@@ -932,15 +932,15 @@
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "Is it hypoallergenic?",
-            "content": "<p>Yes! LumaLash is specifically formulated to be hypoallergenic. It’s made for sensitive eyes and the delicate skin around them. Its unique formula contains no harsh chemicals or additives that commonly trigger eye reactions.</p><p>Unlike many mascaras that use oil-based formulas, LumaLash is water-based. We chose this formula because of its neutral pH, making it gentler for the fragile skin around your eyes.</p><p>LumaLash is made with pure, safe ingredients and is never tested on animals. Every ingredient is carefully selected so that even women with the most sensitive eyes can use it with confidence.</p><p>Mascara flaking is one of the leading causes of eye irritation — but LumaLash’s hydrating formula, combined with its brush, prevents that from happening.</p>"
+            "title": "Is the LumaLash Volumizer waterproof?",
+            "content": "<p>It is NOT waterproof, but it is water-resistant.</p><p><strong>What’s the difference?</strong></p><p>Waterproof mascaras contain harsh ingredients that can dry out and weaken lashes, especially after the age of 50. They’re also harder to remove.</p><p><strong>On the other hand, a water-resistant mascara like our LumaLash Volumizer will last all day and hold up through hot summer days, sweat, tears, rain, and any other situation where your eyes might water.</strong></p>"
           }
         },
         "item_i46BEY": {
           "type": "item",
           "settings": {
-            "title": "Is LumaLash Mascara waterproof?",
-            "content": "<p><strong>No, it’s NOT waterproof — but it is water-resistant.</strong></p><p><strong>What’s the difference?</strong><br/><br/>Waterproof mascaras often contain harsh ingredients that can dry out and weaken lashes, especially after age 50. They’re also notoriously hard to remove.</p><p><strong>In contrast, a water-resistant mascara like LumaLash lasts all day and stands up to heat, sweat, tears, rain, and any moment when your eyes might get moist.</strong></p>"
+            "title": "Is LumaLash tested on animals?",
+            "content": "<p>Absolutely not! LumaLash is 100% cruelty-free.</p>"
           }
         },
         "item_mAaVEx": {
