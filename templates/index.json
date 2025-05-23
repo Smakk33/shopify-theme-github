@@ -266,109 +266,50 @@
         "product_card_text_color": ""
       }
     },
-    "multi_column_WRbryP": {
-      "type": "multi-column",
-      "blocks": {
-        "item_GGVLqg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/zeoob.com_km7hek9vcj_photo.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_gHCBqg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/zeoob.com_vw3gt4fh6c_photo.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_kLg8aB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/zeoob.com_mortazk0pk_photo.png",
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_GGVLqg",
-        "item_gHCBqg",
-        "item_kLg8aB"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "testimonials_cWtWj3": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_fkT7Xn": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-05-23_a_12.02.34.png",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Evelyn P.",
+            "title": "",
+            "content": "<p>I wasn't sure about using shimmery eyeshadows at my age, but the reviews and photos convinced me to give it a try. I chose the shade Estrella and was pleasantly surprised by the result. The soft pearly beige really highlights my eyes and brightens up my blue gaze. It gives a refreshed, more awake look. It worked so well I actually got compliments on my eyes during a meeting! I'm hooked and can't wait to try more shades.</p>"
+          }
+        },
         "testimonial_FfwpbP": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-05-23_a_12.30.09.png",
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Lise T.",
+            "title": "",
+            "content": "<p>I started noticing vertical lines around my mouth over the past few years, and this is the first product l've tried that actually seems to soften them and make them less visible.</p>"
           }
         },
         "testimonial_zbpm4T": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-05-23_a_11.58.02.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_fkT7Xn": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Carole G.",
+            "title": "",
+            "content": "<p>Incredible! My lashes looked noticeably longer from the very first application. The brush separates each lash and gives a natural, elegant volume. No clumping - just perfect definition.</p>"
           }
         }
       },
       "block_order": [
+        "testimonial_fkT7Xn",
         "testimonial_FfwpbP",
-        "testimonial_zbpm4T",
-        "testimonial_fkT7Xn"
+        "testimonial_zbpm4T"
       ],
       "name": "Testimonials",
       "settings": {
@@ -449,7 +390,6 @@
     "rich_text_YpGD3R",
     "featured-collection",
     "featured_collection_UQti4Q",
-    "multi_column_WRbryP",
     "testimonials_cWtWj3",
     "faq"
   ]
