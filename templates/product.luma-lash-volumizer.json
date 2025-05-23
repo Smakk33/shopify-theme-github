@@ -562,10 +562,32 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_tb9Aa9": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Bold, clean finish — no clumps.",
+            "content": "<p>Say goodbye to spider lashes.<br/><br/>Its serum base is designed to layer smoothly, without overloading.</p><p>Stroke by stroke, you control the volume to suit your style.</p><p>No flakes. No clumps.</p><p>The water-resistant formula prevents smudging — even at the end of the day.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_RUa4Wx"
+        "image_RUa4Wx",
+        "image_tb9Aa9"
       ],
       "settings": {
         "full_width": true,
