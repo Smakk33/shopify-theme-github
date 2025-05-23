@@ -737,11 +737,33 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_Ct4Amj": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Leave powdery eyeshadows behind!",
+            "content": "<p>Unlike rough, chalky shadows that fade in a flash, <strong>LumaBright</strong> delivers a velvety, creamy base that lasts — and glows.</p><p>It never loses its shine… it boosts your eyelids’ radiance with every swipe.</p><p>Choose a subtle shimmer or go bold with brilliance — customize your glow.</p><p><strong>You’re in control of the final look.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "image_7KbqPV",
-        "image_iFEYJn"
+        "image_iFEYJn",
+        "image_Ct4Amj"
       ],
       "settings": {
         "full_width": true,
