@@ -783,6 +783,39 @@
         "text_color": ""
       }
     },
+    "media_with_text_bhciKM": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7CL3i3": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Your beauty is our priority.",
+            "content": "<p><strong>(If you're not satisfied, we’ll refund you.)</strong></p><p>You deserve to try LumaBright — no strings attached.</p><p>And we stand behind the technology that powers this formula with complete confidence.</p><p>Meritage is here to highlight your natural beauty — at every age.</p><p>If LumaBright doesn’t meet your expectations, let us know at <a>contact@luma-cosmetics.com</a></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7CL3i3"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -1244,6 +1277,7 @@
     "multi_column_mHN6Hh",
     "media_with_text_6MRnkC",
     "custom_liquid_Nd7kXb",
+    "media_with_text_bhciKM",
     "press_d49NgN",
     "multi_column_JY4g6c",
     "media_with_text_AJRELr",
