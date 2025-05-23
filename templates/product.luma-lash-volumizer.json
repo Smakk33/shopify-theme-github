@@ -551,8 +551,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "The wait is over. Finally — a mascara made for mature eyes! Women over 50, rejoice.",
-            "content": "<h4><strong>Goodbye empty promises. Hello real results.</strong></h4><p>LumaLash isn’t just about looking younger — it’s a lash-care formula in a tube that boosts growth and enhances the natural beauty of your lashes.</p><p><strong>Created by pro-age makeup experts, LumaLash will shave minutes off your makeup routine.</strong></p>",
+            "title": "Fuller lashes, without the overload.",
+            "content": "<p>LumaLash Volumizer doesn’t rely on a bulky brush to overwhelm your fine, sensitive lashes.</p><p>Its squalane-infused formula deeply hydrates and naturally supports lash thickness.</p><p>Thanks to its precision-fibre applicator, it delivers just the right amount of pigment —<br/><br/>for up to <strong>3× more volume</strong> with a clean, professional finish.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -574,6 +574,7 @@
     },
     "custom_liquid_Nd7kXb": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
