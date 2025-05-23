@@ -328,6 +328,19 @@
             "overlay_opacity": 0
           }
         },
+        "item_jpV97B": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/small_ASI-glamour-44de4c85b5af69889d3829b7b9187562_300x300_de0e9896-e38a-4437-92ea-7df8e0e6440c.webp",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_mG8pby": {
           "type": "item",
           "settings": {
@@ -383,6 +396,7 @@
       },
       "block_order": [
         "item_w8dHL7",
+        "item_jpV97B",
         "item_mG8pby",
         "item_wz6n8X",
         "item_yHFmwc",
