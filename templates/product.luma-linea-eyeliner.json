@@ -720,6 +720,7 @@
         "image_9khmqm": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Photo_Plusieurs_femmes_Luma_c75a9b61-08ac-4102-b034-b4b3ec42fa51_1.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
@@ -741,6 +742,7 @@
         "image_iLMWJT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Water_Crayon_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -762,6 +764,7 @@
         "image_jipdcy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/FONDA_LUMA_1.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
