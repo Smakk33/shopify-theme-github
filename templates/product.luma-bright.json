@@ -634,6 +634,65 @@
         "text_color": "#ffffff"
       }
     },
+    "multi_column_mHN6Hh": {
+      "type": "multi-column",
+      "blocks": {
+        "item_AhaFHT": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pfePa6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UfmXfX": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_AhaFHT",
+        "item_pfePa6",
+        "item_UfmXfX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_Nd7kXb": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1105,6 +1164,7 @@
     "custom_liquid_fppJ3k",
     "media_with_text_exinVG",
     "rich_text_iV6BXn",
+    "multi_column_mHN6Hh",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
     "multi_column_JY4g6c",
