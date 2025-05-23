@@ -403,6 +403,46 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_AQpN3R": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8iR8ec": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_qiy7Hi": {
+          "type": "heading",
+          "settings": {
+            "text": "Glides like a dream. Easy to apply. Instant lifting effect.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_AMGxDM": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8iR8ec",
+        "heading_qiy7Hi",
+        "richtext_AMGxDM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "before_after_image_VyHEee": {
       "type": "before-after-image",
       "disabled": true,
@@ -995,6 +1035,7 @@
   "order": [
     "main",
     "image_link_blocks_qGzYLJ",
+    "rich_text_AQpN3R",
     "before_after_image_VyHEee",
     "rich_text_mXMeWG",
     "media_with_text_yArhtg",
