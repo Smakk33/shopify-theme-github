@@ -544,130 +544,6 @@
         "text_color": ""
       }
     },
-    "multi_column_PTVyFk": {
-      "type": "multi-column",
-      "blocks": {
-        "item_pHtig7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_3.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>Fantastic is the best way to describe this amazing eyeliner. It glides on, it’s natural and subtle, with a soft look—not harsh like so many I’ve tried. And it stays put with no smudging or raccoon eyes. I even slept with it and my mascara on—neither one moved or ran. I’ll be buying it again. I got the black and just ordered the sapphire. Thank you, Prime, I’m really happy!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_pnqaxT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_3.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>I really love this eyeliner! I've been using the same one for years and always liked it, but I think I love this one even more. It goes on super easily and doesn’t come off when I cry. I ordered two more to make sure I have backup later.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_HKkmGH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_2d34ce8f-eaba-46eb-a39d-cf318070df86.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p>I absolutely loved my experience with this eyeliner. It glides on so smoothly, you won’t want to use anything else. The smudger and built-in sharpener are such helpful bonus tools.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_pHtig7",
-        "item_pnqaxT",
-        "item_HKkmGH"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Verified customer reviews",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_html_bqeDLE": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<!-- Lien pour importer la police Poppins depuis Google Fonts -->\n<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap\" rel=\"stylesheet\">\n\n<div class=\"colors-section\">\n  <h2 class=\"section-title\">Eight shades designed for mature women.</h2>\n  \n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/NOIR.webp?v=1727689848\" alt=\"KOHL\" class=\"color-image\">\n    <h3>KOHL</h3>\n    <p><strong>[Soft Black]</strong><br>For instant definition. Complements all eye colours.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Fumee.webp?v=1727689848\" alt=\"FUMÉE\" class=\"color-image\">\n    <h3>FUMÉE</h3>\n    <p><strong>[Charcoal]</strong><br>The perfect everyday look with a smoky touch.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Bois.webp?v=1727689848\" alt=\"WOOD\" class=\"color-image\">\n    <h3>WOOD</h3>\n    <p><strong>[Deep Brown]</strong><br>A subtle glow. Ideal for grey or hazel eyes.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Saphir.webp?v=1727689848\" alt=\"SAPHIR\" class=\"color-image\">\n    <h3>SAPPHIRE</h3>\n    <p><strong>[Jewel Blue]</strong><br>Makes eyes appear whiter and brighter. Enhances blue eyes beautifully.</p>\n  </div>\n  \n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Emeraude.webp?v=1727689848\" alt=\"EMERALD\" class=\"color-image\">\n    <h3>EMERALD</h3>\n    <p><strong>[Pure Green]</strong><br>Softly enhances the lash line.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Mocha.webp?v=1727689848\" alt=\"MOCHA\" class=\"color-image\">\n    <h3>MOCHA</h3>\n    <p><strong>[Rich Cocoa]</strong><br>A touch of shimmer for versatile everyday looks.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Cuivre.webp?v=1727689848\" alt=\"COPPER\" class=\"color-image\">\n    <h3>COPPER</h3>\n    <p><strong>[Warm Copper Brown]</strong><br>Adds a hint of glow for radiant-looking eyes.</p>\n  </div>\n\n  <div class=\"color-item\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/Doree.webp?v=1727689847\" alt=\"GOLDEN\" class=\"color-image\">\n    <h3>GOLDEN</h3>\n    <p><strong>[Golden Bronze]</strong><br>Can be used across the entire lid for a soft shimmer.</p>\n  </div>\n</div>\n\n<style>\n  /* Appliquer la police Poppins à toute la section */\n  * {\n    font-family: 'Poppins', sans-serif;\n  }\n\n  .colors-section {\n    text-align: center;\n    padding: 20px;\n    display: grid;\n    grid-template-columns: repeat(2, 1fr); /* 2 colonnes pour mobile */\n    gap: 20px;\n  }\n\n  .section-title {\n    grid-column: 1 / -1; /* Pour que le titre occupe toute la largeur */\n    font-size: 24px;\n    margin-bottom: 20px;\n    font-weight: 600; /* Appliquer un poids de police plus important pour le titre */\n  }\n\n  .color-item {\n    margin-bottom: 20px;\n    padding: 10px;\n  }\n  \n  .color-image {\n    width: 100%;\n    max-width: 200px;\n    margin: 0 auto;\n    display: block;\n  }\n\n  h3 {\n    font-size: 18px;\n    color: #8D6FBD; /* Couleur du titre */\n    margin: 10px 0 5px;\n    font-weight: 600; /* Appliquer un poids de police plus important pour les sous-titres */\n  }\n\n  /* Modification de la couleur du texte spécifique à cette section */\n  .colors-section p {\n    font-size: 16px;\n    color: #333; /* Couleur spécifique pour les paragraphes de cette section */\n    font-weight: 400; /* Appliquer un poids de police normal pour le texte des paragraphes */\n  }\n\n  @media (min-width: 1024px) {\n    .colors-section {\n      grid-template-columns: repeat(4, 1fr); /* 4 colonnes pour desktop */\n    }\n  }\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_XaqVYp": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  .steps-container {\n    display: flex;\n    justify-content: center;\n    align-items: flex-start; /* Aligne les images et les textes en haut */\n    gap: 40px;\n    text-align: center;\n    flex-wrap: nowrap; /* Empêche l'empilement sur mobile */\n  }\n\n  .step {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    width: 150px; /* Fixe une largeur pour un meilleur alignement */\n  }\n\n  .step img {\n    width: 60px;\n    height: 60px;\n    margin-bottom: 10px;\n  }\n\n  .step-text {\n    font-size: 16px;\n    font-weight: bold;\n    color: #000;\n  }\n\n  /* Réglages pour les petits écrans */\n  @media (max-width: 768px) {\n    .steps-container {\n      flex-direction: row;\n      justify-content: space-around; /* Garde les éléments bien espacés sur mobile */\n      gap: 20px;\n    }\n\n    .step {\n      width: 100px; /* Ajuste la largeur des éléments sur mobile pour les aligner correctement */\n    }\n\n    .step img {\n      width: 50px;\n      height: 50px;\n    }\n\n    .step-text {\n      font-size: 14px;\n    }\n  }\n</style>\n\n<div class=\"steps-container\">\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/1_Numbers_MRS.avif?v=1727691471\" alt=\"Step 1\">\n    <div class=\"step-text\">Choose the shade that suits you</div>\n  </div>\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/2_Numbers_MRS.avif?v=1727691361\" alt=\"Step 2\">\n    <div class=\"step-text\">Select it from the colour picker (near the gallery)</div>\n  </div>\n  <div class=\"step\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/3_Numbers_MRS.avif?v=1727691470\" alt=\"Step 3\">\n    <div class=\"step-text\">Add it to your cart</div>\n  </div>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "impact_text_hGR39G": {
-      "type": "impact-text",
-      "blocks": {
-        "item_DpaT64": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "",
-            "content": "<h2>More than just a line... This eyeliner experience will help you feel confident again.</h2>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_DpaT64"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "heading_text_color": "#ffffff",
-        "heading_gradient": "",
-        "text_color": "#ffffff",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -696,99 +572,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "media_with_text_XgGpQw": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_9khmqm": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "The Luxury of a Liquid, in a Pencil.",
-            "content": "<p>Do you love the rich, velvety intensity of liquid liners—but dread the mess and precision it requires?</p><p>Luma Linea gives you the best of both worlds. A unique gel-cream texture.</p><p>It glides effortlessly over mature eyelids, delivering a vibrant, clean, uninterrupted line—no smudging, no skipping.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "image_iLMWJT": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Water-Resistant & Long-Wearing",
-            "content": "<p>Water-resistant, but not harshly waterproof — to better respect sensitive eyes and lashes.<br/><br/>Non-drying, enriched with gentle conditioners. Stays put, even along the waterline. Your eyes will thank you.</p>",
-            "link_text": "ADD TO CART",
-            "link_url": "shopify://products/luma-linea-eyeliner",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
-        "image_jipdcy": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Kind to Lids and Lashes",
-            "content": "<p>Gentle conditioners nourish sensitive lashes to support healthy growth. Tested on women over 50—and by ophthalmologists.</p><p><strong>High-quality pigments that are safe for your eyes.</strong></p><p>Hypoallergenic. pH-balanced. Cruelty-free.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_9khmqm",
-        "image_iLMWJT",
-        "image_jipdcy"
-      ],
-      "custom_css": [
-        ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 32px; /* Ajustez selon vos besoins */}"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
-      }
-    },
-    "custom_liquid_mNqg7K": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"features-section\">\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/hypoallergenic_icon_eae08cf9-7601-49e9-bc46-6e5c68285898.webp?v=1738319211\" alt=\"Easy & precise application\" class=\"feature-icon\">\n      <p class=\"feature-text\">Hypoallergenic</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/pH_png.webp?v=1738319210\" alt=\"Water-resistant and smudge-proof\" class=\"feature-icon\">\n      <p class=\"feature-text\">pH balanced</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/teste_par_les_ophtalmologist_2.webp?v=1738319455\" alt=\"Buildable, velvety, deep colors\" class=\"feature-icon\">\n      <p class=\"feature-text\">Ophthalmologist-tested</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-section {\n    display: flex;\n    justify-content: space-around;\n    padding: 5px 0;\n  }\n\n  .feature-item {\n    flex: 1;\n    display: flex;\n    justify-content: center;\n  }\n\n  .feature-content {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .feature-icon {\n    margin-bottom: 10px;\n    max-width: 50px;\n  }\n\n  .feature-text {\n    font-size: 14px; /* Taille de texte par défaut, que tu peux modifier */\n  }\n\n  .text-center {\n    text-align: center;\n  }\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "multi_column_JY4g6c": {
@@ -1035,8 +818,8 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "Is Luma Linea a liquid or a pencil?",
-            "content": "<p>Luma Linea has a unique gel-cream texture. It behaves like a pencil — easy to hold, apply, and control. It doesn’t budge. But it delivers pigment like a liquid — in clean, precise lines. Generous, vibrant, silky.</p>"
+            "title": "Does LumaLash mascara really work?",
+            "content": "<p><strong>LumaLash is the only mascara in the world designed to care for mature lashes. Let us explain what that means.</strong></p><p>With traditional mascara, lashes get coated and stiffened with pigment. The “volume” mostly comes from product buildup — more layers make lashes look longer.</p><p>But that leads to problems:</p><ul><li>Harsh mascara formulas dry out already fine and fragile lashes.</li><li>Double or triple coats are hard to remove — especially if waterproof.</li><li>Too much pigment leads to clumping and dreaded panda eyes (black smudges under the eyes).</li></ul><p></p><p>LumaLash takes a different approach:</p><ol><li>It combs and separates thinning lashes.</li><li>The applicator delivers just the right amount of pigment to coat each lash evenly — no clumps.</li><li>The formula nourishes your lashes with essential vitamins and hydration, instantly adding up to 20x more length (with just two light coats).</li><li>Plant oils deliver bioactive nutrients that help repair lash damage throughout the day — while still giving you stunning lashes.</li><li>It’s pH-balanced, hypoallergenic, vegan, and cruelty-free.</li></ol><p><strong>In short, LumaLash is made for women of all backgrounds — whether you're 50, 60, 70 or beyond.</strong></p>"
           }
         },
         "item_wB8JVQ": {
@@ -1226,13 +1009,7 @@
     "custom_liquid_fppJ3k",
     "media_with_text_exinVG",
     "custom_liquid_Nd7kXb",
-    "multi_column_PTVyFk",
-    "custom_html_bqeDLE",
-    "custom_liquid_XaqVYp",
-    "impact_text_hGR39G",
     "press_d49NgN",
-    "media_with_text_XgGpQw",
-    "custom_liquid_mNqg7K",
     "multi_column_JY4g6c",
     "media_with_text_AJRELr",
     "related-products",
