@@ -499,6 +499,46 @@
         "text_color": ""
       }
     },
+    "rich_text_ckmdTe": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PfXnif": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_GDqBJ4": {
+          "type": "heading",
+          "settings": {
+            "text": "Visible results, backed by science.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_AMBKJt": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PfXnif",
+        "heading_GDqBJ4",
+        "richtext_AMBKJt"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "media_with_text_exinVG": {
       "type": "media-with-text",
       "blocks": {
@@ -1000,6 +1040,7 @@
     "rich_text_mXMeWG",
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
+    "rich_text_ckmdTe",
     "media_with_text_exinVG",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
