@@ -527,6 +527,7 @@
     },
     "custom_liquid_fppJ3k": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -550,8 +551,29 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "The wait is over. Finally — a mascara made for mature eyes! Women over 50, rejoice.",
-            "content": "<h4><strong>Goodbye empty promises. Hello real results.</strong></h4><p>LumaLash isn’t just about looking younger — it’s a lash-care formula in a tube that boosts growth and enhances the natural beauty of your lashes.</p><p><strong>Created by pro-age makeup experts, LumaLash will shave minutes off your makeup routine.</strong></p>",
+            "title": "Almost magical. Your key to youthful-looking eyes",
+            "content": "<p>Ditch the dusty powder shadows — <strong>LumaBright Eyeliner</strong> brings a soft touch of glamour with buildable radiance.</p><p><strong>Brightening shades</strong><br/><br/>Erase signs of fatigue, dullness, and stress.</p><p><strong>Visible lift</strong><br/><br/>Apply to your eyelids and inner corners. Enjoy an instant lifting effect.</p><p><strong>Nourishing formula</strong><br/><br/>Jojoba oil revitalizes tired, wrinkled skin around mature eyes.</p><p><strong>Lightweight, flawless wear</strong><br/><br/>Stays put with no smudging or shifting. Just like it did 20 years ago!</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_DNdykT": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The most complete eye makeup.",
+            "content": "<h4>Flawless finish. Ultimate versatility.</h4><p>– <strong>LumaBright</strong> gives your lids a boost. It wakes up tired eyes.</p><p>– The perfect touch of radiance for silver queens. Looking for a lid tint made for 50+? This is the one.</p><p>– Doubles as a highlighter. Use it on your eyelids, cheekbones, or Cupid’s bow.</p><p>– Erases signs of fatigue, dullness, and stress. Your eyelids love the jojoba-infused formula that softens fine lines and wrinkles.</p><p>– All this… in just 20 seconds. No technical fuss. One swipe, one tap, and you’re ready to shine.</p><h4>Lifted. Luminous. Radiant.</h4>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -564,7 +586,8 @@
         }
       },
       "block_order": [
-        "image_RUa4Wx"
+        "image_RUa4Wx",
+        "image_DNdykT"
       ],
       "settings": {
         "full_width": true,
