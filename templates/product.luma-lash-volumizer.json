@@ -568,6 +568,7 @@
         "image_tb9Aa9": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/TRAIT_VOLUMIZEUR_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -589,6 +590,7 @@
         "image_BkWbdC": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Prod_bross_webp_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
