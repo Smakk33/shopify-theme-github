@@ -705,6 +705,7 @@
         "image_7KbqPV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PrimeEyes_Brightener_Review_02.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
