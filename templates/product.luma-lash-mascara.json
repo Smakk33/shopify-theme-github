@@ -526,6 +526,7 @@
         "image_4B6Qtp": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS_5f92d809-f666-4e1c-a441-f5b695a50c3e.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
