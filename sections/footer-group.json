@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "About us",
-            "content": "<p><strong>Opening hours:</strong><br/>Monday to Friday: 9am – 8pm</p><p><strong>Contact:</strong><br/>📧 Email: contact@meritage.com</p>",
+            "content": "<p><strong>Opening hours:</strong><br/>Monday to Friday: 9am – 8pm</p><p><strong>Contact:</strong><br/>📧 Email: support@trymeritage.com</p>",
             "enable_follow_on_shop": false
           }
         },
