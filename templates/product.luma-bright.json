@@ -1193,6 +1193,38 @@
         "text_color": ""
       }
     },
+    "featured_collection_EaCiKd": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "luma-linea-eyeliner",
+          "luma-lash-mascara",
+          "luma-lash-serum",
+          "luma-lash-volumizeur",
+          "pro-lip-contour-corrector-age-defying-perioral-care"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like :",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "1736349541b004fa39": {
       "type": "apps",
       "settings": {
@@ -1302,6 +1334,7 @@
     "timeline_3CKt7W",
     "faq_FLiQH6",
     "custom_liquid_Eakmt9",
+    "featured_collection_EaCiKd",
     "1736349541b004fa39",
     "ss_product_countdown_timer_2_FJgP8B"
   ]
