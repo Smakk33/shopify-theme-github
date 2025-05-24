@@ -44,6 +44,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -84,17 +85,6 @@
             "liquid": "<div class=\"rte mb-2\">\n  <div class=\"product__featured-review quotes-area text-lg py-2 px-4\" style=\"background-color: #f1e9ff;\">\n    <p style=\"font-weight: bold; font-size: 15px;\">\"My lashes were so thin and droopy. Classic mascaras clumped up by the second coat. LumaLash Volumizer is a real breakthrough — it thickens, lifts, and adds colour like never before. I can layer it as much as I want and never get panda eyes. The result is amazing!\"</p>\n    <span class=\"mt-2 text-sm\" style=\"font-weight: normal; font-size: 14px;\">- Laurianne, LumaLash customer</span>\n  </div>\n</div>"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
-        },
         "liquid_FQpVrJ": {
           "type": "liquid",
           "disabled": true,
@@ -131,6 +121,17 @@
           "type": "text",
           "settings": {
             "text": "<p><strong>Fuller, bolder, more defined lashes. LumaLash Volumizer is the thickening, lifting mascara mature women have been waiting for.</strong></p><p>It layers beautifully and separates every lash.</p><p><strong>No clumps. No smudging.</strong></p><p>Dreaming of spectacular, shiny, lively lashes?</p><p><strong>This is the one solution made for women over 50.</strong></p>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
           }
         },
         "buy_buttons": {
@@ -267,13 +268,13 @@
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
         "liquid_XbjCxh",
-        "variant_picker",
         "liquid_FQpVrJ",
         "description",
         "liquid_tTtDrq",
         "quantity_selector",
         "liquid_wQNJEm",
         "text_Bckm3K",
+        "variant_picker",
         "buy_buttons",
         "liquid_RWM9DH",
         "liquid_qaqar9",
