@@ -643,10 +643,11 @@
         "item_AhaFHT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/40_0f2cbe3a-b287-40f7-866e-57e3f1f345f9.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -655,10 +656,11 @@
         "item_pfePa6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/39_2ac0e192-fc23-46db-948c-15fa944ba832.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -667,10 +669,11 @@
         "item_UfmXfX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT-_CANADA-ANGLAIS_-_2_d79f92ea-dc18-433d-8574-b733960b5bf9.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
