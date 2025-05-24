@@ -727,6 +727,7 @@
         "image_iFEYJn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/41_b13654aa-1181-466b-8a11-9bd74ede6972.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
