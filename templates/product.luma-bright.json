@@ -495,6 +495,7 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT-_CANADA-ANGLAIS_-_5.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
