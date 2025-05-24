@@ -608,12 +608,35 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_wbcbrT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Prod_bross_webp_1.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Your beauty is our priority.",
+            "content": "<p>If LumaLash doesn’t work for you, we’ll refund you. No questions asked.</p><p>You deserve to try our products with confidence — that’s why we fully stand behind our formula, made with tested and proven ingredients.</p><p>At MERITAGE, our mission is simple: to help you enhance your natural beauty, at every stage of life.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "image_RUa4Wx",
         "image_tb9Aa9",
-        "image_BkWbdC"
+        "image_BkWbdC",
+        "image_wbcbrT"
       ],
       "settings": {
         "full_width": true,
