@@ -546,6 +546,7 @@
         "image_RUa4Wx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/avant_apres_photo_1.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
