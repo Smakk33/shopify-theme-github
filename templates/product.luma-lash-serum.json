@@ -764,6 +764,7 @@
       "block_order": [
         "image_j9qUTp"
       ],
+      "disabled": true,
       "custom_css": [
         ".media-with-text__content {padding-top: 2px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
       ],
