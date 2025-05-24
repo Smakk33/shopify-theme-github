@@ -456,6 +456,7 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS_1_d1417862-214b-4e5f-988c-1a7b3d7e2641.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
