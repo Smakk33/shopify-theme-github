@@ -789,6 +789,7 @@
         "image_7CL3i3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS_ad696d1c-301a-4906-8414-c42564c94702.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
