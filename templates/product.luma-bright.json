@@ -568,6 +568,7 @@
         "image_DNdykT": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/37_50f13161-de66-4572-85c9-642266771991.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
