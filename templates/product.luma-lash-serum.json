@@ -455,6 +455,7 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/APPLISERUM_6132d705-295a-413d-a0dc-374a12bd2d84.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -505,6 +506,7 @@
         "image_RUa4Wx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS_4.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
