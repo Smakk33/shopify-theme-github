@@ -506,6 +506,7 @@
         "image_RUa4Wx": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/32_2b3f6da8-0cdc-41fb-9e66-1e7904fa25aa.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
