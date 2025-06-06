@@ -541,11 +541,34 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_tRDj9f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NNM_NoMoreBaggage_6663963007754_05.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "HOW TO",
+            "title": "GET THE BEST RESULTS",
+            "content": "<p>Use as part of your daily morning routine</p><h3>STEP 1 - USE EYE MOISTURIZER</h3><p>We recommend using an eye moisturizer before applying No More Baggage. </p><h3>STEP 2 - WARM BETWEEN FINGERS</h3><p>Warm a tiny amount between fingers.</p><h3>STEP 3 - PAT (DO NOT RUB) ON SKIN</h3><p>Gently pat (do not rub) directly on completely dry eye area with bags and dark circles. Let the product dry for approximately 3 to 5 minutes</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
         "image_K7RXjJ",
-        "image_G7LNUg"
+        "image_G7LNUg",
+        "image_tRDj9f"
       ],
       "settings": {
         "full_width": true,
