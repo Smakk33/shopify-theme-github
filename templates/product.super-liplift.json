@@ -174,6 +174,22 @@
             "page": ""
           }
         },
+        "collapsible_text_HF9Kq4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "HOW IT WORKS",
+            "content": "<p>When medical-grade silicone is placed on skin, it creates a healing microclimate that deeply hydrates and visibly smooths wrinkles. Known as occlusion, this closed environment seals in moisture, intensely hydrating and plumping up the appearance of lines. At the same time, Meritage patches provide gentle compression that helps to flatten out existing wrinkles and prevent new ones from forming.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_haKtyA": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "INGREDIENTS",
+            "content": "<p>100% medical grade silicone100% medical grade silicone</p>",
+            "page": ""
+          }
+        },
         "liquid_tJpDht": {
           "type": "liquid",
           "disabled": true,
@@ -290,6 +306,8 @@
         "liquid_Gb3mF3",
         "collapsible_text_wMfAWE",
         "collapsible_text_e8GaBW",
+        "collapsible_text_HF9Kq4",
+        "collapsible_text_haKtyA",
         "liquid_tJpDht",
         "liquid_f9mADK",
         "liquid_hnaFAw",
