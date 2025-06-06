@@ -158,6 +158,22 @@
             "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Capture_d_ecran_2025-05-21_a_18.23.13.png?v=1747844636\" style=\"width: 100%; margin-bottom: 10px;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
           }
         },
+        "collapsible_text_wMfAWE": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "DETAILS",
+            "content": "<p>When you use this easy lip wrinkle treatment at home, you’ll see a smoother-looking lip area naturally.</p><p>WHAT'S INCLUDED</p><ul><li>1 pair of Super LipLift patches (2 patches total) or 2 pairs (4 patches total)</li><li>Reusable up to 10x</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_e8GaBW": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "HOW TO USE",
+            "content": "<ul><li>Make sure your skin is clean and dry. Do not apply any skincare products to the area where you will apply the patch.</li><li>Peel off the plastic film and apply the patch. Wear overnight or for a few hours during the day.</li><li>To remove, hold skin taut with one hand and use the other hand to gently remove the patch.</li><li>Place the patch back on the storage shield (adhesive side down) and store in the resealable pouch. </li><li>You can rinse the patch with water as needed to clean or restore adhesion.</li></ul>",
+            "page": ""
+          }
+        },
         "liquid_tJpDht": {
           "type": "liquid",
           "disabled": true,
@@ -272,6 +288,8 @@
         "liquid_RWM9DH",
         "liquid_qaqar9",
         "liquid_Gb3mF3",
+        "collapsible_text_wMfAWE",
+        "collapsible_text_e8GaBW",
         "liquid_tJpDht",
         "liquid_f9mADK",
         "liquid_hnaFAw",
