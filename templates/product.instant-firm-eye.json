@@ -525,7 +525,7 @@
           "settings": {
             "image": "shopify://shop_images/NNM_NoMoreBaggage_6663963007754_05.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -660,7 +660,7 @@
           "settings": {
             "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
