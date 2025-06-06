@@ -543,31 +543,71 @@
         "overlay_opacity": 31
       }
     },
+    "multi_column_33JGrR": {
+      "type": "multi-column",
+      "blocks": {
+        "item_YT8qWm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1-ezgif.com-gif-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "PREPARE THE AREA",
+            "heading_tag": "h4",
+            "content": "<p>Ensure your skin is clean and dry.  Don’t apply any skincare products to the area where the patch will go.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mTgABE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2-ezgif.com-gif-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "WEAR THE PATCH",
+            "heading_tag": "h4",
+            "content": "<p>When using the patch for the first time, remove the plastic film. Apply the patch and wear overnight (or for a few hours). To remove, gently peel off the patch.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FKWHgb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3-ezgif.com-gif-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "STORE & MAINTAIN",
+            "heading_tag": "h4",
+            "content": "<p>Place patch on the storage shield (adhesive side down) and store in its resealable pouch. If adhesive needs cleaning, rinse with water and air dry.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_YT8qWm",
+        "item_mTgABE",
+        "item_FKWHgb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "HOW TO USE",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_exinVG": {
       "type": "media-with-text",
       "blocks": {
-        "image_RUa4Wx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/PRODUIT_CANADA_ANGLAIS_4.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Effortless lashes, naturally beautiful.",
-            "content": "<p>LumaLash serum naturally stimulates lash growth — no more extensions or mascara primers needed.</p><p>Packed with vitamins, it thickens, strengthens, and curls your lashes in one easy swipe, every day.</p><p>Skip the complicated steps. Apply, admire, glow.</p><p>✔ Vegan & cruelty-free<br/><br/>✔ pH-balanced for sensitive eyes<br/><br/>✔ Designed for mature women<br/><br/>✔ Ultra-effective growth formula</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "image_AVwAPm": {
           "type": "image",
           "settings": {
@@ -592,7 +632,6 @@
         }
       },
       "block_order": [
-        "image_RUa4Wx",
         "image_AVwAPm"
       ],
       "settings": {
@@ -1087,6 +1126,7 @@
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
     "image_with_text_overlay_8KTg7q",
+    "multi_column_33JGrR",
     "media_with_text_exinVG",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
