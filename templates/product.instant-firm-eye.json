@@ -479,6 +479,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_MaqRYR": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/15_749f7bda-94f2-406e-8bc8-a2cbfe8bf813.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 31
+      }
+    },
     "media_with_text_yArhtg": {
       "type": "media-with-text",
       "blocks": {
@@ -1120,6 +1136,7 @@
     "image_link_blocks_qGzYLJ",
     "before_after_image_VyHEee",
     "rich_text_mXMeWG",
+    "image_with_text_overlay_MaqRYR",
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
     "image_with_text_overlay_8KTg7q",
