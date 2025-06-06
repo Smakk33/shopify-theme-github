@@ -508,9 +508,6 @@
       "block_order": [
         "image_K7RXjJ"
       ],
-      "custom_css": [
-        ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
-      ],
       "settings": {
         "full_width": true,
         "spacing": "none"
@@ -525,6 +522,78 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<div class=\"features-section\">\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/hypoallergenic_icon_eae08cf9-7601-49e9-bc46-6e5c68285898.webp?v=1738319211\" alt=\"Easy & precise application\" class=\"feature-icon\">\n      <p class=\"feature-text\">Hypoallergénique</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/pH_png.webp?v=1738319210\" alt=\"Water-resistant and smudge-proof\" class=\"feature-icon\">\n      <p class=\"feature-text\">pH équilibré</p>\n    </div>\n  </div>\n  <div class=\"feature-item text-center\">\n    <div class=\"feature-content\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0895/0284/3226/files/waterproof_icon_webp.webp?v=1738147617\" alt=\"Buildable, velvety, deep colors\" class=\"feature-icon\">\n      <p class=\"feature-text\">Résistant à l'eau</p>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-section {\n    display: flex;\n    justify-content: space-around;\n    padding: 5px 0;\n  }\n\n  .feature-item {\n    flex: 1;\n    display: flex;\n    justify-content: center;\n  }\n\n  .feature-content {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .feature-icon {\n    margin-bottom: 10px;\n    max-width: 50px;\n  }\n\n  .feature-text {\n    font-size: 12px; /* Taille de texte par défaut, que tu peux modifier */\n  }\n\n  .text-center {\n    text-align: center;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_itYTMq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_n4bfaa": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "80%",
+            "heading_tag": "h2",
+            "content": "<p>said their skin looked younger after 1 night*</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_RgCwTM": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "84%",
+            "heading_tag": "h2",
+            "content": "<p>said moisture was replenished after just 1 night*</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hnKKJY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "84%",
+            "heading_tag": "h2",
+            "content": "<p>said they would use MERITAGE patches instead of getting a medical procedure like injectables, laser or fillers*</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cUrGgV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "98%",
+            "heading_tag": "h2",
+            "content": "<p>said MERITAGE patches are comfortable to sleep in*</p><p>(*Based on dermatologist-approved clinical trials from Clinical Research Laboratories & BioScreen.)</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_n4bfaa",
+        "item_RgCwTM",
+        "item_hnKKJY",
+        "item_cUrGgV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1073,6 +1142,7 @@
     "rich_text_mXMeWG",
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
+    "multi_column_itYTMq",
     "media_with_text_exinVG",
     "custom_liquid_Nd7kXb",
     "press_d49NgN",
