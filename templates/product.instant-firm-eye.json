@@ -501,15 +501,37 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/LipLift-BA-Instant-1.webp",
+            "image": "shopify://shop_images/16_d6a60f84-8fd0-49e0-930d-b8bb92e472f8.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "",
-            "content": "<h3>80%</h3><p>said their skin looked younger after 1 night*</p><h3>84%</h3><p>said moisture was replenished after just 1 night*</p><h3>84%</h3><p>said they would use MERITAGE patches instead of getting a medical procedure like injectables, laser or fillers*</p><h3>98%</h3><p>said MERITAGE patches are comfortable to sleep in*</p><p>*Based on dermatologist-approved clinical trials from Clinical Research Laboratories & BioScreen.</p>",
+            "title": "HOW IT WORKS",
+            "content": "<h3>NO SLEEP? NO PROBLEM!</h3><p>Perfect for an instantly and long-term well-rested, stress-free undereye area.</p><ul><li>Depuffs the look of under-eye bags</li><li>Tightens and smooths the look of under-eye area</li><li>Brightens the look of dark circles</li></ul>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_G7LNUg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NNM_NoMoreBaggage_6663963007754_05.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "FORMULATED WITH",
+            "title": "FILMATRIX TECHNOLOGY",
+            "content": "<p><strong>Filmatrix technology</strong>- made of algae, plant extracts and silicates, forms an invisible, second-skin film that tightens the appearance of the eye contour for a visually smoother look within minutes.<br/><br/><strong>Peptides </strong>work to help restore the look of elasticity and firmness while supporting the skin and helping to reduce the look of bags, puffiness, and darkness in the under-eye area.<br/><br/><strong>Caffeine </strong>helps reduce the look of puffiness by creating a temporary tightening effect and reducing inflammation in the area.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -522,7 +544,8 @@
         }
       },
       "block_order": [
-        "image_K7RXjJ"
+        "image_K7RXjJ",
+        "image_G7LNUg"
       ],
       "settings": {
         "full_width": true,
@@ -541,22 +564,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_8KTg7q": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Logo-de-paiements.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 31
       }
     },
     "multi_column_33JGrR": {
@@ -607,6 +614,7 @@
         "item_mTgABE",
         "item_FKWHgb"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -1139,7 +1147,6 @@
     "image_with_text_overlay_MaqRYR",
     "media_with_text_yArhtg",
     "custom_liquid_fppJ3k",
-    "image_with_text_overlay_8KTg7q",
     "multi_column_33JGrR",
     "media_with_text_exinVG",
     "custom_liquid_Nd7kXb",
