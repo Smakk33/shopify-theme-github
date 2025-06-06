@@ -976,6 +976,7 @@
         "item_U8BnMe",
         "item_i46BEY"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -1004,10 +1005,6 @@
       "settings": {
         "collection": "",
         "products": [
-          "luma-linea-eyeliner",
-          "luma-lash-mascara",
-          "luma-bright-eyeliner",
-          "luma-lash-volumizeur",
           "pro-lip-contour-corrector-age-defying-perioral-care"
         ],
         "full_width": true,
