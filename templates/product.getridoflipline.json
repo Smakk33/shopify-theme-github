@@ -283,6 +283,57 @@
         "input_text_color": ""
       }
     },
+    "rich_text_DEfGkQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3jpVrW": {
+          "type": "heading",
+          "settings": {
+            "text": "Finally Get Rid of Stubborn Lip Lines",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_cW48Qp": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3jpVrW",
+        "richtext_cW48Qp"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_V73EcH": {
+      "type": "custom-html",
+      "custom_css": [
+        ".section-blends {padding-top: 0px; /* Ajustez selon vos besoins */ padding-bottom: 20px; /* Ajustez selon vos besoins */}"
+      ],
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<style>\n  .headline-wrapper {\n    text-align: center;\n    padding: 24px 16px;\n  }\n\n  .headline-title {\n    font-family: 'DM Sans', sans-serif;\n    font-weight: 700; /* Extra bold */\n    font-size: 28px;\n    line-height: 1.2;\n    margin: 0 0 10px;\n    color: #000000;\n  }\n\n  .headline-sub {\n    font-family: 'DM Sans', sans-serif;\n    font-style: italic;\n    font-weight: 400;\n    font-size: 15px;\n    line-height: 1.4;\n    color: #000000;\n  }\n\n  @media (min-width: 768px) {\n    .headline-title {\n      font-size: 36px;\n    }\n    .headline-sub {\n      font-size: 16px;\n    }\n  }\n</style>\n\n<div class=\"headline-wrapper\">\n  <h2 class=\"headline-title\">Finally, get rid of stubborn lip lines</h2>\n  <p class=\"headline-sub\">Without needles. Without false promises.</p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_qGzYLJ": {
       "type": "image-link-blocks",
       "blocks": {
@@ -950,6 +1001,8 @@
   },
   "order": [
     "main",
+    "rich_text_DEfGkQ",
+    "custom_html_V73EcH",
     "image_link_blocks_qGzYLJ",
     "before_after_image_VyHEee",
     "rich_text_mXMeWG",
