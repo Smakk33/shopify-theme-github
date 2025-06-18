@@ -215,16 +215,16 @@
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Is this treatment suitable for sensitive skin?",
-            "content": "<p>Absolutely. It’s been carefully formulated without harsh irritants, making it suitable for sensitive skin. If you have any concerns, we recommend doing a small patch test before regular use – just to be sure.</p>",
+            "title": "How do I use it in my daily routine — with or without makeup?",
+            "content": "<p><strong>Apply a small amount on clean, dry skin — morning and/or night, before any cream or makeup.</strong> Let it absorb fully. It works beautifully under makeup or on bare skin, for a fresh, natural look.</p><p><strong>Quick routine guide:</strong></p><ol><li><strong>Cleanse</strong> your skin and gently pat it dry.<br/></li><li><strong>Apply</strong> any serums you use (optional).<br/></li><li><strong>Smooth</strong> a small amount of the Lip Line Corrector around the lips.<br/></li><li><strong>Follow</strong> with your moisturizer and/or SPF (in the morning).<br/></li></ol><p><em><strong>Makeup tip: </strong></em><em>Wait until fully absorbed before applying foundation or lipstick.</em></p>",
             "page": ""
           }
         },
         "collapsible_text_AVwGFJ": {
           "type": "collapsible_text",
           "settings": {
-            "title": "How do I use this treatment as part of my daily routine – including under makeup?",
-            "content": "<p>Apply <strong>morning and evening </strong>to clean, dry skin.<br/><br/><strong>Recommended routine:</strong><br/></p><ol><li><strong>Gently cleanse</strong> your skin and pat dry.</li><li><strong>Apply</strong> your serums (if using).</li><li><strong>Smooth </strong>on the Lip Line Corrector and allow it to absorb.</li><li><strong>Follow</strong> with your moisturiser and/or SPF (in the morning).<br/></li></ol><p><strong>Makeup tip:</strong><br/>Wait until the product is fully absorbed before applying foundation or lipstick.</p>",
+            "title": "What are the key ingredients?",
+            "content": "<p>✨ <strong>Matrixyl 3000 : </strong><em>Clinically proven multi-peptide that helps reduce the look of deep lines and wrinkles.</em></p><p>💧 <strong>Hyaluronic Filling Spheres : </strong><em>Advanced technology that deeply boosts hydration for smoother, plumper-looking skin.</em></p><p>🍅 <strong>Retinol (0.1%) : </strong><em>Pure vitamin A that helps reduce fine lines, improves skin tone and refines texture.</em></p><p>🌿 <strong>GABA : </strong><em>Delivers an immediate tightening effect to visibly smooth expression lines and firm the lip contour.</em></p><p>✨ <strong>Arbutin : </strong><em>A natural brightening agent derived from bearberry to even out and illuminate the skin.</em></p><p>💎 <strong>Soluble Collagen : </strong><em>A powerful hydrator and humectant that leaves skin supple, plumped, and visibly younger.</em></p>",
             "page": ""
           }
         }
