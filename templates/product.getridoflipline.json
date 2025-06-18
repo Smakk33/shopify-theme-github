@@ -320,6 +320,7 @@
     },
     "custom_html_V73EcH": {
       "type": "custom-html",
+      "disabled": true,
       "custom_css": [
         ".section-blends {padding-top: 0px; /* Ajustez selon vos besoins */ padding-bottom: 20px; /* Ajustez selon vos besoins */}"
       ],
@@ -460,7 +461,7 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF1-ezgif.com-gif-to-webp-converter.webp",
+            "image": "shopify://shop_images/StoryTestV1.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
