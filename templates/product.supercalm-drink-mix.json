@@ -742,6 +742,68 @@
         "text_color": ""
       }
     },
+    "impact_text_mAgnqX": {
+      "type": "impact-text",
+      "blocks": {
+        "item_yzCKVz": {
+          "type": "item",
+          "settings": {
+            "title": "-10 ans",
+            "subheading": "Selon des études, le stress chronique pourrait enlever jusqu'à 7 à 10 ans de vie.",
+            "content": "<p>Les effets du stress incluent des<strong>problèmes cardiovasculaires</strong>, une<strong>pression artérielle élevée</strong>, et d'autres conditions chroniques qui<strong>accélèrent le vieillissement du corps.</strong></p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_aiKh7y": {
+          "type": "item",
+          "settings": {
+            "title": "50 % des cancers",
+            "subheading": "sont causés par le stress.",
+            "content": "<p>Environ<strong>50 % des cancers</strong>pourraient être exacerbés par le stress en raison de l'affaiblissement du système immunitaire et de l'augmentation de comportements à risque comme la consommation d'alcool ou de tabac, souvent utilisés pour \"gérer\" le stress​.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_jAQzzm": {
+          "type": "item",
+          "settings": {
+            "title": "30 % des AVC",
+            "subheading": "sont causés par le stress.",
+            "content": "<p>Environ<strong>30 % des AVC</strong>pourraient être causés par le stress, en raison de ses effets néfastes sur le corps et l'esprit. Le stress chronique provoque une augmentation de la pression artérielle, favorise l'inflammation, et affecte le système cardiovasculaire en général. Il est donc crucial de gérer efficacement son stress pour réduire le risque de développer des problèmes cardiovasculaires graves, y compris les AVC.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_yzCKVz",
+        "item_aiKh7y",
+        "item_jAQzzm"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "comparaisonmzr_Q4RkY6": {
       "type": "comparaisonmzr",
       "blocks": {
@@ -1478,6 +1540,7 @@
     "okokok_PNxAJk",
     "press_d49NgN",
     "rich_text_atx7pM",
+    "impact_text_mAgnqX",
     "comparaisonmzr_Q4RkY6",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
