@@ -811,7 +811,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PDT15.png",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -833,7 +833,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PDT11.png",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -855,7 +855,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PDT4_93a61ede-da82-41fb-82ce-973495696f16.png",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
