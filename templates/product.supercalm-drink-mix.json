@@ -291,126 +291,6 @@
         "input_text_color": ""
       }
     },
-    "image_link_blocks_qGzYLJ": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_w8dHL7": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_mG8pby": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_wz6n8X": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_yHFmwc": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_w8dHL7",
-        "item_mG8pby",
-        "item_wz6n8X",
-        "item_yHFmwc"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "before_after_image_VyHEee": {
-      "type": "before-after-image",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Un contour des lèvres plus jeune en quelques semaines",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "rich_text_mXMeWG": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_zqBCEr": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Résultats réels obtenus avec le Sérum Remedy 9-en-1 de Nuit.</strong> Les résultats peuvent varier d'une personne à l'autre. Chaque peau est unique et peut réagir différemment à nos produits. Nous proposons une garantie satisfait ou remboursé de 60 jours. Si vous n'êtes pas pleinement satisfait des résultats, renvoyez-le et nous vous rembourserons intégralement.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_zqBCEr"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_with_text_yArhtg": {
       "type": "media-with-text",
       "blocks": {
@@ -444,232 +324,6 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
-      }
-    },
-    "okokok_PNxAJk": {
-      "type": "okokok",
-      "blocks": {
-        "item_J47eVC": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "THE PERFECT GIFT",
-            "text": ""
-          }
-        },
-        "item_ncQUgV": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "100% COTTON",
-            "text": ""
-          }
-        },
-        "item_qWdJgk": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "MACHINE WASHABLE",
-            "text": ""
-          }
-        },
-        "item_939U9e": {
-          "type": "item",
-          "settings": {
-            "icon": "plant",
-            "title": "REVERSIBLE DESIGN",
-            "text": ""
-          }
-        },
-        "image_NERbNr": {
-          "type": "image",
-          "settings": {
-            "position": "top"
-          }
-        },
-        "image_TRywLR": {
-          "type": "image",
-          "settings": {
-            "position": "bottom"
-          }
-        },
-        "image_agz3ji": {
-          "type": "image",
-          "settings": {
-            "position": "top"
-          }
-        },
-        "image_PMUEyk": {
-          "type": "image",
-          "settings": {
-            "position": "bottom"
-          }
-        },
-        "image_a3N6rb": {
-          "type": "image",
-          "settings": {
-            "position": "top"
-          }
-        },
-        "image_zNCWQn": {
-          "type": "image",
-          "settings": {
-            "position": "bottom"
-          }
-        },
-        "image_3eVB8h": {
-          "type": "image",
-          "settings": {
-            "position": "top"
-          }
-        },
-        "image_A8TzX6": {
-          "type": "image",
-          "settings": {
-            "position": "bottom"
-          }
-        },
-        "image_c6EHxH": {
-          "type": "image",
-          "settings": {
-            "position": "top"
-          }
-        },
-        "image_jDaMbH": {
-          "type": "image",
-          "settings": {
-            "position": "bottom"
-          }
-        }
-      },
-      "block_order": [
-        "item_J47eVC",
-        "item_ncQUgV",
-        "item_qWdJgk",
-        "item_939U9e",
-        "image_NERbNr",
-        "image_TRywLR",
-        "image_agz3ji",
-        "image_PMUEyk",
-        "image_a3N6rb",
-        "image_zNCWQn",
-        "image_3eVB8h",
-        "image_A8TzX6",
-        "image_c6EHxH",
-        "image_jDaMbH"
-      ],
-      "disabled": true,
-      "name": "Feature 8lab",
-      "settings": {
-        "heading": "<h2>WE BRING TRANQUILITY TO YOUR HOME</h2>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 36,
-        "heading_size_mobile": 30,
-        "heading_height": 130,
-        "heading_align": "left",
-        "heading_align_mobile": "center",
-        "sub_heading": "<p>We're crafting a remarkable collection of rug throws for those who seek to elevate their living spaces and embrace their unique style. Be a part of the texture revolution.</p>",
-        "sub_heading_custom": false,
-        "sub_heading_font": "josefin_sans_n4",
-        "sub_heading_size": 20,
-        "sub_heading_size_mobile": 18,
-        "sub_heading_height": 150,
-        "sub_heading_align": "left",
-        "sub_heading_align_mobile": "center",
-        "sub_heading_mt": 16,
-        "button": "SHOP ALL RUGS",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "left",
-        "button_align_mobile": "center",
-        "button_mt": 32,
-        "button_padding_vertical": 20,
-        "button_padding_horizontal": 16,
-        "button_radius": 8,
-        "button_border_thickness": 0,
-        "button_position_bottom": true,
-        "under_button_text": "60 day money-back guarantee",
-        "under_button_text_custom": false,
-        "under_button_text_font": "josefin_sans_n4",
-        "under_button_text_size": 16,
-        "under_button_text_size_mobile": 14,
-        "under_button_text_height": 130,
-        "under_button_text_align": "center",
-        "under_button_text_align_mobile": "center",
-        "under_button_text_mt": 16,
-        "slider_row": "2",
-        "slider_show": 3.2,
-        "slider_show_mobile": 5,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slide_autoplay": false,
-        "slide_autoplay_delay": 0,
-        "bottom_slider_mt": 48,
-        "image_block_radius": 8,
-        "image_block_border_thickness": 0,
-        "image_block_ratio": "square",
-        "items_row": 4,
-        "items_row_mobile": 2,
-        "items_gap": 14,
-        "items_gap_mobile": 14,
-        "items_mt": 48,
-        "items_mt_mobile": 48,
-        "item_padding_vertical": 20,
-        "item_padding_horizontal": 18,
-        "item_radius": 8,
-        "item_border_thickness": 0,
-        "image_width": 30,
-        "image_width_mobile": 40,
-        "image_align": "center",
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 22,
-        "title_size_mobile": 14,
-        "title_height": 130,
-        "title_align": "center",
-        "title_mt": 12,
-        "text_width": 88,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 18,
-        "text_size_mobile": 14,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 0,
-        "heading_color": "#000000",
-        "heading_other_color": "#af3ab8",
-        "heading_other_gradient_color": "linear-gradient(108deg, rgba(114, 76, 233, 1), rgba(255, 34, 119, 1) 100%)",
-        "sub_heading_color": "#1e1e1e",
-        "background_color": "#f1f9fc",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#282828",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#282828",
-        "under_button_text_color": "#000000",
-        "image_block_border_color": "#000000",
-        "item_bg": "#ffffff",
-        "item_border_color": "#000000",
-        "title_color": "#1e1e1e",
-        "text_color": "#1e1e1e",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 130,
-        "border_thickness": 0,
-        "lazy": true
       }
     },
     "press_d49NgN": {
@@ -1071,6 +725,68 @@
         "heading_gradient": "",
         "testimonial_card_background": "#34befa",
         "testimonial_card_text_color": ""
+      }
+    },
+    "impact_text_Pz3GhT": {
+      "type": "impact-text",
+      "blocks": {
+        "item_rqhByf": {
+          "type": "item",
+          "settings": {
+            "title": "-70% de stress",
+            "subheading": "Nos clients estiment qu'Aura+ SuperCalm leur permet de réduire leur niveau de stress de 70 % au quotidien.*",
+            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_NgLpnr": {
+          "type": "item",
+          "settings": {
+            "title": "3X plus d'énergie",
+            "subheading": "Nos clients estiment qu'Aura+ SuperCalm leur apporte 3 fois plus d'énergie au quotidien depuis qu'ils en prennent.*",
+            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_ikDQ4y": {
+          "type": "item",
+          "settings": {
+            "title": "+2h de sommeil",
+            "subheading": "Nos clients estiment qu'Aura+ SuperCalm améliore leur qualité de sommeil, leur offrant jusqu'à 2 heures de sommeil réparateur en plus chaque nuit.*",
+            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "button_text": "Je retrouve ma santé",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_rqhByf",
+        "item_NgLpnr",
+        "item_ikDQ4y"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "comparaisonmzr_Q4RkY6": {
@@ -1506,11 +1222,7 @@
   },
   "order": [
     "main",
-    "image_link_blocks_qGzYLJ",
-    "before_after_image_VyHEee",
-    "rich_text_mXMeWG",
     "media_with_text_yArhtg",
-    "okokok_PNxAJk",
     "press_d49NgN",
     "rich_text_atx7pM",
     "impact_text_mAgnqX",
@@ -1519,6 +1231,7 @@
     "multi_column_idckHq",
     "rich_text_YDRgpq",
     "testimonials_iznDN9",
+    "impact_text_Pz3GhT",
     "comparaisonmzr_Q4RkY6",
     "faq_FLiQH6",
     "1736349541b004fa39",
