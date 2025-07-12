@@ -796,7 +796,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"text-align: center;\">\n  <img src=\"https://ton-site.com/liens-de-ton-image.jpg\" alt=\"Description de l’image\" style=\"max-width: 100%; height: auto;\" />\n</div>",
+        "liquid": "<div style=\"text-align: center;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Brand-Benefits-Icons-BG2.jpg?v=1752326008\" alt=\"Description de l’image\" style=\"max-width: 100%; height: auto;\" />\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
