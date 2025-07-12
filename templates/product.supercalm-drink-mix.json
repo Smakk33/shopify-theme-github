@@ -417,22 +417,22 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF1-ezgif.com-gif-to-webp-converter.webp",
+            "image": "shopify://shop_images/GIF1AURA.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Rediscover smoother skin and firmer lips – no injections needed.",
-            "content": "<p>Within the first few weeks, <strong>your lip contour begins to regain</strong> its natural elasticity. <strong>Vertical lines fade</strong>, and the skin feels <strong>smoother, softer and more youthful.</strong></p>",
-            "link_text": "",
+            "title": "Découvre une nouvelle façon de gérer ton stress",
+            "content": "<p>Profite d'une boisson<strong>calmante en un instant</strong>. Verse simplement ton sachet SuperCalm dans un verre d'eau, mélange avec l'agitateur électrique offert, et<strong>ressens immédiatement les effets apaisants.</strong>Un geste simple,<strong>des effets puissants pour ton bien-être quotidien !</strong></p>",
+            "link_text": "Je retrouve mon équilibre",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "",
+            "button_background": "#94bac4",
             "button_text_color": ""
           }
         }
@@ -440,9 +440,7 @@
       "block_order": [
         "image_K7RXjJ"
       ],
-      "custom_css": [
-        ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": true,
         "spacing": "none"
