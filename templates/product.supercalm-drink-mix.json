@@ -24,6 +24,12 @@
             "heading_tag": "h3"
           }
         },
+        "liquid_66hjAM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p>Supports weight balance, bloat & stress relief*</p>"
+          }
+        },
         "liquid_acEgXV": {
           "type": "liquid",
           "disabled": true,
@@ -233,6 +239,7 @@
       "block_order": [
         "liquid_hhwVe3",
         "title",
+        "liquid_66hjAM",
         "liquid_acEgXV",
         "badges",
         "price",
