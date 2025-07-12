@@ -978,6 +978,66 @@
         "text_color": ""
       }
     },
+    "testimonials_iznDN9": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_CPt9UL": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_yJqEe8": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_ekhkg3": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_CPt9UL",
+        "testimonial_yJqEe8",
+        "testimonial_ekhkg3"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "Ils ont retrouvé l'équilibre. Pourquoi pas toi ?",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#e6f1f9",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#34befa",
+        "testimonial_card_text_color": ""
+      }
+    },
     "comparaisonmzr_Q4RkY6": {
       "type": "comparaisonmzr",
       "blocks": {
@@ -1422,6 +1482,7 @@
     "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
     "multi_column_idckHq",
+    "testimonials_iznDN9",
     "comparaisonmzr_Q4RkY6",
     "faq_FLiQH6",
     "1736349541b004fa39",
