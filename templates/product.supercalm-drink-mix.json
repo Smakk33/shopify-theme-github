@@ -914,8 +914,8 @@
             "heading_tag": "h2",
             "content": "<p><strong>Réduit le stress et l'anxiété: </strong>Ashwagandha est une plante adaptogène qui aide à réguler la réponse au stress en abaissant les niveaux de cortisol, la principale hormone du stress.</p><p><strong>Améliore l’humeur et réduit l’irritabilité: </strong>Cette plante est souvent utilisée pour améliorer l'humeur et réduire les symptômes d'anxiété ou de nervosité, ce qui est particulièrement utile pour ceux confrontés à des déséquilibres hormonaux, comme la ménopause.</p><p><strong>Soutient la santé mentale et cognitive: </strong>L'ashwagandha aide à améliorer la mémoire, la concentration et les fonctions cognitives générales.</p><p><strong>Améliore la qualité du sommeil:</strong> Elle a un effet calmant sur le système nerveux, facilitant un meilleur sommeil et réduisant l’insomnie liée au stress.</p><p><strong>Soutient la santé physique:</strong> Elle contribue à la récupération après un effort physique, améliorant la force et la résistance musculaire.<br/><br/><strong>SuperCalm contient 300 mg d'Ashwagandha par portion.</strong></p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Je retrouve ma santé",
+            "link_style": "button"
           }
         },
         "item_EY8Mpk": {
@@ -927,8 +927,8 @@
             "heading_tag": "h2",
             "content": "<p><strong>Favorise la relaxation sans somnolence :</strong> La L-théanine crée un état de relaxation calme tout en permettant de rester alerte.</p><p><strong>Améliore la concentration et la vigilance mentale :</strong> Elle augmente la production d’ondes alpha, liées à un état de relaxation attentive et de concentration.</p><p><strong>Réduit le stress et l’anxiété :</strong> En stimulant les neurotransmetteurs GABA et dopamine, elle améliore l’humeur tout en réduisant le stress.</p><p><strong>Améliore la qualité du sommeil :</strong> Sans provoquer directement de somnolence, elle aide à calmer l’esprit, facilitant ainsi un meilleur sommeil.<br/><br/><strong>SuperCalm contient 400 mg de L-théanine par portion.</strong></p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Je retrouve ma santé",
+            "link_style": "button"
           }
         },
         "item_qzi4Qp": {
@@ -940,8 +940,8 @@
             "heading_tag": "h2",
             "content": "<p><strong>Améliore la qualité du sommeil :</strong> Le magnésium favorise la relaxation en activant les récepteurs GABA, un neurotransmetteur clé pour le sommeil et le calme.</p><p><strong>Réduit le stress et l'anxiété :</strong> Le magnésium calme le système nerveux en réduisant les niveaux de cortisol, une hormone associée au stress.</p><p><strong>Améliore la concentration :</strong> En équilibrant le système nerveux, il améliore la clarté mentale et la concentration.</p><p><strong>Soutient la santé musculaire :</strong> Essentiel pour la relaxation musculaire, il aide à prévenir les crampes et à favoriser la récupération après un effort physique.</p><p><strong>Soutient la santé cardiovasculaire :</strong> Il régule la pression artérielle et soutient une bonne santé cardiaque.<br/><br/><strong>SuperCalm contient 100 mg par portion.</strong></p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Je retrouve ma santé",
+            "link_style": "button"
           }
         },
         "item_wCVphJ": {
@@ -953,8 +953,8 @@
             "heading_tag": "h2",
             "content": "<p><strong>Régulation de l'humeur :</strong> Connue sous le nom de \"vitamine du soleil\", elle régule l’humeur et peut aider à combattre les symptômes de dépression saisonnière.</p><p><strong>Soutient la santé des os :</strong> Elle est essentielle pour l'absorption du calcium, indispensable à la solidité des os.</p><p><strong>Renforce le système immunitaire :</strong> Elle soutient le système immunitaire en régulant la réponse inflammatoire et en renforçant la défense contre les infections.</p><p><strong>Soutient la santé cardiovasculaire :</strong> En régulant la pression artérielle, la vitamine D3 aide à protéger la santé du cœur.<br/><br/><strong>SuperCalm contient 1 000 UI de vitamine D3 par portion.</strong></p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Je retrouve ma santé",
+            "link_style": "button"
           }
         }
       },
@@ -974,34 +974,6 @@
         "title": "Des ingrédients puissants, en parfaite synergie pour votre bien-être",
         "content": "<p>Formulé par des experts, pour votre santé</p>",
         "background": "#e6f1f9",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_LTy8FA": {
-      "type": "rich-text",
-      "blocks": {
-        "button_VPEAgk": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "Je retrouve ma santé",
-            "url": "",
-            "background": "#ffb74a",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "button_VPEAgk"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1450,7 +1422,6 @@
     "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
     "multi_column_idckHq",
-    "rich_text_LTy8FA",
     "comparaisonmzr_Q4RkY6",
     "faq_FLiQH6",
     "1736349541b004fa39",
