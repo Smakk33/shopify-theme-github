@@ -947,10 +947,11 @@
         "item_wCVphJ": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/26_juin_2025_14_42_54.png",
             "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Vitamine D3",
+            "heading_tag": "h2",
+            "content": "<p><strong>Régulation de l'humeur :</strong> Connue sous le nom de \"vitamine du soleil\", elle régule l’humeur et peut aider à combattre les symptômes de dépression saisonnière.</p><p><strong>Soutient la santé des os :</strong> Elle est essentielle pour l'absorption du calcium, indispensable à la solidité des os.</p><p><strong>Renforce le système immunitaire :</strong> Elle soutient le système immunitaire en régulant la réponse inflammatoire et en renforçant la défense contre les infections.</p><p><strong>Soutient la santé cardiovasculaire :</strong> En régulant la pression artérielle, la vitamine D3 aide à protéger la santé du cœur.<br/><br/><strong>SuperCalm contient 1 000 UI de vitamine D3 par portion.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
