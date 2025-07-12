@@ -902,6 +902,81 @@
         "text_color": ""
       }
     },
+    "multi_column_idckHq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_UhFWkV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_14_23_17.png",
+            "column_size": "3",
+            "title": "Ashwagandha",
+            "heading_tag": "h2",
+            "content": "<p><strong>Réduit le stress et l'anxiété: </strong>Ashwagandha est une plante adaptogène qui aide à réguler la réponse au stress en abaissant les niveaux de cortisol, la principale hormone du stress.</p><p><strong>Améliore l’humeur et réduit l’irritabilité: </strong>Cette plante est souvent utilisée pour améliorer l'humeur et réduire les symptômes d'anxiété ou de nervosité, ce qui est particulièrement utile pour ceux confrontés à des déséquilibres hormonaux, comme la ménopause.</p><p><strong>Soutient la santé mentale et cognitive: </strong>L'ashwagandha aide à améliorer la mémoire, la concentration et les fonctions cognitives générales.</p><p><strong>Améliore la qualité du sommeil:</strong> Elle a un effet calmant sur le système nerveux, facilitant un meilleur sommeil et réduisant l’insomnie liée au stress.</p><p><strong>Soutient la santé physique:</strong> Elle contribue à la récupération après un effort physique, améliorant la force et la résistance musculaire.<br/><br/><strong>SuperCalm contient 300 mg d'Ashwagandha par portion.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_EY8Mpk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_14_20_40.png",
+            "column_size": "3",
+            "title": "L-Theanine",
+            "heading_tag": "h2",
+            "content": "<p><strong>Favorise la relaxation sans somnolence :</strong> La L-théanine crée un état de relaxation calme tout en permettant de rester alerte.</p><p><strong>Améliore la concentration et la vigilance mentale :</strong> Elle augmente la production d’ondes alpha, liées à un état de relaxation attentive et de concentration.</p><p><strong>Réduit le stress et l’anxiété :</strong> En stimulant les neurotransmetteurs GABA et dopamine, elle améliore l’humeur tout en réduisant le stress.</p><p><strong>Améliore la qualité du sommeil :</strong> Sans provoquer directement de somnolence, elle aide à calmer l’esprit, facilitant ainsi un meilleur sommeil.<br/><br/><strong>SuperCalm contient 400 mg de L-théanine par portion.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qzi4Qp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_juin_2025_14_42_06.png",
+            "column_size": "3",
+            "title": "Magnésium Glycinate",
+            "heading_tag": "h2",
+            "content": "<p><strong>Améliore la qualité du sommeil :</strong> Le magnésium favorise la relaxation en activant les récepteurs GABA, un neurotransmetteur clé pour le sommeil et le calme.</p><p><strong>Réduit le stress et l'anxiété :</strong> Le magnésium calme le système nerveux en réduisant les niveaux de cortisol, une hormone associée au stress.</p><p><strong>Améliore la concentration :</strong> En équilibrant le système nerveux, il améliore la clarté mentale et la concentration.</p><p><strong>Soutient la santé musculaire :</strong> Essentiel pour la relaxation musculaire, il aide à prévenir les crampes et à favoriser la récupération après un effort physique.</p><p><strong>Soutient la santé cardiovasculaire :</strong> Il régule la pression artérielle et soutient une bonne santé cardiaque.<br/><br/><strong>SuperCalm contient 100 mg par portion.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wCVphJ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_UhFWkV",
+        "item_EY8Mpk",
+        "item_qzi4Qp",
+        "item_wCVphJ"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "comparaisonmzr_Q4RkY6": {
       "type": "comparaisonmzr",
       "blocks": {
@@ -1641,6 +1716,7 @@
     "impact_text_mAgnqX",
     "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
+    "multi_column_idckHq",
     "comparaisonmzr_Q4RkY6",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
