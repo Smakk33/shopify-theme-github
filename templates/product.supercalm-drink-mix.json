@@ -760,7 +760,7 @@
             "title": "+2h de sommeil",
             "subheading": "Nos clients estiment qu'Aura+ SuperCalm améliore leur qualité de sommeil, leur offrant jusqu'à 2 heures de sommeil réparateur en plus chaque nuit.*",
             "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
-            "button_text": "Je retrouve ma santé",
+            "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
             "animate_impact_text_duration": 2
