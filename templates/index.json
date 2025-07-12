@@ -74,6 +74,130 @@
         "background_gradient": ""
       }
     },
+    "glow_8lab_i7Vp7V": {
+      "type": "glow-8lab",
+      "blocks": {
+        "image_jVTqdN": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_Qwpjp4": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_yfc9mM": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_iFtmBT": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_iqjbVe": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_fJj6Y3": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_cyhpJx": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_ggnKGd": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_LLTyMU": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_rAUGXB": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_PLYaij": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        },
+        "image_7fxdkr": {
+          "type": "Image",
+          "settings": {
+            "review_text": "Add awesome customer testimonial right here",
+            "review_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "image_jVTqdN",
+        "image_Qwpjp4",
+        "image_yfc9mM",
+        "image_iFtmBT",
+        "image_iqjbVe",
+        "image_fJj6Y3",
+        "image_cyhpJx",
+        "image_ggnKGd",
+        "image_LLTyMU",
+        "image_rAUGXB",
+        "image_PLYaij",
+        "image_7fxdkr"
+      ],
+      "disabled": true,
+      "name": "Glow Testimonial 8lab",
+      "settings": {
+        "animation_time": 30,
+        "loop_amount": 2,
+        "header_before_gradient": "Our customers",
+        "header_gradient": "love",
+        "header": "the product",
+        "header_color": "#0B1128",
+        "header_font_size": 42,
+        "header_mob_font_size": 28,
+        "review_font_size": 16,
+        "review_font_color": "#0B1128",
+        "gradient_color_1": "#4222DE",
+        "gradient_color_2": "#659BFF",
+        "gradient_color_3": "#7FF6E8",
+        "blur_color": "#B8B1DC",
+        "background-color": "#ffffff",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "hero_8lab_7MLLrX": {
       "type": "hero-8lab",
       "blocks": {
@@ -197,8 +321,8 @@
         "image_ratio_mobile": "square",
         "image_shadow": false,
         "image_gradient": false,
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#FFFFFF",
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
         "button_bg_color": "#000000",
         "button_bg_hover_color": "#000000",
         "button_border_color": "#000000",
@@ -207,7 +331,7 @@
         "text_color": "#000000",
         "images_gradient_color": "#faebe3",
         "image_border_color": "#000000",
-        "background_color": "#FFF9F9",
+        "background_color": "#fff9f9",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -705,6 +829,7 @@
   },
   "order": [
     "slideshow_iPxVFx",
+    "glow_8lab_i7Vp7V",
     "hero_8lab_7MLLrX",
     "testi_8lab_cdzVwW",
     "custom_html_q6KahD",
