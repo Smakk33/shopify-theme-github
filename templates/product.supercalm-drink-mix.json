@@ -775,7 +775,7 @@
             "title": "30 % des AVC",
             "subheading": "sont causés par le stress.",
             "content": "<p>Environ<strong>30 % des AVC</strong>pourraient être causés par le stress, en raison de ses effets néfastes sur le corps et l'esprit. Le stress chronique provoque une augmentation de la pression artérielle, favorise l'inflammation, et affecte le système cardiovasculaire en général. Il est donc crucial de gérer efficacement son stress pour réduire le risque de développer des problèmes cardiovasculaires graves, y compris les AVC.</p>",
-            "button_text": "",
+            "button_text": "Je retrouve ma santé",
             "button_url": "",
             "animate_impact_text": true,
             "animate_impact_text_duration": 2
@@ -802,6 +802,91 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "media_grid_QJnzpt": {
+      "type": "media-grid",
+      "blocks": {
+        "image_FTjkwY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PDT4_93a61ede-da82-41fb-82ce-973495696f16.png",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_FXRCgc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PDT11.png",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_RbjDYH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PDT6_0f682a24-8953-4773-86c8-a1e63293d141.png",
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_FTjkwY",
+        "image_FXRCgc",
+        "image_RbjDYH"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "comparaisonmzr_Q4RkY6": {
@@ -1541,6 +1626,7 @@
     "press_d49NgN",
     "rich_text_atx7pM",
     "impact_text_mAgnqX",
+    "media_grid_QJnzpt",
     "comparaisonmzr_Q4RkY6",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
