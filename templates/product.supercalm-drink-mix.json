@@ -970,9 +970,37 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
+        "subheading": "",
         "title": "Des ingrédients puissants, en parfaite synergie pour votre bien-être",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "content": "<p>Formulé par des experts, pour votre santé</p>",
+        "background": "#e6f1f9",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_LTy8FA": {
+      "type": "rich-text",
+      "blocks": {
+        "button_VPEAgk": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Je retrouve ma santé",
+            "url": "",
+            "background": "#ffb74a",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_VPEAgk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1422,6 +1450,7 @@
     "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
     "multi_column_idckHq",
+    "rich_text_LTy8FA",
     "comparaisonmzr_Q4RkY6",
     "faq_FLiQH6",
     "1736349541b004fa39",
