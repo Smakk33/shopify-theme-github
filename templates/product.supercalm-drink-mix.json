@@ -978,6 +978,41 @@
         "text_color": ""
       }
     },
+    "rich_text_YDRgpq": {
+      "type": "rich-text",
+      "blocks": {
+        "liquid_FtEWiA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rid=\"80000c44-d1a0-42d3-99e3-065435f0a09a\" class=\"r-vz5h3c\" style=\"display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;\">\n  <div data-rid=\"2c8759ac-f5c1-4e2b-8fbc-d0fc64a108ae\" class=\"r-11w96jh\" style=\"display: flex; align-items: center; gap: 8px;\">\n    <div data-rid=\"ed59bca5-5922-4e6b-b180-74ff12b30c24\" class=\"r-1wf2amn alchemy-rte\" style=\"display: inline-block;\">\n      <span style=\"width:100%\"><p style=\"margin: 0;\"><strong>SUPER</strong><em>CALM</em></p></span>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "button_bTtmkA": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Je retrouve ma santé",
+            "url": "",
+            "background": "#ffb74a",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_FtEWiA",
+        "button_bTtmkA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_iznDN9": {
       "type": "testimonials",
       "blocks": {
@@ -1482,6 +1517,7 @@
     "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
     "multi_column_idckHq",
+    "rich_text_YDRgpq",
     "testimonials_iznDN9",
     "comparaisonmzr_Q4RkY6",
     "faq_FLiQH6",
