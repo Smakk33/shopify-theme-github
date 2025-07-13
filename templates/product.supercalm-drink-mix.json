@@ -204,8 +204,8 @@
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Is this treatment suitable for sensitive skin?",
-            "content": "<p>Absolutely. It’s been carefully formulated without harsh irritants, making it suitable for sensitive skin. If you have any concerns, we recommend doing a small patch test before regular use – just to be sure.</p>",
+            "title": "Shipping & Delivery",
+            "content": "<p>All orders are shipped within 24 to 48 hours.<br/><br/>Estimated delivery: <strong>5 to 9 business days</strong> across Canada.</p>",
             "page": ""
           }
         }
