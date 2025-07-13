@@ -189,7 +189,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Ingredients",
-            "content": "<p><em><strong>Active Ingredients:</strong></em></p><p><strong>Ashwagandha</strong>: 300 mg</p><p><strong>L-Theanine</strong>: 400 mg</p><p><strong>Magnesium Glycinate</strong>: 100 mg</p><p><strong>Vitamin D3</strong>: 1000 IU</p><p><em><strong>Other Ingredients:</strong></em></p><p><em>Citric acid, natural raspberry flavour, natural lemon flavour, organic beetroot extract, stevia leaf extract.</em></p>",
+            "content": "<p><em><strong>Active Ingredients:</strong></em></p><ul><li><strong>Ashwagandha</strong>: 300 mg</li><li><strong>L-Theanine</strong>: 400 mg</li><li><strong>Magnesium Glycinate</strong>: 100 mg</li><li><strong>Vitamin D3</strong>: 1000 IU</li></ul><p><em><strong>Other Ingredients:</strong></em></p><p><em>Citric acid, natural raspberry flavour, natural lemon flavour, organic beetroot extract, stevia leaf extract.</em></p>",
             "page": ""
           }
         },
