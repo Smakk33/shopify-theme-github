@@ -14,18 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_9MUNRk": {
+        "message_Kgeg3H": {
           "type": "message",
           "settings": {
-            "text": "MERITAGE ANNIVERSARY – LIMITED-TIME OFFERS!",
+            "text": "SUMMER OFFER ☀ UP TO 60% OFF",
             "url": ""
           }
         },
-        "message_Kgeg3H": {
+        "message_9MUNRk": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "24 Hours Only – Free Delivery",
+            "text": "Clinically-Tested Ingredients",
             "url": ""
           }
         },
@@ -38,8 +37,8 @@
         }
       },
       "block_order": [
-        "message_9MUNRk",
         "message_Kgeg3H",
+        "message_9MUNRk",
         "message"
       ],
       "settings": {
