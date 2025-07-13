@@ -373,9 +373,9 @@
         "item_yzCKVz": {
           "type": "item",
           "settings": {
-            "title": "-10 ans",
-            "subheading": "Selon des études, le stress chronique pourrait enlever jusqu'à 7 à 10 ans de vie.",
-            "content": "<p>Les effets du stress incluent des<strong>problèmes cardiovasculaires</strong>, une<strong>pression artérielle élevée</strong>, et d'autres conditions chroniques qui<strong>accélèrent le vieillissement du corps.</strong></p>",
+            "title": "-10 years",
+            "subheading": "Unmanaged menopause can seriously impact your long-term health",
+            "content": "<p>Increased risk of <strong>heart disease, chronic fatigue, joint pain, anxiety</strong>… all symptoms that silently <strong>speed up aging</strong> — inside and out.</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
@@ -385,9 +385,9 @@
         "item_aiKh7y": {
           "type": "item",
           "settings": {
-            "title": "50 % des cancers",
-            "subheading": "sont causés par le stress.",
-            "content": "<p>Environ<strong>50 % des cancers</strong>pourraient être exacerbés par le stress en raison de l'affaiblissement du système immunitaire et de l'augmentation de comportements à risque comme la consommation d'alcool ou de tabac, souvent utilisés pour \"gérer\" le stress​.</p>",
+            "title": "2x",
+            "subheading": "More belly fat after 45",
+            "content": "<p>Hormonal changes during menopause can <strong>double the fat stored around your belly</strong>, even without changing how you eat. This leads to a slower metabolism, bloating, and a body that feels harder to control.</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
