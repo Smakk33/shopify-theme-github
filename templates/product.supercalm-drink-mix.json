@@ -782,25 +782,31 @@
         "list_item_AQtyPY": {
           "type": "list_item",
           "settings": {
-            "text": "Fall asleep quicker"
+            "text": "Flatter belly, lighter digestion"
           }
         },
         "list_item_6HHJ9f": {
           "type": "list_item",
           "settings": {
-            "text": "Relax & Restorative sleep"
+            "text": "Fewer hot flashes, mood swings"
           }
         },
         "list_item_je9fPF": {
           "type": "list_item",
           "settings": {
-            "text": "Wake up refreshed"
+            "text": "Feel calmer, sleep deeper"
           }
         },
         "list_item_AEkbjd": {
           "type": "list_item",
           "settings": {
-            "text": "Plant based"
+            "text": "Natural & hormone-free"
+          }
+        },
+        "list_item_rf3iqM": {
+          "type": "list_item",
+          "settings": {
+            "text": "No side effects or risks"
           }
         },
         "table_row_nhcpLj": {
@@ -893,6 +899,7 @@
         "list_item_6HHJ9f",
         "list_item_je9fPF",
         "list_item_AEkbjd",
+        "list_item_rf3iqM",
         "table_row_nhcpLj",
         "table_row_PG6KwQ",
         "table_row_Yc6KqU",
