@@ -629,7 +629,7 @@
         "button_bTtmkA"
       ],
       "custom_css": [
-        ".section-blends {padding-top: 20px !important; padding-bottom: 20px !important; }"
+        ".section-blends {padding-top: 20px !important; padding-bottom: 20px !important;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -707,9 +707,9 @@
         "item_rqhByf": {
           "type": "item",
           "settings": {
-            "title": "-70% de stress",
-            "subheading": "Nos clients estiment qu'Aura+ SuperCalm leur permet de réduire leur niveau de stress de 70 % au quotidien.*",
-            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "title": "Down 1 pant size",
+            "subheading": "Our customers say they feel lighter and have noticed a slimmer waistline — with up to one pant size down after just 3 weeks*",
+            "content": "<p><em><strong>*</strong></em><em>Based on customer feedback collected from our social media channels and post-program surveys.</em></p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
@@ -719,9 +719,9 @@
         "item_NgLpnr": {
           "type": "item",
           "settings": {
-            "title": "3X plus d'énergie",
-            "subheading": "Nos clients estiment qu'Aura+ SuperCalm leur apporte 3 fois plus d'énergie au quotidien depuis qu'ils en prennent.*",
-            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "title": "–70% bloating & hot flashes",
+            "subheading": "Our customers report significant relief from bloating and hot flashes — making their days feel lighter and more comfortable*",
+            "content": "<p><em><strong>*</strong></em><em>Based on customer feedback collected from our social media channels and post-program surveys.</em></p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
@@ -731,9 +731,9 @@
         "item_ikDQ4y": {
           "type": "item",
           "settings": {
-            "title": "+2h de sommeil",
-            "subheading": "Nos clients estiment qu'Aura+ SuperCalm améliore leur qualité de sommeil, leur offrant jusqu'à 2 heures de sommeil réparateur en plus chaque nuit.*",
-            "content": "<p>*estimation basée sur les avis clients recueillis sur nos réseaux sociaux.</p>",
+            "title": "+2 hours of restful sleep",
+            "subheading": "Our customers sleep deeper, longer, and wake up feeling more refreshed — with up to 2 extra hours of restful sleep each night*",
+            "content": "<p><strong>*</strong>Based on customer feedback collected from our social media channels and post-program surveys.</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
