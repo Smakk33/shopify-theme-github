@@ -628,6 +628,9 @@
         "liquid_FtEWiA",
         "button_bTtmkA"
       ],
+      "custom_css": [
+        ".section-blends {padding-top: 20px !important; padding-bottom: 20px !important; }"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
