@@ -1326,6 +1326,13 @@
             "content": "<p>Yes — SuperCalm helps reduce bloating and water retention by supporting digestion and reducing inflammation. Many women also report gradual changes in their waistline as their cravings go down and energy goes up, making healthier habits easier.</p>"
           }
         },
+        "item_87TtHR": {
+          "type": "item",
+          "settings": {
+            "title": "Can I take SuperCalm if I already use magnesium, probiotics or menopause supplements?",
+            "content": "<p>Yes, SuperCalm can be taken alongside most common supplements. Always check with a health professional if unsure.</p>"
+          }
+        },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
@@ -1347,6 +1354,7 @@
         "item_FmKhth",
         "item_6zdgWd",
         "item_BMB4qf",
+        "item_87TtHR",
         "item_U8BnMe",
         "item_9w86PN"
       ],
