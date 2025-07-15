@@ -1430,6 +1430,17 @@
     },
     "1736349541b004fa39": {
       "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_UqRETJ": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_UqRETJ"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1441,22 +1452,6 @@
     },
     "174799084244c7d176": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_DkUE6T": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 7,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_DkUE6T"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
