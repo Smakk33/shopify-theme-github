@@ -1288,6 +1288,39 @@
         "lazy": true
       }
     },
+    "1736349541b004fa39": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_UqRETJ": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_UqRETJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "174799084244c7d176": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq_FLiQH6": {
       "type": "faq",
       "blocks": {
@@ -1428,39 +1461,6 @@
         "accordion_text_color": ""
       }
     },
-    "1736349541b004fa39": {
-      "type": "apps",
-      "blocks": {
-        "trustoo_io_reviews_review_widget_UqRETJ": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-          "settings": {
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "trustoo_io_reviews_review_widget_UqRETJ"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "174799084244c7d176": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "ss_product_countdown_timer_2_FJgP8B": {
       "type": "ss-product-countdown-timer-2",
       "blocks": {
@@ -1553,9 +1553,9 @@
     "impact_text_Pz3GhT",
     "custom_liquid_MpwNcw",
     "comparaisonmzr_Q4RkY6",
-    "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
+    "faq_FLiQH6",
     "ss_product_countdown_timer_2_FJgP8B"
   ]
 }
