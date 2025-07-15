@@ -1333,6 +1333,41 @@
             "content": "<p>Yes, SuperCalm can be taken alongside most common supplements. Always check with a health professional if unsure.</p>"
           }
         },
+        "item_PpmVP4": {
+          "type": "item",
+          "settings": {
+            "title": "Is SuperCalm safe for long-term use?",
+            "content": "<p>Absolutely. SuperCalm was created for daily use and long-term wellness. There's no need to “cycle off” — except for weekends, where taking a short pause is recommended. In fact, most women feel better the longer they stay consistent.</p>"
+          }
+        },
+        "item_cEKVNG": {
+          "type": "item",
+          "settings": {
+            "title": "Is there caffeine or stimulants in SuperCalm?",
+            "content": "<p>No. SuperCalm contains no caffeine, green tea extract, or artificial stimulants. It’s safe to take day or night, and won’t disturb your sleep or cause jitters.</p>"
+          }
+        },
+        "item_phcADG": {
+          "type": "item",
+          "settings": {
+            "title": "Do I need to follow a specific diet or workout plan for SuperCalm to work?",
+            "content": "<p>No strict diet or exercise plan is required. SuperCalm supports your body from within — by easing bloating, fatigue, and cravings — which naturally makes healthy habits easier to maintain, if you choose to.</p>"
+          }
+        },
+        "item_hMqz7X": {
+          "type": "item",
+          "settings": {
+            "title": "Is SuperCalm suitable for sensitive stomachs or food intolerances?",
+            "content": "<p>Yes. SuperCalm is free from gluten, soy, dairy, and GMOs. Its minimalist, gut-friendly formula was designed to be gentle on sensitive stomachs — ideal for women navigating hormonal shifts.</p>"
+          }
+        },
+        "item_6xErEV": {
+          "type": "item",
+          "settings": {
+            "title": "Where is SuperCalm made and is it third-party tested?",
+            "content": "<p>SuperCalm is proudly made in the USA with globally sourced ingredients, in a certified facility that meets strict quality standards. Each batch is third-party tested for purity, safety, and potency — so you can trust what’s on the label is exactly what you get.</p>"
+          }
+        },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
@@ -1355,6 +1390,11 @@
         "item_6zdgWd",
         "item_BMB4qf",
         "item_87TtHR",
+        "item_PpmVP4",
+        "item_cEKVNG",
+        "item_phcADG",
+        "item_hMqz7X",
+        "item_6xErEV",
         "item_U8BnMe",
         "item_9w86PN"
       ],
