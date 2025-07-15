@@ -1319,6 +1319,13 @@
             "content": "<p>Yes — SuperCalm was formulated specifically for women in perimenopause, menopause, and post-menopause. It targets symptoms like bloating, fatigue, irritability, and stubborn belly fat with ingredients that support gut health, hormonal balance, and stress response.</p>"
           }
         },
+        "item_BMB4qf": {
+          "type": "item",
+          "settings": {
+            "title": "Will SuperCalm help with belly fat and bloating?",
+            "content": "<p>Yes — SuperCalm helps reduce bloating and water retention by supporting digestion and reducing inflammation. Many women also report gradual changes in their waistline as their cravings go down and energy goes up, making healthier habits easier.</p>"
+          }
+        },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
@@ -1339,6 +1346,7 @@
         "item_wB8JVQ",
         "item_FmKhth",
         "item_6zdgWd",
+        "item_BMB4qf",
         "item_U8BnMe",
         "item_9w86PN"
       ],
