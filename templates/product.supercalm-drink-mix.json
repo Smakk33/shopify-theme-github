@@ -305,46 +305,7 @@
           "settings": {
             "author": "Author",
             "time": "6h ago",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "count_comments": "30",
-            "comment": "30 comments",
-            "like_text": "Like",
-            "comment_text": "Comment",
-            "share_text": "Share"
-          }
-        },
-        "slide_8CQxAr": {
-          "type": "slide",
-          "settings": {
-            "author": "Author",
-            "time": "6h ago",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "count_comments": "30",
-            "comment": "30 comments",
-            "like_text": "Like",
-            "comment_text": "Comment",
-            "share_text": "Share"
-          }
-        },
-        "slide_6Pf6iy": {
-          "type": "slide",
-          "settings": {
-            "author": "Author",
-            "time": "6h ago",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "count_comments": "30",
-            "comment": "30 comments",
-            "like_text": "Like",
-            "comment_text": "Comment",
-            "share_text": "Share"
-          }
-        },
-        "slide_4trwJb": {
-          "type": "slide",
-          "settings": {
-            "author": "Author",
-            "time": "6h ago",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "text": "<p>I have lost 29 lbs in last 2 months. I can sleep without waking up in a pool of sweat and my moods have not been as crazy. I would definitely recommend this product!</p>",
             "count_comments": "30",
             "comment": "30 comments",
             "like_text": "Like",
@@ -357,7 +318,85 @@
           "settings": {
             "author": "Author",
             "time": "6h ago",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "text": "<p><em>Really excited with the results! I have tried many products that promised so much and failed but your product came through with flying colors. I am thrilled to be losing weight at 66 yrs old. I am thrilled not to have acid reflux and I am thrilled to have finally found a product that does what it says it will do. Thank you from the bottom of my heart Meritage.</em></p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_8CQxAr": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>When I decided to give Supercalm a try, I committed to the full three months! I didn’t have to wait that long. After a month and a half the belly fat that I put on in my mid 40’s is melting off!</p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_6Pf6iy": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>I’m going through Perimenopause. Took Supercalm for 3 weeks and WOW I feel great! No more night sweats, I’m more mindful of snacking between meals, my joints feel more flexible and I wake up feeling refreshed and energized. The best part? My pants feel looser and my tops fit better!</p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_4trwJb": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>It helps tremendously with menopause symptoms and my hypothyroidism. My T-cells are down. I don't feel so sluggish and I have more energy. I lost about 10 lbs since I've been on SuperCalm.</p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_MNUj8W": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>I am in week 4 and feel amazing. My belly bloat disappeared after day 4, my IBS-C is alleviated and I’m losing weight. I’m loving how my body is responding!</p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_A8yBDF": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>I can eat everything without worrying about gaining weight because of Supercalm.</p>",
+            "count_comments": "30",
+            "comment": "30 comments",
+            "like_text": "Like",
+            "comment_text": "Comment",
+            "share_text": "Share"
+          }
+        },
+        "slide_97XLAY": {
+          "type": "slide",
+          "settings": {
+            "author": "Author",
+            "time": "6h ago",
+            "text": "<p>I forget things less often, the weight came off, hot flashes went down & my joints feel great.</p>",
             "count_comments": "30",
             "comment": "30 comments",
             "like_text": "Like",
@@ -368,10 +407,13 @@
       },
       "block_order": [
         "slide_jgGTYb",
+        "slide_AaVTzg",
         "slide_8CQxAr",
         "slide_6Pf6iy",
         "slide_4trwJb",
-        "slide_AaVTzg"
+        "slide_MNUj8W",
+        "slide_A8yBDF",
+        "slide_97XLAY"
       ],
       "name": "SS - Testimonials #20",
       "settings": {
