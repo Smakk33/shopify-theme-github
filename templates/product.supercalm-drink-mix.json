@@ -1294,29 +1294,29 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "Can I apply this treatment under my lipstick?",
-            "content": "<p>Yes – its lightweight texture absorbs quickly and creates the perfect base for lipstick or makeup.</p>"
+            "title": "When will I start feeling results with SuperCalm?",
+            "content": "<p>Most women notice early improvements in digestion, bloating, and energy within 7 to 10 days. Deeper benefits like better sleep, fewer cravings, and improved mood are usually felt within 3 to 4 weeks. Everyone’s body is different, but consistency is key.</p>"
           }
         },
         "item_wB8JVQ": {
           "type": "item",
           "settings": {
-            "title": "What guarantee do you offer?",
-            "content": "<p>We offer a <strong>30-day money-back guarantee. If you're not satisfied with the results</strong> – for any reason – you’re entitled to a full refund, <strong>no questions asked. </strong></p><p>Simply get in touch with our customer service team by email or via live chat.</p>"
+            "title": "Can I take SuperCalm if I’m on medication or have a health condition?",
+            "content": "<p>SuperCalm was designed to be gentle and non-interfering. However, if you are on prescription medications or have a specific condition (like thyroid or blood pressure issues), we recommend consulting your doctor before starting any supplement.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "How long does shipping take and how can I track my order?",
-            "content": "<p>Our products are shipped within <strong>4 to 9 business days via Canada Post</strong>. Once your order has been shipped, you’ll receive a tracking number so you can follow it every step of the way.</p>"
+            "title": "Does SuperCalm have any side effects?",
+            "content": "<p>SuperCalm is well tolerated by most women. It contains natural, gut-friendly ingredients, without artificial additives or stimulants. A small number of users may notice mild digestive adjustments in the first days — this is usually a positive sign that your gut is rebalancing.</p>"
           }
         },
-        "item_9w86PN": {
+        "item_6zdgWd": {
           "type": "item",
           "settings": {
-            "title": "Are my payments secure?",
-            "content": "<p>Absolutely. All payments made on our website are <strong>protected by SSL encryption</strong>, ensuring that your personal and payment details remain <strong>fully secure and completely confidential.</strong></p>"
+            "title": "Can I take SuperCalm during menopause or perimenopause?",
+            "content": "<p>Yes — SuperCalm was formulated specifically for women in perimenopause, menopause, and post-menopause. It targets symptoms like bloating, fatigue, irritability, and stubborn belly fat with ingredients that support gut health, hormonal balance, and stress response.</p>"
           }
         },
         "item_U8BnMe": {
@@ -1325,14 +1325,22 @@
             "title": "How can I contact your customer service team?",
             "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <strong>support@trymeritage.com</strong><br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
           }
+        },
+        "item_9w86PN": {
+          "type": "item",
+          "settings": {
+            "title": "Are my payments secure?",
+            "content": "<p>Absolutely. All payments made on our website are <strong>protected by SSL encryption</strong>, ensuring that your personal and payment details remain <strong>fully secure and completely confidential.</strong></p>"
+          }
         }
       },
       "block_order": [
         "item_KqDpLp",
         "item_wB8JVQ",
         "item_FmKhth",
-        "item_9w86PN",
-        "item_U8BnMe"
+        "item_6zdgWd",
+        "item_U8BnMe",
+        "item_9w86PN"
       ],
       "settings": {
         "full_width": true,
