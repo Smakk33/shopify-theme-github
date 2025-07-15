@@ -300,12 +300,12 @@
     "ss_testi_20_fQRwgm": {
       "type": "SS-testi-20",
       "blocks": {
-        "slide_jgGTYb": {
+        "slide_AaVTzg": {
           "type": "slide",
           "settings": {
             "author": "Author",
             "time": "6h ago",
-            "text": "<p>I have lost 29 lbs in last 2 months. I can sleep without waking up in a pool of sweat and my moods have not been as crazy. I would definitely recommend this product!</p>",
+            "text": "<p><em>Really excited with the results! I have tried many products that promised so much and failed but your product came through with flying colors. I am thrilled to be losing weight at 66 yrs old. I am thrilled not to have acid reflux and I am thrilled to have finally found a product that does what it says it will do. Thank you from the bottom of my heart Meritage.</em></p>",
             "count_comments": "30",
             "comment": "30 comments",
             "like_text": "Like",
@@ -313,12 +313,12 @@
             "share_text": "Share"
           }
         },
-        "slide_AaVTzg": {
+        "slide_jgGTYb": {
           "type": "slide",
           "settings": {
             "author": "Author",
             "time": "6h ago",
-            "text": "<p><em>Really excited with the results! I have tried many products that promised so much and failed but your product came through with flying colors. I am thrilled to be losing weight at 66 yrs old. I am thrilled not to have acid reflux and I am thrilled to have finally found a product that does what it says it will do. Thank you from the bottom of my heart Meritage.</em></p>",
+            "text": "<p>I have lost 29 lbs in last 2 months. I can sleep without waking up in a pool of sweat and my moods have not been as crazy. I would definitely recommend this product!</p>",
             "count_comments": "30",
             "comment": "30 comments",
             "like_text": "Like",
@@ -406,8 +406,8 @@
         }
       },
       "block_order": [
-        "slide_jgGTYb",
         "slide_AaVTzg",
+        "slide_jgGTYb",
         "slide_8CQxAr",
         "slide_6Pf6iy",
         "slide_4trwJb",
@@ -504,25 +504,25 @@
         "dots_mt_mobile": 16,
         "dots_show_desktop": true,
         "dots_show_mobile": true,
-        "slide_bg_color": "#FFFFFF",
-        "slide_border_color": "#DFDFDF",
+        "slide_bg_color": "#ffffff",
+        "slide_border_color": "#dfdfdf",
         "slide_shadow_color": "#000000",
         "author_color": "#000000",
         "author_time_color": "#000000",
         "text_color": "#000000",
         "comment_color": "#000000",
-        "buttons_border_color": "#A4B0BE",
+        "buttons_border_color": "#a4b0be",
         "button_icon_color": "#000000",
         "button_text_color": "#000000",
-        "arrow_color": "#7B7B7B",
-        "arrow_hover_color": "#7B7B7B",
-        "arrow_bg_color": "#EBEBEB",
-        "arrow_bg_hover_color": "#F5F5F5",
-        "arrow_border_color": "#C7C7C7",
-        "arrow_border_hover_color": "#C7C7C7",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
         "dots_color": "#000000",
         "heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
