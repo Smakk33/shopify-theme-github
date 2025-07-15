@@ -725,10 +725,10 @@
       ],
       "name": "SS - Scrolling Logo Cloud",
       "settings": {
-        "ss-title": "Trusted by Beauty Experts. Loved by Women Over 50.",
+        "ss-title": "Enjoy SuperCalm with ZERO risk - with our 30-day money-back guarantee.",
         "heading_custom": true,
         "heading_font": "dm_sans_n7",
-        "header_size": 34,
+        "header_size": 28,
         "header_align": "center",
         "scrolling_velocity": 30,
         "pause_hover": false,
@@ -778,6 +778,7 @@
         "heading_9cxrFJ",
         "richtext_br9JDF"
       ],
+      "disabled": true,
       "custom_css": [
         ".section-blends {margin-top: 0px; margin-bottom: 0px;}"
       ],
@@ -792,6 +793,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [
@@ -823,6 +825,7 @@
     },
     "featured_collection_UQti4Q": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [
@@ -895,6 +898,7 @@
         "testimonial_FfwpbP",
         "testimonial_zbpm4T"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": false,
