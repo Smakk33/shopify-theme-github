@@ -655,7 +655,7 @@
             "subheading": "Women suffer in silence",
             "content": "<p><strong>Hot flashes, poor sleep, mood swings… </strong>These signs are often dismissed — but they take a real toll on your confidence, energy, and daily life. Natural support <em>does</em> exist to help you feel like yourself again.</p>",
             "button_text": "👉 I’m taking back control",
-            "button_url": "",
+            "button_url": "shopify://products/supercalm-drink",
             "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
@@ -873,7 +873,7 @@
             "style": "fill",
             "size": "xl",
             "text": "👉 I’m finding my balance again",
-            "url": "",
+            "url": "shopify://products/supercalm-drink",
             "background": "#29d2fa",
             "text_color": ""
           }
