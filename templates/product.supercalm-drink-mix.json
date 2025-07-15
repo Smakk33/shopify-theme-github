@@ -832,7 +832,7 @@
         "button_bTtmkA"
       ],
       "custom_css": [
-        ".section-blends {padding-top: 20px !important; padding-bottom: 20px !important;}"
+        ".section-blends {padding-top: 20px !important; padding-bottom: 30px !important;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -886,6 +886,7 @@
         "testimonial_yJqEe8",
         "testimonial_ekhkg3"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "full_width": true,
