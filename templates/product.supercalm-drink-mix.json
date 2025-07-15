@@ -291,7 +291,9 @@
       "block_order": [
         "image_K7RXjJ"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".media-with-text__content {padding-top: 2px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
+      ],
       "settings": {
         "full_width": true,
         "spacing": "none"
