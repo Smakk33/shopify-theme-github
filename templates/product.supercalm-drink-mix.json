@@ -812,7 +812,7 @@
         "table_row_nhcpLj": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Optimized Dosing",
+            "row_heading": "100% Natural & hormone-free",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -826,11 +826,11 @@
         "table_row_PG6KwQ": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Relieves hot flashes",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
-            "second_column_icon": "cross",
+            "second_column_icon": "check",
             "third_column": "",
             "third_column_icon": "none",
             "four_column": "",
@@ -840,7 +840,7 @@
         "table_row_Yc6KqU": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "No dependency or withdrawal",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -854,7 +854,7 @@
         "table_row_yTR9Kn": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Simple Ingredients",
+            "row_heading": "Zero hormonal or cancer risk",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -868,7 +868,7 @@
         "table_row_RttJFm": {
           "type": "table_row",
           "settings": {
-            "row_heading": "3rd Party Tested",
+            "row_heading": "Supports deep sleep & calm",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -882,7 +882,7 @@
         "table_row_9QctGH": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Delicious Taste",
+            "row_heading": "Eases bloating & digestion",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -966,7 +966,7 @@
         "table_heading_image_size": 100,
         "table_heading_image_size_mobile": 80,
         "first_heading": "US",
-        "second_heading": "Other Brands",
+        "second_heading": "HRT",
         "third_heading": "Third",
         "four_heading": "Fourth",
         "table_heading_custom": false,
