@@ -779,6 +779,18 @@
     "comparaisonmzr_Q4RkY6": {
       "type": "comparaisonmzr",
       "blocks": {
+        "list_item_AEkbjd": {
+          "type": "list_item",
+          "settings": {
+            "text": "Natural & hormone-free"
+          }
+        },
+        "list_item_rf3iqM": {
+          "type": "list_item",
+          "settings": {
+            "text": "No side effects or risks"
+          }
+        },
         "list_item_AQtyPY": {
           "type": "list_item",
           "settings": {
@@ -795,18 +807,6 @@
           "type": "list_item",
           "settings": {
             "text": "Feel calmer, sleep deeper"
-          }
-        },
-        "list_item_AEkbjd": {
-          "type": "list_item",
-          "settings": {
-            "text": "Natural & hormone-free"
-          }
-        },
-        "list_item_rf3iqM": {
-          "type": "list_item",
-          "settings": {
-            "text": "No side effects or risks"
           }
         },
         "table_row_nhcpLj": {
@@ -895,11 +895,11 @@
         }
       },
       "block_order": [
+        "list_item_AEkbjd",
+        "list_item_rf3iqM",
         "list_item_AQtyPY",
         "list_item_6HHJ9f",
         "list_item_je9fPF",
-        "list_item_AEkbjd",
-        "list_item_rf3iqM",
         "table_row_nhcpLj",
         "table_row_PG6KwQ",
         "table_row_Yc6KqU",
@@ -940,7 +940,7 @@
         "list_text_size": 20,
         "list_text_size_mobile": 18,
         "list_text_height": 150,
-        "button": "TRY TODAY",
+        "button": "👉 Try Hormone-Free Relief",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
