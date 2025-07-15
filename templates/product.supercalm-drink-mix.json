@@ -387,11 +387,12 @@
         "slide_A8yBDF": {
           "type": "slide",
           "settings": {
-            "author": "Author",
-            "time": "6h ago",
+            "author_image": "shopify://shop_images/465118660_122127440414436141_6338791242422877827_n.webp",
+            "author": "Margaret B.",
+            "time": "2d",
             "text": "<p>I can eat everything without worrying about gaining weight because of Supercalm.</p>",
-            "count_comments": "30",
-            "comment": "30 comments",
+            "count_comments": "13",
+            "comment": "1 comments",
             "like_text": "Like",
             "comment_text": "Comment",
             "share_text": "Share"
