@@ -1375,6 +1375,13 @@
             "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <strong>support@trymeritage.com</strong><br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
           }
         },
+        "item_MjmFxR": {
+          "type": "item",
+          "settings": {
+            "title": "Is there a money-back guarantee if it doesn’t work for me?",
+            "content": "<p>Yes. Every order of SuperCalm is backed by our 30-day money-back guarantee. If you’re not satisfied — for any reason — simply reach out to our team within 30 days of receiving your order, and we’ll refund you in full. No hassle, no hard feelings.</p>"
+          }
+        },
         "item_9w86PN": {
           "type": "item",
           "settings": {
@@ -1396,6 +1403,7 @@
         "item_hMqz7X",
         "item_6xErEV",
         "item_U8BnMe",
+        "item_MjmFxR",
         "item_9w86PN"
       ],
       "settings": {
