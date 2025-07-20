@@ -190,7 +190,7 @@
         "liquid_EBXxFx": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>Almost sold out – Max. 6 units per person\n</p>"
+            "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: #f47db4;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: #f47db4;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>Almost sold out – Max. 6 units per person\n</p>"
           }
         },
         "buy_buttons": {
