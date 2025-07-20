@@ -378,7 +378,7 @@
         "image_K7RXjJ"
       ],
       "custom_css": [
-        ".media-with-text__content {padding-top: 40px; /* Ajustez selon vos besoins */ padding-bottom: 20px; /* Ajustez selon vos besoins */}"
+        ".section-blends {padding-top: 20px; /* Change la valeur selon ton besoin */ padding-bottom: 10px; /* Change la valeur selon ton besoin */}"
       ],
       "settings": {
         "full_width": true,
