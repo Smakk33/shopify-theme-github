@@ -312,6 +312,43 @@
         "image_K7RXjJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Gleefull1.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Get Your Old Self Back Naturally In Just 48 Hours",
+            "content": "<p>Women in Japan have much less problems from menopause than American women, McGill University research shows.</p><p>Researchers have finally discovered why, and put the solution into a natural supplement that women are raving about.</p><p>Wouldn’t it be nice never to experience menopausal weight gain and symptoms or not have it as bad?</p><p>Imagine never having to deal with hot flushes/flashes, night sweats, vaginal dryness, mood swings or fatigue.</p>",
+            "link_text": "",
+            "link_url": "shopify://products/supercalm-drink",
+            "background": "#ede8ff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "#29d2fa",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_K7RXjJ"
+      ],
+      "custom_css": [
+        ".media-with-text__content {padding-top: 40px; /* Ajustez selon vos besoins */ padding-bottom: 20px; /* Ajustez selon vos besoins */}"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_RKKdCq": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_xjBUyK": {
+          "type": "image",
+          "settings": {
             "image": "shopify://shop_images/mix_gif.gif",
             "media_width": 50,
             "media_position": "start",
@@ -333,10 +370,7 @@
         }
       },
       "block_order": [
-        "image_K7RXjJ"
-      ],
-      "custom_css": [
-        ".media-with-text__content {padding-top: 40px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
+        "image_xjBUyK"
       ],
       "settings": {
         "full_width": true,
@@ -1586,6 +1620,7 @@
     "rich_text_XbiB4k",
     "main",
     "media_with_text_yArhtg",
+    "media_with_text_RKKdCq",
     "ss_testi_20_fQRwgm",
     "press_d49NgN",
     "rich_text_atx7pM",
