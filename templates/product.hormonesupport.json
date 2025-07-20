@@ -40,6 +40,9 @@
         "subheading_rF83Nj",
         "richtext_B6mWLR"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; /* Ajustez selon vos besoins */ padding-bottom: 10px; /* Ajustez selon vos besoins */}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
