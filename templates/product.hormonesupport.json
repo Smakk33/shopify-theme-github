@@ -343,38 +343,45 @@
         "spacing": "none"
       }
     },
-    "media_with_text_RKKdCq": {
-      "type": "media-with-text",
+    "rich_text_VVQWKF": {
+      "type": "rich-text",
       "blocks": {
-        "image_xjBUyK": {
-          "type": "image",
+        "subheading_Wi4b9J": {
+          "type": "subheading",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/mix_gif.gif",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Discover a new way to feel lighter — inside and out",
-            "content": "<p>Enjoy a calming drink in seconds.<br/><br/>Just pour one sachet into a glass of water, stir with the included mixer, and <strong>feel an instant sense of lightness and well-being</strong>.</p><p>A simple daily ritual to <strong>relieve bloating</strong>, <strong>ease hot flashes</strong>, and <strong>flatten hormonal belly fat</strong> over time.</p>",
-            "link_text": "👉 Feel balanced again",
-            "link_url": "shopify://products/supercalm-drink",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "#29d2fa",
-            "button_text_color": ""
+            "text": "Subheading"
+          }
+        },
+        "heading_yyqVAY": {
+          "type": "heading",
+          "settings": {
+            "text": "Why You Gain Weight and Suffer Hot Flashes",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_xbdFbJ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Your hormones change during menopause This causes the body to become more resistant to insulin and store more fat, which leads to weight gain.</p><p>Estrogen levels also drop during menopause. This causes your body to slow down its metabolism and increase cravings for fatty and sugary foods.</p><p>When your hormones are NOT functioning properly (like now) …</p><p>It means your metabolism doesn’t function properly either…</p><p>And instead of burning calories like it should…</p><p>Your metabolism stores those calories as fat on your body (yuck).</p><p>This is why, when you have issues with your hormones…</p><p>You can starve yourself and workout all day…</p><p>But you’re still going to have weight loss resistance and feel lousy …</p><p>Because even though you’re doing activities that normally<br/>would burn calories…</p><p>When your hormones are out of whack…</p>"
           }
         }
       },
       "block_order": [
-        "image_xjBUyK"
+        "subheading_Wi4b9J",
+        "heading_yyqVAY",
+        "richtext_xbdFbJ"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "spacing": "none"
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "ss_testi_20_fQRwgm": {
@@ -1620,7 +1627,7 @@
     "rich_text_XbiB4k",
     "main",
     "media_with_text_yArhtg",
-    "media_with_text_RKKdCq",
+    "rich_text_VVQWKF",
     "ss_testi_20_fQRwgm",
     "press_d49NgN",
     "rich_text_atx7pM",
