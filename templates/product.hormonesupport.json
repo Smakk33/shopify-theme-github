@@ -147,6 +147,13 @@
         "liquid_RFpHHj": {
           "type": "liquid",
           "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Features List</title>\n    <style>\n        @keyframes borderAnimation {\n            0% {\n                border-color: #6b5cab;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n            50% {\n                border-color: #6b5cab;\n                box-shadow: 0 0 20px rgba(220, 220, 220, 0.7);\n            }\n            100% {\n                border-color: #6b5cab;\n                box-shadow: 0 0 10px rgba(232, 232, 232, 0.5);\n            }\n        }\n\n        body.unique-body-xyz123 {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #f0f0f0; /* Açık gri */\n            padding: 4px 0; /* Yukarı ve aşağı 4px boşluk */\n        }\n\n        .features-container-xyz123 {\n            background-color: #ffffff; /* Bir ton daha açık gri */\n            border-radius: 12px;\n            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);\n            padding: 20px;\n            max-width: 400px;\n            width: 100%;\n            border: 2px solid #e8e8e8; /* Bir ton daha açık border rengi */\n            animation: borderAnimation 3s infinite;\n        }\n\n        .feature-item-xyz123 {\n            display: flex;\n            align-items: center;\n            margin-bottom: 15px;\n        }\n\n        .feature-item-xyz123:last-child {\n            margin-bottom: 0;\n        }\n\n        .check-icon-xyz123 {\n            width: 20px;\n            height: 20px;\n            margin-right: 10px;\n        }\n\n        .feature-text-xyz123 {\n            font-size: 12px;\n            color: #333;\n        }\n    </style>\n</head>\n<body class=\"unique-body-xyz123\">\n    <div class=\"features-container-xyz123\">\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Eliminate Menopausal Symptoms up to 87.5%</div>\n        </div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Suppress “Fat Storing Hormones” and Support Fat Burning Hormones in days.</div>\n        </div>\n        <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Minimize Hot Flashes and Mood Swings by 43%</div>\n        </div>\n <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Safe & Natural Herbal Solution to HRT</div>\n        </div>\n <div class=\"feature-item-xyz123\">\n            <img src=\"https://www.svgrepo.com/show/507980/check-badge.svg\" alt=\"Check Icon\" class=\"check-icon-xyz123\">\n            <div class=\"feature-text-xyz123\">Reduce brain fog and improve mental clarity</div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_nVkq7R": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
             "liquid": "<style>\n  p {\n    font-size: 14px;\n    line-height: 1.2;\n  }\n</style>\n\n<p>✓ Eliminate Menopausal Symptoms up to 87.5%</p>\n<p>✓ Suppress “Fat Storing Hormones” and Support Fat Burning Hormones in days.</p>\n<p>✓ Minimize Hot Flashes and Mood Swings by 43%</p>\n<p>✓ Safe & Natural Herbal Solution to HRT</p>\n<p>✓ Reduce brain fog and improve mental clarity</p>"
           }
         },
@@ -296,6 +303,7 @@
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
         "liquid_RFpHHj",
+        "liquid_nVkq7R",
         "description",
         "liquid_tTtDrq",
         "variant_picker",
