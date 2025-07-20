@@ -728,6 +728,40 @@
         "spacing": "none"
       }
     },
+    "media_with_text_Q7GXpw": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_gJKtBd": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_gJKtBd"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -1565,6 +1599,7 @@
     "rich_text_VVQWKF",
     "media_with_text_biEBeH",
     "media_with_text_FGYCxn",
+    "media_with_text_Q7GXpw",
     "press_d49NgN",
     "impact_text_mAgnqX",
     "custom_liquid_6ULBz4",
