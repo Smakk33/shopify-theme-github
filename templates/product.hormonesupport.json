@@ -59,7 +59,7 @@
         "liquid_66hjAM": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"padding: 5px 0;\">\n  <div style=\"font-size: 15px; font-style: normal; color: #000;\">\n    “I’ve Actually \n    <span style=\"color: #6b5cab; font-weight: bold;\">Dropped 23 Lbs In About 2 Months!</span> \n    Suppresses Appetite And Has \n    <span style=\"color: #6b5cab; font-weight: bold;\">Increased My Energy</span>. \n    Way Better Than Others \n    <span style=\"color: #6b5cab; font-weight: bold;\">I’ve Tried. I’m Hooked!”</span> \n    – <strong>Sara P.</strong>\n  </div>\n</div>"
+            "liquid": "<div style=\"font-size: 15px; line-height: 1.5; font-family: 'Inter', sans-serif; font-weight: 400; color: #000000;\">\n  “I’ve Actually <span style=\"color: #6b5cab; font-weight: 600;\">Dropped 23 Lbs In About 2 Months!</span> Suppresses Appetite And Has <span style=\"color: #6b5cab; font-weight: 600;\">Increased My Energy</span>. Way Better Than Others <span style=\"color: #6b5cab; font-weight: 600;\">I’ve Tried. I’m Hooked!</span>” <strong>– Sara P.</strong>\n</div>"
           }
         },
         "title": {
