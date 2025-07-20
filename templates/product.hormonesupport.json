@@ -9,6 +9,47 @@
  */
 {
   "sections": {
+    "rich_text_XbiB4k": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dnLkiy": {
+          "type": "heading",
+          "settings": {
+            "text": "- Finally - a Safe & Natural Herbal Solution to Reverse Menopause Weight, Flatten MenoBelly, Eliminate Hot Flashes, Mood Swings and Insomnia",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "subheading_rF83Nj": {
+          "type": "subheading",
+          "settings": {
+            "text": "This “Natural Japanese Hormone Balancer” has Worked For Millions of Women for 1,200 Years"
+          }
+        },
+        "richtext_B6mWLR": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dnLkiy",
+        "subheading_rF83Nj",
+        "richtext_B6mWLR"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ede8ff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -1539,6 +1580,7 @@
     }
   },
   "order": [
+    "rich_text_XbiB4k",
     "main",
     "media_with_text_yArhtg",
     "ss_testi_20_fQRwgm",
