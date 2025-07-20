@@ -635,6 +635,98 @@
         "text_color": ""
       }
     },
+    "media_with_text_biEBeH": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_f9MBYQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gleefull_2.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The 1,200 Year Old Natural Secret From Japan",
+            "content": "<p>You can’t stop your body from going into menopause, but Japanese women have found the best solution: </p><p>certain herbs in specific dosages RESET your hormone levels back to where they need to be so your body automatically Burns off fat again and also reduces your hot flashes and other symptoms.</p><p>This is the first solution from our research team to balance the key hormones you need to slim down and be problem-free...</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_f9MBYQ"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_FGYCxn": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_wUYtxE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Gleefull3.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "What’s Inside",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_TWcqyg": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wUYtxE",
+        "image_TWcqyg"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "press_d49NgN": {
       "type": "press",
       "blocks": {
@@ -663,47 +755,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "rich_text_atx7pM": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_zPa3me": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_bNzNja": {
-          "type": "heading",
-          "settings": {
-            "text": "The full benefits of SuperCalm for hormonal balance during (peri)menopause",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_M4Kwqp": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Hormonal fluctuations can trigger a cascade of uncomfortable symptoms: hot flashes, bloating, low energy, mood swings, trouble sleeping...<br/><br/>SuperCalm works at the root of these imbalances with clinically studied ingredients — to help you feel more balanced, physically and emotionally, day after day.</p><h3>1. Menopause causes bloating and digestive discomfort</h3><p>The formula helps relieve bloating, relax the digestive system, and support regularity — thanks to Magnesium Glycinate and L-Theanine. For a lighter, more comfortable belly every day.</p><h3>2. Menopause makes weight management harder</h3><p>A drop in estrogen can disrupt your metabolism and increase belly fat storage. High cortisol levels also play a role. Ashwagandha helps regulate cortisol, while Magnesium supports metabolism — helping to reduce cravings and support a naturally more stable weight.</p><h3>3. Menopause triggers hot flashes and night sweats</h3><p>Ashwagandha helps stabilize hormonal fluctuations, and Vitamin D3 supports overall balance — helping to ease thermal discomfort and bring more comfort, day and night.</p><h3>4. Menopause disrupts sleep</h3><p>Falling asleep becomes harder, nights more restless. Magnesium and L-Theanine help you fall asleep faster, enjoy deeper rest, and wake up feeling more refreshed.</p><h3>5. Menopause drains your energy and mental clarity</h3><p>Persistent fatigue, low motivation, “brain fog”... Vitamin D3, Magnesium, and L-Theanine work together to reduce mental and physical fatigue — so you can feel more focused and energized all day long.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_zPa3me",
-        "heading_bNzNja",
-        "richtext_M4Kwqp"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "start",
-        "background": "#eefcff",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "impact_text_mAgnqX": {
@@ -751,6 +802,7 @@
         "item_aiKh7y",
         "item_jAQzzm"
       ],
+      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -766,91 +818,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "media_grid_QJnzpt": {
-      "type": "media-grid",
-      "blocks": {
-        "image_FTjkwY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/PDT8_5918edc7-c4f5-4be4-93e1-8dcaf4a62372.png",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_FXRCgc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Projet_CASH_1_1.webp",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_RbjDYH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/PDT4_93a61ede-da82-41fb-82ce-973495696f16.png",
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_FTjkwY",
-        "image_FXRCgc",
-        "image_RbjDYH"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
       }
     },
     "custom_liquid_6ULBz4": {
@@ -929,6 +896,7 @@
         "item_qzi4Qp",
         "item_wCVphJ"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -939,44 +907,6 @@
         "title": "Powerful ingredients, working in perfect harmony for your well-being",
         "content": "<p>Formulated by experts, with your health in mind</p>",
         "background": "#e6f1f9",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_YDRgpq": {
-      "type": "rich-text",
-      "blocks": {
-        "liquid_FtEWiA": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div data-rid=\"80000c44-d1a0-42d3-99e3-065435f0a09a\" class=\"r-vz5h3c\" style=\"display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;\">\n  <div data-rid=\"2c8759ac-f5c1-4e2b-8fbc-d0fc64a108ae\" class=\"r-11w96jh\" style=\"display: flex; align-items: center; gap: 8px;\">\n    <div data-rid=\"ed59bca5-5922-4e6b-b180-74ff12b30c24\" class=\"r-1wf2amn alchemy-rte\" style=\"display: inline-block;\">\n      <span style=\"width:100%\"><p style=\"margin: 0;\"><strong>SUPER</strong><em>CALM</em></p></span>\n    </div>\n  </div>\n</div>"
-          }
-        },
-        "button_bTtmkA": {
-          "type": "button",
-          "settings": {
-            "style": "fill",
-            "size": "xl",
-            "text": "👉 I’m finding my balance again",
-            "url": "shopify://products/supercalm-drink",
-            "background": "#29d2fa",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "liquid_FtEWiA",
-        "button_bTtmkA"
-      ],
-      "custom_css": [
-        ".section-blends {padding-top: 20px !important; padding-bottom: 30px !important;}"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1087,6 +1017,7 @@
         "item_NgLpnr",
         "item_ikDQ4y"
       ],
+      "disabled": true,
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -1106,6 +1037,7 @@
     },
     "custom_liquid_MpwNcw": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -1248,6 +1180,7 @@
         "table_row_RttJFm",
         "table_row_9QctGH"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "Comparison Table 8lab ",
       "settings": {
@@ -1629,13 +1562,12 @@
     "ss_testi_20_fQRwgm",
     "media_with_text_yArhtg",
     "rich_text_VVQWKF",
+    "media_with_text_biEBeH",
+    "media_with_text_FGYCxn",
     "press_d49NgN",
-    "rich_text_atx7pM",
     "impact_text_mAgnqX",
-    "media_grid_QJnzpt",
     "custom_liquid_6ULBz4",
     "multi_column_idckHq",
-    "rich_text_YDRgpq",
     "testimonials_iznDN9",
     "impact_text_Pz3GhT",
     "custom_liquid_MpwNcw",
