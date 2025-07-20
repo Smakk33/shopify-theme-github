@@ -267,6 +267,7 @@
         },
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Ingredients",
             "content": "<p><em><strong>Active Ingredients:</strong></em></p><ul><li><strong>Ashwagandha</strong>: 300 mg</li><li><strong>L-Theanine</strong>: 400 mg</li><li><strong>Magnesium Glycinate</strong>: 100 mg</li><li><strong>Vitamin D3</strong>: 1000 IU</li></ul><p><em><strong>Other Ingredients:</strong></em></p><p><em>Citric acid, natural raspberry flavour, natural lemon flavour, organic beetroot extract, stevia leaf extract.</em></p>",
@@ -275,6 +276,7 @@
         },
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "How should I take SuperCalm?",
             "content": "<p><strong>Take 1 sachet per day</strong>, ideally in the morning or evening, from Monday to Friday.</p><ul><li><strong>If you're experiencing intense hot flashes, low energy, or mood swings</strong>, you may take up to <strong>2 sachets daily</strong> — <em>one in the morning and another in the early afternoon.</em></li><li><strong>Weekend pause recommended</strong>: to maximize long-term benefits and avoid building tolerance, we suggest taking a break on Saturdays and Sundays.</li></ul><p><strong>Mix with a full glass of water</strong> and stir well before drinking. <em>For best results, stick to your daily routine consistently.</em></p>",
@@ -283,6 +285,7 @@
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Shipping & Delivery",
             "content": "<p>All orders are shipped within 24 to 48 hours.<br/><br/>Estimated delivery: <strong>5 to 9 business days</strong> across Canada.</p>",
@@ -1635,8 +1638,8 @@
     "custom_liquid_9ifdC7",
     "rich_text_XbiB4k",
     "main",
-    "ss_testi_20_fQRwgm",
     "media_with_text_yArhtg",
+    "ss_testi_20_fQRwgm",
     "rich_text_VVQWKF",
     "media_with_text_biEBeH",
     "media_with_text_FGYCxn",
