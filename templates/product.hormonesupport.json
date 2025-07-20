@@ -667,6 +667,9 @@
         "heading_yyqVAY",
         "richtext_xbdFbJ"
       ],
+      "custom_css": [
+        ".section-blends {padding-top: 20px; /* Change la valeur selon ton besoin */ padding-bottom: 10px; /* Change la valeur selon ton besoin */}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -705,6 +708,9 @@
       },
       "block_order": [
         "image_f9MBYQ"
+      ],
+      "custom_css": [
+        ".section-blends {padding-top: 20px; /* Change la valeur selon ton besoin */ padding-bottom: 10px; /* Change la valeur selon ton besoin */}"
       ],
       "name": "Media with text",
       "settings": {
