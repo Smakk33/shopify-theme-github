@@ -9,6 +9,19 @@
  */
 {
   "sections": {
+    "custom_liquid_9ifdC7": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div style=\"background-color: #ede8ff; padding: 20px 15px; text-align: center;\">\n  <h2 style=\"color: #000000; font-family: inherit; font-size: 17px; font-weight: 700; line-height: 1.3; margin: 0 0 10px;\">\n    - Finally - a Safe & Natural Herbal Solution to Reverse Menopause Weight, Flatten MenoBelly, Eliminate Hot Flashes, Mood Swings and Insomnia\n  </h2>\n  <p style=\"color: #6b5cab; font-family: inherit; font-size: 14px; font-weight: 500; margin: 0;\">\n    This “Natural Japanese Hormone Balancer” has Worked\n    For Millions of Women for 1,200 Years\n  </p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_XbiB4k": {
       "type": "rich-text",
       "blocks": {
@@ -1601,6 +1614,7 @@
     }
   },
   "order": [
+    "custom_liquid_9ifdC7",
     "rich_text_XbiB4k",
     "main",
     "ss_testi_20_fQRwgm",
