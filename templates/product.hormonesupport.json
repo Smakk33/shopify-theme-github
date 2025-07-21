@@ -1420,6 +1420,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_c7afBY": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n  .formulas-banner {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-around;\n    align-items: center;\n    padding: 30px 10px;\n    background-color: #FFE885; /* change ici si besoin */\n  }\n\n  .formula-item {\n    flex: 1 1 120px;\n    max-width: 130px;\n    text-align: center;\n    margin: 10px;\n  }\n\n  .formula-item img {\n    width: 70px;\n    height: 70px;\n    object-fit: contain;\n    margin-bottom: 8px;\n  }\n\n  .formula-item p {\n    font-size: 14px;\n    font-weight: 600;\n    color: #333;\n    margin: 0;\n  }\n\n  @media screen and (max-width: 768px) {\n    .formulas-banner {\n      justify-content: center;\n    }\n\n    .formula-item {\n      flex: 1 1 33%;\n      max-width: 33%;\n      padding: 10px 0;\n    }\n\n    .formula-item img {\n      width: 50px;\n      height: 50px;\n    }\n\n    .formula-item p {\n      font-size: 12px;\n    }\n  }\n</style>\n\n<div class=\"formulas-banner\">\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/8_2.png?v=1706883925&amp;width=124\" alt=\"100% Natural\">\n    <p>100% Natural</p>\n  </div>\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/6_1_0cb9a5af-c575-4bb5-ab2f-36e14807784b.png?v=1706883940&amp;width=124\" alt=\"Made in USA\">\n    <p>Made in USA</p>\n  </div>\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/9_2.png?v=1706883956&amp;width=124\" alt=\"Hormone Free\">\n    <p>Hormone Free</p>\n  </div>\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/7_2.png?v=1706883956&amp;width=124\" alt=\"Caffeine Free\">\n    <p>Caffeine Free</p>\n  </div>\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/10_2.png?v=1706883956&amp;width=124\" alt=\"Gluten & Dairy Free\">\n    <p>Gluten & Dairy Free</p>\n  </div>\n  <div class=\"formula-item\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/Frame_1000001155.png?v=1707746760&amp;width=124\" alt=\"Non-GMO\">\n    <p>Non-GMO</p>\n  </div>\n</div>",
+        "background": "#f6f6f6",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1736349541b004fa39": {
       "type": "apps",
       "blocks": {
@@ -1690,6 +1703,7 @@
     "comparaisonmzr_Q4RkY6",
     "custom_liquid_rdxGei",
     "custom_liquid_xxmjtE",
+    "custom_liquid_c7afBY",
     "1736349541b004fa39",
     "174799084244c7d176",
     "faq_FLiQH6",
