@@ -1407,6 +1407,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_xxmjtE": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<section class=\"comparison-table\">\n  <div class=\"comparison-container\">\n    <h2>Over 30 Hormone Support vs <strong>Other Competitors</strong></h2>\n    <table>\n      <tr>\n        <td><strong>Over 30 Hormone Support</strong></td>\n        <td><strong>Other Hormone Balancing Supplements</strong></td>\n      </tr>\n      <tr>\n        <td>Made for women, by women</td>\n        <td>Made by giant corporations to maximize profit.</td>\n      </tr>\n      <tr>\n        <td>Made with 100% Natural ingredients that are backed by science.</td>\n        <td>Harsh chemicals and toxic ingredients with potential side effects.</td>\n      </tr>\n      <tr>\n        <td>Made in the USA at a GMP certified facility.</td>\n        <td>Made overseas to cut costs in uncontrolled and often contaminated factories.</td>\n      </tr>\n      <tr>\n        <td>No fillers, GMOs, gluten, soy, dairy or other nasties.</td>\n        <td>Contain dangerous fillers, GMOs and other harmful chemicals.</td>\n      </tr>\n    </table>\n  </div>\n</section>\n\n<style>\n.comparison-table {\n  background-color: #ede8ff;\n  padding: 40px 15px;\n  font-family: inherit;\n  text-align: center;\n}\n\n.comparison-container {\n  max-width: 900px;\n  margin: 0 auto;\n}\n\n.comparison-container h2 {\n  color: #6b5cab;\n  font-size: 22px;\n  margin-bottom: 30px;\n}\n\n.comparison-table table {\n  width: 100%;\n  border-collapse: collapse;\n  background: white;\n  border-radius: 12px;\n  overflow: hidden;\n  box-shadow: 0 0 6px rgba(0,0,0,0.05);\n}\n\n.comparison-table td {\n  padding: 16px;\n  font-size: 14px;\n  line-height: 1.4;\n  text-align: left;\n}\n\n.comparison-table tr:nth-child(even) {\n  background-color: #f9f6ff;\n}\n\n.comparison-table td:first-child {\n  font-weight: 600;\n  color: #333;\n}\n\n@media (max-width: 600px) {\n  .comparison-table td {\n    font-size: 13px;\n    padding: 12px;\n  }\n\n  .comparison-container h2 {\n    font-size: 18px;\n  }\n}\n</style>",
+        "background": "#f6f6f6",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "1736349541b004fa39": {
       "type": "apps",
       "blocks": {
@@ -1676,6 +1689,7 @@
     "custom_liquid_MpwNcw",
     "comparaisonmzr_Q4RkY6",
     "custom_liquid_rdxGei",
+    "custom_liquid_xxmjtE",
     "1736349541b004fa39",
     "174799084244c7d176",
     "faq_FLiQH6",
