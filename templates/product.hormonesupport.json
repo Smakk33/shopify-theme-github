@@ -922,83 +922,6 @@
         "text_color": ""
       }
     },
-    "multi_column_idckHq": {
-      "type": "multi-column",
-      "blocks": {
-        "item_UhFWkV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ashwaganda.png",
-            "column_size": "3",
-            "title": "Ashwagandha",
-            "heading_tag": "h2",
-            "content": "<p><strong>Helps reduce stress-related belly fat: </strong>Regulates cortisol — the stress hormone often responsible for increased fat storage around the belly</p><p><strong>Curbs cravings and supports weight balance: </strong>Promotes a more stable metabolism and helps reduce emotional eating caused by hormonal shifts</p><p><strong>Eases mood swings and anxiety: </strong>Supports emotional stability and reduces irritability, for calmer, more balanced days</p><p><strong>Improves mental clarity and focus: </strong>Supports cognitive function, helping reduce brain fog and enhance concentration</p><p><strong>Supports better sleep quality: </strong>Promotes deeper, more restful sleep and reduces night-time awakenings related to menopause</p><p><em>Supercalm contains 300mg of KSM-66 per serving</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EY8Mpk": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ojojojoj.png",
-            "column_size": "3",
-            "title": "L-Theanine",
-            "heading_tag": "h2",
-            "content": "<p><strong>Promotes calm without drowsiness: </strong>Creates a relaxed but alert state — ideal for managing daily tension without feeling sedated</p><p><strong>Supports deeper, more restorative sleep: </strong>Helps you fall asleep faster and improves sleep quality, naturally and gently</p><p><strong>Reduces daily stress and anxiety: </strong>Boosts calming neurotransmitters like GABA and dopamine, helping to stabilize mood</p><p><strong>Enhances focus and mental sharpness: </strong>Improves alertness and concentration, reducing the “mental fog” many women experience during menopause</p><p><em>Supercalm contains 400mg of L-theanine per serving</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_qzi4Qp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/magnesium.png",
-            "column_size": "3",
-            "title": "Magnesium Glycinate",
-            "heading_tag": "h2",
-            "content": "<p><strong>Relieves bloating and digestive discomfort: </strong>Relaxes intestinal muscles and supports regularity for a lighter, more comfortable belly</p><p><strong>Helps reduce stress-induced belly fat: </strong>Regulates cortisol levels and supports a balanced metabolism</p><p><strong>Improves sleep and recovery: </strong>Relaxes muscles and calms the nervous system to promote deeper, more refreshing rest</p><p><strong>Soothes joint pain and inflammation: </strong>Eases stiffness and aches, especially common in the morning or after physical effort</p><p><strong>Boosts physical energy and muscle support: </strong>Helps prevent cramps and improves muscular recovery after exercise or daily strain</p><p><em>Supercalm contains 100mg per serving</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wCVphJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/uhuhuhuh.png",
-            "column_size": "3",
-            "title": "Vitamine D3",
-            "heading_tag": "h2",
-            "content": "<p><strong>Boosts mood and fights fatigue: </strong>Known as the “sunshine vitamin,” it supports emotional wellbeing and natural energy</p><p><strong>Strengthens the immune system: </strong>Reduces inflammation and helps your body defend against illness and low-grade fatigue</p><p><strong>Supports bone health: </strong>Essential for calcium absorption and bone density, especially after menopause</p><p><strong>Helps regulate overall hormonal balance: </strong>Plays a role in multiple hormonal processes, supporting better comfort and vitality</p><p><em>Supercalm contains 1,000IU of vitamin D3 per serving</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_UhFWkV",
-        "item_EY8Mpk",
-        "item_qzi4Qp",
-        "item_wCVphJ"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Powerful ingredients, working in perfect harmony for your well-being",
-        "content": "<p>Formulated by experts, with your health in mind</p>",
-        "background": "#e6f1f9",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "testimonials_iznDN9": {
       "type": "testimonials",
       "blocks": {
@@ -1462,10 +1385,26 @@
       "block_order": [
         "image_RmiQ3L"
       ],
+      "custom_css": [
+        ".section-blends {padding-top: 20px; /* Change la valeur selon ton besoin */ padding-bottom: 10px; /* Change la valeur selon ton besoin */}"
+      ],
       "name": "Media with text",
       "settings": {
         "full_width": true,
         "spacing": "none"
+      }
+    },
+    "custom_liquid_8UwfeT": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<style>\n  .guarantee-section {\n    background: linear-gradient(180deg, rgba(231, 223, 255, 1) 100%, rgba(246, 246, 246, 1) 100%);\n    padding: 30px 20px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-direction: row;\n    gap: 30px;\n    flex-wrap: wrap;\n  }\n\n  .guarantee-section__icon {\n    flex: 0 0 160px;\n    text-align: center;\n  }\n\n  .guarantee-section__icon img {\n    max-width: 100%;\n    height: auto;\n  }\n\n  .guarantee-section__text {\n    flex: 1 1 400px;\n    color: #000;\n    font-family: Lato, sans-serif;\n    font-size: 18px;\n    line-height: 28px;\n  }\n\n  .guarantee-section__text h3 {\n    font-size: 24px;\n    font-weight: 900;\n    color: #000;\n    margin-bottom: 15px;\n    text-align: left;\n  }\n\n  .guarantee-section__text strong {\n    color: #6b5cab;\n    font-weight: 900;\n  }\n\n  @media screen and (max-width: 768px) {\n    .guarantee-section {\n      flex-direction: column;\n      padding: 25px 15px;\n      gap: 20px;\n    }\n\n    .guarantee-section__text {\n      font-size: 16px;\n      line-height: 26px;\n      text-align: center;\n    }\n\n    .guarantee-section__text h3 {\n      text-align: center;\n      font-size: 20px;\n    }\n\n    .guarantee-section__icon {\n      max-width: 120px;\n    }\n  }\n</style>\n\n<div class=\"guarantee-section\">\n  <div class=\"guarantee-section__icon\">\n    <img src=\"//de.gleefullsupps.com/cdn/shop/files/Frame_1000001060_83fb1d3e-c4bb-4596-ad0b-cf2991d1a411.svg?v=1700843274\" alt=\"180 Day Guarantee Icon\">\n  </div>\n  <div class=\"guarantee-section__text\">\n    <h3>Best-in class 180 day money back guarantee</h3>\n    <p>\n      Over 30 Hormone Support contains the highest quality ingredients in the market and we stand behind our products. That's why we have the <strong>Best-In-Class</strong> 180 Day Money Back Guarantee. Either you see and feel extraordinary benefits and feel fully satisfied… or you can simply contact us via phone or email, and we'll refund you 100% of your purchase price, no-questions-asked. So there's no reason not to claim your full 6-month supply discount. It's yours risk-free for that entire <strong>180 Days</strong>.\n    </p>\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "1736349541b004fa39": {
@@ -1731,7 +1670,6 @@
     "press_d49NgN",
     "impact_text_mAgnqX",
     "custom_liquid_6ULBz4",
-    "multi_column_idckHq",
     "testimonials_iznDN9",
     "impact_text_Pz3GhT",
     "custom_liquid_MpwNcw",
@@ -1740,6 +1678,7 @@
     "custom_liquid_xxmjtE",
     "custom_liquid_c7afBY",
     "media_with_text_UHEam6",
+    "custom_liquid_8UwfeT",
     "1736349541b004fa39",
     "174799084244c7d176",
     "faq_FLiQH6",
