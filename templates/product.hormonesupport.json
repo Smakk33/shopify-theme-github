@@ -274,28 +274,41 @@
         },
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
-            "title": "Ingredients",
-            "content": "<p><em><strong>Active Ingredients:</strong></em></p><ul><li><strong>Ashwagandha</strong>: 300 mg</li><li><strong>L-Theanine</strong>: 400 mg</li><li><strong>Magnesium Glycinate</strong>: 100 mg</li><li><strong>Vitamin D3</strong>: 1000 IU</li></ul><p><em><strong>Other Ingredients:</strong></em></p><p><em>Citric acid, natural raspberry flavour, natural lemon flavour, organic beetroot extract, stevia leaf extract.</em></p>",
+            "title": "How Do I Take These?",
+            "content": "<p>A serving is 2 capsules. You can take 1-2 servings at a time, morning or night, and we recommend taking them with food. Easy as that! Use consistently for sustained effect.</p>",
             "page": ""
           }
         },
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
-            "title": "How should I take SuperCalm?",
-            "content": "<p><strong>Take 1 sachet per day</strong>, ideally in the morning or evening, from Monday to Friday.</p><ul><li><strong>If you're experiencing intense hot flashes, low energy, or mood swings</strong>, you may take up to <strong>2 sachets daily</strong> — <em>one in the morning and another in the early afternoon.</em></li><li><strong>Weekend pause recommended</strong>: to maximize long-term benefits and avoid building tolerance, we suggest taking a break on Saturdays and Sundays.</li></ul><p><strong>Mix with a full glass of water</strong> and stir well before drinking. <em>For best results, stick to your daily routine consistently.</em></p>",
+            "title": "Will 030HS help me if I am Perimenopause/ Postmenopause?",
+            "content": "<p>Yes, O30HS helps you with all perimenopause and postmenopause symptoms. By naturally maintaining a healthy level of your three main hormones (estrogen, cortisol, and insulin), it allows you to stay calm and relaxed, eliminate bloating, get more rest, reduce swollen Meno-Belly, feel more energy, and eliminate hot flashes.</p>",
             "page": ""
           }
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
-            "title": "Shipping & Delivery",
-            "content": "<p>All orders are shipped within 24 to 48 hours.<br/><br/>Estimated delivery: <strong>5 to 9 business days</strong> across Canada.</p>",
+            "title": "Do these pills contain estrogen?",
+            "content": "<p>No. All GleeFull products are Non-GMO and do not contain estrogen. Non-GMO means the products were produced without genetic engineering, and their ingredients are not derived from GMOs.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_gTGetQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "I am over 50. Will this work for me?",
+            "content": "<p>Yes. This supplement was developed specifically for people over 40, into their 50’s 60’s 70’s and even 80’s.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_pxg6Tz": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "What’s inside?",
+            "content": "<h5><span style=\"text-decoration:underline\"><strong>14 Key Hormone Balancing Herbs:</strong></span></h5><p><strong>Yin Yang Huo</strong> - Powerful estrogen balancer (blood flow, libido, fatigue).</p><p><strong>Dong Quai (Angelica Gigas Root)</strong> - Eases hot flashes, promoting hormonal balance.</p><p><strong>Ashwagandha Root</strong> - Reduces stress, aiding hormone harmony and sleep.</p><p><strong>Catuaba Bark</strong> - Uplifts mood, supports hormonal wellness during shifts.</p><p><strong>Damiana Leaf</strong> - Reduces aromatase (preventing testosterone conversion to estrogen).</p><p><strong>Ginger Root</strong> - Eases joint pain and mobility.</p><p><strong>Maca Root</strong> - Traditional tonic, balances hormones, supports energy and mood.</p><p><strong>Pruriens </strong>- Nourishes nervous system & supports healthy sexual energy.</p><p><strong>Muira Puama</strong> - Boosts sexual desire, eases menstrual disorder & joint pains.</p><p><strong>Smilax China</strong> - Powerful anti-inflammatory & diuretic stimulant.</p><p><strong>Tribulus Terrestris</strong> - Boosts vitality, encourages metabolic energy production.</p><p><strong>L-Tyrosine</strong> - Regulates hormones, adrenals, thyroid & pituitary glands.</p><p><strong>BioPerine </strong>- Enhances nutrient absorption, fostering hormonal equilibrium for energy.</p><p><strong>Black Cohosh</strong> - Alleviate symptoms like hot flashes, mood swings and sleep disturbances.</p><h5><span style=\"text-decoration:underline\"><strong>Vitamins and Minerals:</strong></span></h5><ul><li><strong>Vitamin A</strong> - Supports skin health, vision, and immune function.</li><li><strong>Vitamin B6</strong> - Promotes brain health, helps balance mood, and supports energy metabolism.</li><li><strong>Vitamin B12</strong> - Improves energy levels, reduces fatigue, and supports red blood cell formation.</li><li><strong>Thiamine (Vitamin B1)</strong> - Supports energy production and helps convert nutrients into usable energy.</li><li><strong>Niacin (Vitamin B3)</strong> - Improves skin health, boosts energy, and supports cellular metabolism.</li><li><strong>Pantothenic Acid (Vitamin B5)</strong> - Supports energy production and adrenal function.</li><li><strong>Zinc </strong>- Strengthens the immune system, supports hormonal balance, and aids in tissue repair.</li><li><strong>L-Arginine</strong> - Promotes blood flow, enhances energy, and supports cardiovascular health.</li></ul>",
             "page": ""
           }
         }
@@ -332,7 +345,9 @@
         "liquid_yLDXD8",
         "collapsible_text_hEkknm",
         "collapsible_text_MGDgmy",
-        "collapsible_text_MnetTi"
+        "collapsible_text_MnetTi",
+        "collapsible_text_gTGetQ",
+        "collapsible_text_pxg6Tz"
       ],
       "custom_css": [
         ".product-info__liquid {margin-top: 0px !important; /* Réduit l’espace au-dessus */ margin-bottom: 0px !important; /* Réduit l’espace en dessous */}",
