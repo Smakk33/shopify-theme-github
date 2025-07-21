@@ -1433,6 +1433,41 @@
         "text_color": ""
       }
     },
+    "media_with_text_UHEam6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_RmiQ3L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_-_2024-03-12T171422.483_9a456067-41ff-4311-b4e4-e5a754161b9b.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Why Stock Up?",
+            "content": "<p>The truth is…by 50, 60 and beyond, the body’s hormones need a lot of work and although the majority of our clients see results within just the first 7 days…</p><p>It’s important to continue supporting the body with these 13 Golden Ratio of Herbs Because without it… the body is left out in the cold.</p><p>We worked with Medical Researchers from the University of Toronto and discovered that the body’s hormone levels is based on how long users stayed on the golden ratio of herbs.</p><p>At the 3 month mark is when we see a sustained level and dramatic change in the body.</p><p>Also… getting O30HS can be actually quite challenging.</p><p>The special ingredients must be sourced from their native regions and harvested at specific times during the year...</p><p>This way it ensures their maximum potency.</p><p>If we were to mass farm them the way these large corporations do… we would completely ruin their native nutrient levels. So we can only source the special ingredients at specific times…</p><p>Which is why we could only create 1 small batch for this grand opening.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f6f6f6",
+            "background_gradient": "",
+            "text_color": "#252728",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_RmiQ3L"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "1736349541b004fa39": {
       "type": "apps",
       "blocks": {
@@ -1704,6 +1739,7 @@
     "custom_liquid_rdxGei",
     "custom_liquid_xxmjtE",
     "custom_liquid_c7afBY",
+    "media_with_text_UHEam6",
     "1736349541b004fa39",
     "174799084244c7d176",
     "faq_FLiQH6",
