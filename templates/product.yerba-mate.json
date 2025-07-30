@@ -790,8 +790,22 @@
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "How can I contact your customer service team?",
-            "content": "<p>For any questions or assistance, you can reach us via:<br/><br/>📧 <strong>Email:</strong> <strong>support@trymeritage.com</strong><br/><br/>💬 <strong>Live chat:</strong> Speak with a member of our customer care team in real time – we're here <strong>to help within minutes.</strong></p><p>We’re always happy to assist and answer any questions you may have.</p>"
+            "title": "How long does it take to feel the effects?",
+            "content": "<p>Most users feel the energy boost <strong>within 15-30 minutes </strong>of drinking Yerba Mate, with effects lasting for hours without a crash.</p>"
+          }
+        },
+        "item_bYzCVH": {
+          "type": "item",
+          "settings": {
+            "title": "How do I prepare Yerba Mate?",
+            "content": "<p>It’s super easy! Just <strong>add one scoop to cold water with ice, stir with a frother or whisk, and enjoy</strong>. No brewing required!</p>"
+          }
+        },
+        "item_LhA7PL": {
+          "type": "item",
+          "settings": {
+            "title": "What if I don’t like it?",
+            "content": "<p>We stand by our product with a <strong>90-day risk-free trial</strong>. If Yerba Mate isn’t for you, just contact us for a <strong>hassle-free refund</strong>—no questions asked.</p>"
           }
         }
       },
@@ -800,7 +814,9 @@
         "item_wB8JVQ",
         "item_FmKhth",
         "item_9w86PN",
-        "item_U8BnMe"
+        "item_U8BnMe",
+        "item_bYzCVH",
+        "item_LhA7PL"
       ],
       "settings": {
         "full_width": true,
