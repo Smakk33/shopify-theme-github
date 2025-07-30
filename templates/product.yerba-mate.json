@@ -45,6 +45,12 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "liquid_7WBdGn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-form__label-container\" id=\"SizeChartAppend-template--18507855036582__main-option_1_label_container\">\n          <label class=\"form__label\" for=\"Option-template--18507855036582__main-0\">\n            \n              Flavor:\n              <span id=\"custom-label-template--18507855036582__main-1\">\n                🥭 Peach Mango\n              </span>\n            \n          </label>\n          \n          \n        </div>"
+          }
+        },
         "liquid_FJ6Aqt": {
           "type": "liquid",
           "settings": {
@@ -228,6 +234,7 @@
         "price",
         "rating",
         "payment_terms",
+        "liquid_7WBdGn",
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
         "liquid_FQpVrJ",
