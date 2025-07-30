@@ -529,7 +529,7 @@
         "item_HnHMTB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_5.gif",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.59.51.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -542,7 +542,7 @@
         "item_Nkxpkf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_8.gif",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.04.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -555,7 +555,7 @@
         "item_TWhRUV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_7.gif",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.14.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -568,7 +568,7 @@
         "item_7bfFA8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_3.gif",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.26.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -581,46 +581,7 @@
         "item_EtdC8j": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_1.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_PWNXcH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF_2.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EbneNg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF_4.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_RcnDRA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GIF_6.gif",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.33.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -636,10 +597,7 @@
         "item_Nkxpkf",
         "item_TWhRUV",
         "item_7bfFA8",
-        "item_EtdC8j",
-        "item_PWNXcH",
-        "item_EbneNg",
-        "item_RcnDRA"
+        "item_EtdC8j"
       ],
       "settings": {
         "full_width": true,
@@ -651,7 +609,7 @@
         "content": "<h2>See <em>Why</em> <strong>1000s Are Switching</strong> to MERITAGE Daily</h2>",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#41326a"
       }
     },
     "media_with_text_AJRELr": {
