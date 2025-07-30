@@ -712,6 +712,29 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_f8kUbN": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_TWnfre": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>What Happens When You Give Your Body</h1><h1><em><strong>What It’s Been Missing</strong></em></h1>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_TWnfre"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#41326a"
+      }
+    },
     "timeline_3CKt7W": {
       "type": "timeline",
       "blocks": {
@@ -908,29 +931,6 @@
         "text_color": "#41326a",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_f8kUbN": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_TWnfre": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>*conducted by a 500 customer survey</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_TWnfre"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#41326a"
       }
     },
     "multi_column_rKjEq4": {
@@ -1357,12 +1357,12 @@
     "multi_column_JY4g6c",
     "media_with_text_AJRELr",
     "related-products",
+    "rich_text_f8kUbN",
     "timeline_3CKt7W",
     "media_with_text_YW7zD7",
     "rich_text_4f9HDA",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
-    "rich_text_f8kUbN",
     "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
