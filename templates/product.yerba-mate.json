@@ -195,24 +195,16 @@
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Does this product really work on deep wrinkles?",
-            "content": "<p>Yes, it does. Thanks to its advanced formula enriched with <strong>peptides, retinol and hyaluronic acid</strong>, this treatment targets both early fine lines and deeper-set wrinkles – including those caused by smoking or repeated facial expressions.</p>",
+            "title": "What is GLP-1?",
+            "content": "<p>GLP-1 is a naturally occurring hormone produced in the intestines that helps regulate blood sugar levels and appetite. Consuming Meritage Yerba Mate may naturally boost your GLP-1 levels without the risks and side effects associated with certain medications.</p>",
             "page": ""
           }
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Is this treatment suitable for sensitive skin?",
-            "content": "<p>Absolutely. It’s been carefully formulated without harsh irritants, making it suitable for sensitive skin. If you have any concerns, we recommend doing a small patch test before regular use – just to be sure.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_AVwGFJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "How do I use this treatment as part of my daily routine – including under makeup?",
-            "content": "<p>Apply <strong>morning and evening </strong>to clean, dry skin.<br/><br/><strong>Recommended routine:</strong><br/></p><ol><li><strong>Gently cleanse</strong> your skin and pat dry.</li><li><strong>Apply</strong> your serums (if using).</li><li><strong>Smooth </strong>on the Lip Line Corrector and allow it to absorb.</li><li><strong>Follow</strong> with your moisturiser and/or SPF (in the morning).<br/></li></ol><p><strong>Makeup tip:</strong><br/>Wait until the product is fully absorbed before applying foundation or lipstick.</p>",
+            "title": "90-Day Guarantee",
+            "content": "<p>If you don’t feel a noticeable improvement in your health, energy, or digestion within 90 days, we’ll fully refund your purchase—no questions asked. Your satisfaction is our priority!</p>",
             "page": ""
           }
         }
@@ -244,8 +236,7 @@
         "collapsible_text_4dkd3V",
         "collapsible_text_TMJMhq",
         "collapsible_text_MGDgmy",
-        "collapsible_text_MnetTi",
-        "collapsible_text_AVwGFJ"
+        "collapsible_text_MnetTi"
       ],
       "custom_css": [
         ".product-info__liquid {margin-top: 0px !important; /* Réduit l’espace au-dessus */ margin-bottom: 0px !important; /* Réduit l’espace en dessous */}",
