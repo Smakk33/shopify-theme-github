@@ -16,6 +16,7 @@
       "blocks": {
         "message_9MUNRk": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "52,223+ women say it WORKS",
             "url": ""
@@ -24,14 +25,14 @@
         "message_Kgeg3H": {
           "type": "message",
           "settings": {
-            "text": "SUMMER OFFER ☀ UP TO 60% OFF",
+            "text": "SUMMER OFFER ☀ UP TO 50% OFF",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "30-DAY MONEY-BACK GUARANTEE",
+            "text": "90-DAY MONEY-BACK GUARANTEE",
             "url": ""
           }
         }
