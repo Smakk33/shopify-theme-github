@@ -741,35 +741,49 @@
         "slide_ceaMi6": {
           "type": "slide",
           "settings": {
-            "navigation_label": "Étape 1",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.55.09.png",
+            "navigation_label": "WEEK 1",
             "subheading": "",
-            "title": "PRÉPAREZ LA ZONE",
-            "content": "<p>Assurez-vous que votre peau est propre et sèche. N'appliquez aucun produit de soin sur la zone où le patch sera posé.</p>"
+            "title": "",
+            "content": ""
           }
         },
         "slide_LXDrMk": {
           "type": "slide",
           "settings": {
-            "navigation_label": "Étape 2",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.55.09_fb10485a-9c1f-4433-b461-ca0977349071.png",
+            "navigation_label": "WEEK 2",
             "subheading": "",
-            "title": "PORTEZ LE PATCH",
-            "content": "<p>Pour la première utilisation, retirez le film plastique. Appliquez le patch et portez-le toute la nuit (ou pendant quelques heures). Pour le retirer, décollez-le doucement.</p>"
+            "title": "",
+            "content": ""
           }
         },
         "slide_HhzFAe": {
           "type": "slide",
           "settings": {
-            "navigation_label": "Étape 3",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.56.10.png",
+            "navigation_label": "WEEK 3",
             "subheading": "",
-            "title": "ENTRETIEN ET RANGEMENT",
-            "content": "<p>Placez le patch sur son support de rangement (côté adhésif vers le bas) et conservez-le dans sa pochette refermable. Si l’adhésif nécessite un nettoyage, rincez-le à l’eau et laissez-le sécher à l’air libre.</p>"
+            "title": "",
+            "content": ""
+          }
+        },
+        "slide_gb6dYk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.56.18.png",
+            "navigation_label": "WEEK 4",
+            "subheading": "",
+            "title": "",
+            "content": ""
           }
         }
       },
       "block_order": [
         "slide_ceaMi6",
         "slide_LXDrMk",
-        "slide_HhzFAe"
+        "slide_HhzFAe",
+        "slide_gb6dYk"
       ],
       "settings": {
         "full_width": true,
