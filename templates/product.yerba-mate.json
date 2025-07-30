@@ -755,6 +755,82 @@
         "text_color": ""
       }
     },
+    "multi_column_rKjEq4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9gR4xY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_05b9c017-94c4-487a-a682-e1453c1098d7.webp",
+            "column_size": "3",
+            "title": "🌿 Yerba Mate",
+            "heading_tag": "h4",
+            "content": "<p>A natural appetite regulator shown to support the body’s GLP-1 hormone to help signal fullness and reduce cravings. Delivering steady energy and antioxidant support for immune health and metabolic function.<br/><br/><strong>APPETITE CONTROL / ENERGY / GLP-1 SUPPORT</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUppCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_fc79cc11-6195-4884-896b-e313bab9abe8.webp",
+            "column_size": "3",
+            "title": "🧠 Lions Mane",
+            "heading_tag": "h4",
+            "content": "<p>A powerful nootropic known for its ability to enhance cognitive function, memory, and focus while supporting brain health and neuroprotection.</p><p><strong>BRAIN HEALTH / MEMORY / MENTAL CLARITY</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQeby3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_3875c3cc-efa9-4f93-aa38-6d815aca5e14.webp",
+            "column_size": "3",
+            "title": "💆‍♂️ L-Theanine",
+            "heading_tag": "h4",
+            "content": "<p>Works synergistically with caffeine to promote calm focus and relaxation, reducing stress while keeping you alert. Also improves sleep quality and recovery.</p><p><strong>STRESS RELIEF / FOCUS / BETTER SLEEP</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AwmAkX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_ee4ebbe8-c177-4907-ac21-bd3c3ffa1236.webp",
+            "column_size": "3",
+            "title": "🌱 Pre + Probiotic Blend",
+            "heading_tag": "h4",
+            "content": "<p>A combination of gut-friendly fibers that nourish healthy bacteria, improve digestion, and reduce bloating, ensuring that every sip is both refreshing and beneficial.</p><p><strong>DIGESTION / BLOAT RELIEF / GUT HEALTH</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9gR4xY",
+        "item_jUppCw",
+        "item_YQeby3",
+        "item_AwmAkX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h1><em><strong>Real </strong></em>Ingredients, <em><strong>Real </strong></em>Results</h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_8U3D37": {
       "type": "media-with-text",
       "blocks": {
@@ -789,10 +865,10 @@
         "spacing": "none"
       }
     },
-    "multi_column_rKjEq4": {
+    "multi_column_JXHeYb": {
       "type": "multi-column",
       "blocks": {
-        "item_9gR4xY": {
+        "item_etdxMy": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012703.898.svg",
@@ -805,11 +881,11 @@
             "link_style": "link"
           }
         },
-        "item_jUppCw": {
+        "item_YTTWe8": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012723.708.svg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Blend Until Smooth",
             "heading_tag": "h4",
             "content": "<p>Use a frother, whisk, or spoon to mix until fully dissolved. No clumps—just smooth, delicious energy.</p>",
@@ -818,11 +894,11 @@
             "link_style": "link"
           }
         },
-        "item_YQeby3": {
+        "item_4mX4PY": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012737.081.svg",
-            "column_size": "3",
+            "column_size": "4",
             "title": "Drink & Enjoy",
             "heading_tag": "h4",
             "content": "<p>Sip, savor, and feel the difference! Enjoy the clean energy, mental clarity, and gut support with every sip.</p>",
@@ -833,9 +909,9 @@
         }
       },
       "block_order": [
-        "item_9gR4xY",
-        "item_jUppCw",
-        "item_YQeby3"
+        "item_etdxMy",
+        "item_YTTWe8",
+        "item_4mX4PY"
       ],
       "name": "Multi-column",
       "settings": {
@@ -1104,8 +1180,9 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
-    "media_with_text_8U3D37",
     "multi_column_rKjEq4",
+    "media_with_text_8U3D37",
+    "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
     "faq_FLiQH6",
