@@ -748,12 +748,45 @@
         "slide_LXDrMk",
         "slide_HhzFAe"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_with_text_8U3D37": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MqgcYX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image-3.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "90-DAY RISK FREE",
+            "title": "Notice Results or Your Money Back",
+            "content": "<p>Try Meritage for a full 90 days, risk-free! If you’re not 100% satisfied, just contact us for a hassle-free refund, no questions asked. We believe in our product, and if it’s not the right fit for you, we’ll make it right.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MqgcYX"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "faq_FLiQH6": {
@@ -962,6 +995,7 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
+    "media_with_text_8U3D37",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
