@@ -71,6 +71,12 @@
             "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Clean Energy & Mental Clarity</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">Gut-Friendly with Pro & Prebiotics</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 17px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/4190/9318/files/check_3.png?v=1743372065\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n<span style=\"line-height: 1.25;\">\nNaturally Boosts GLP-1 for Appetite Control</span>\n</li>"
           }
         },
+        "liquid_QbND4Y": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"border: 1px solid #ddd; padding: 10px; display: flex; align-items: center; border-radius: 10px; background-color: #faefff;\">\n  <div style=\"flex: 0 0 auto; display: flex; align-items: center; padding-right: 10px;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/download.jpg?v=1753865081\" alt=\"User Image\" style=\"width: 50px; height: 50px; border-radius: 50%;\"/>\n  </div>\n  <div style=\"flex: 1; text-align: left;\">\n    <p style=\"margin: 0; font-weight: bold; font-size: 14px;\"> Karen. P</p>\n    <p style=\"margin: 5px 0 0 0; font-size: 12px; line-height: 1.4;\">\"I can genuinely feel the difference! My appetite is more controlled, and I have steady energy throughout the day. Love that it's a natural way to support GLP-1 levels!\"</p>\n  </div>\n</div>"
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -219,6 +225,7 @@
         "liquid_FJ6Aqt",
         "offer_pGdHxj",
         "liquid_FQpVrJ",
+        "liquid_QbND4Y",
         "description",
         "variant_picker",
         "quantity_selector",
