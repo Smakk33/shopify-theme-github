@@ -755,6 +755,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_y4VrX6": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section class=\"comparison-section\">\n  <div class=\"comparison-inner\">\n    <h2><em>Why Us?</em></h2>\n    <p class=\"subtitle\">Why rely on expensive prescriptions with potential side effects when you can naturally support your GLP-1 levels? Meritage Yerba Mate delivers appetite control, sustained energy, and gut health benefits—all without the risks of traditional medications.</p>\n\n    <div class=\"comparison-images\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/yerba.avif?v=1753867274\" alt=\"Meritage Yerba Mate\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/ozempic.avif?v=1753867304\" alt=\"Injections\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/material-symbols_no-food.png?v=1753867305\" alt=\"Other Supplements\">\n    </div>\n\n    <table class=\"comparison-table\">\n      <tr>\n        <th></th>\n        <th>Meritage Yerba Mate</th>\n        <th>Injections</th>\n        <th>Other Supplements</th>\n      </tr>\n      <tr>\n        <td>Suppress Cravings</td>\n        <td><span class=\"check purple\">✔</span></td>\n        <td><span class=\"check red\">✔</span></td>\n        <td><span class=\"check gray\">✖</span></td>\n      </tr>\n      <tr>\n        <td>Reduces Bloating</td>\n        <td><span class=\"check purple\">✔</span></td>\n        <td><span class=\"check green\">✖</span></td>\n        <td><span class=\"check green\">✖</span></td>\n      </tr>\n      <tr>\n        <td>Enhances Focus</td>\n        <td><span class=\"check purple\">✔</span></td>\n        <td><span class=\"check green\">✖</span></td>\n        <td><span class=\"check green\">✖</span></td>\n      </tr>\n      <tr>\n        <td>Supports Gut & Hormones</td>\n        <td><span class=\"check purple\">✔</span></td>\n        <td><span class=\"check green\">✖</span></td>\n        <td><span class=\"check green\">✖</span></td>\n      </tr>\n      <tr>\n        <td>No Side Effects</td>\n        <td><span class=\"check purple\">✔</span></td>\n        <td><span class=\"check green\">✖</span></td>\n        <td><span class=\"check green\">✖</span></td>\n      </tr>\n      <tr>\n        <td>Cost</td>\n        <td>$37.99<br><small>per month</small></td>\n        <td>$1000+<br><small>per month</small></td>\n        <td>Constantly<br>Buying</td>\n      </tr>\n    </table>\n  </div>\n</section>\n\n<style>\n.comparison-section {\n  background-color: #ede8ff;\n  padding: 40px 15px;\n}\n\n.comparison-inner {\n  max-width: 960px;\n  margin: 0 auto;\n  text-align: center;\n}\n\n.comparison-section h2 {\n  font-size: 26px;\n  font-weight: 700;\n  color: #463483;\n  margin-bottom: 10px;\n}\n\n.subtitle {\n  font-size: 14px;\n  color: #333;\n  max-width: 700px;\n  margin: 0 auto 30px;\n  line-height: 1.6;\n}\n\n.comparison-images {\n  display: flex;\n  justify-content: center;\n  gap: 100px;\n  margin-bottom: 30px;\n  flex-wrap: wrap;\n}\n\n.comparison-images img {\n  max-width: 80px;\n  height: auto;\n}\n\n.comparison-table {\n  width: 100%;\n  border-collapse: collapse;\n  background-color: #fff;\n  border-radius: 10px;\n  overflow: hidden;\n  font-size: 14px;\n}\n\n.comparison-table th,\n.comparison-table td {\n  padding: 16px;\n  text-align: center;\n  border: 1px solid #ddd;\n}\n\n.comparison-table th {\n  background-color: #f7f6ff;\n  font-weight: 700;\n}\n\n.check {\n  font-size: 20px;\n  font-weight: bold;\n  display: inline-block;\n}\n\n.purple {\n  color: #6b4dbf;\n}\n\n.red {\n  color: #ff5b5b;\n}\n\n.green {\n  color: #8ccf69;\n}\n\n.gray {\n  color: #bbb;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_8U3D37": {
       "type": "media-with-text",
       "blocks": {
@@ -995,6 +1008,7 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
+    "custom_liquid_y4VrX6",
     "media_with_text_8U3D37",
     "faq_FLiQH6",
     "1736349541b004fa39",
