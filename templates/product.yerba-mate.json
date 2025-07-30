@@ -423,6 +423,7 @@
       "block_order": [
         "image_K7RXjJ"
       ],
+      "disabled": true,
       "custom_css": [
         ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 2px; /* Ajustez selon vos besoins */}"
       ],
@@ -448,6 +449,7 @@
       "block_order": [
         "quote_RM84eb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -512,6 +514,7 @@
         "image_9khmqm",
         "image_iLMWJT"
       ],
+      "disabled": true,
       "custom_css": [
         ".media-with-text__content {padding-top: 32px; /* Ajustez selon vos besoins */ padding-bottom: 32px; /* Ajustez selon vos besoins */}"
       ],
@@ -644,8 +647,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Real results with the PRO Corrector",
-        "content": "",
+        "title": "",
+        "content": "<h2>See <em>Why</em> <strong>1000s Are Switching</strong> to MERITAGE Daily</h2>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -656,6 +659,7 @@
       "blocks": {
         "image_j9qUTp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Docteur_TrishaKanna.webp",
             "media_width": 50,
