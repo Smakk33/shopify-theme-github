@@ -136,6 +136,12 @@
             "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Capture_d_ecran_2025-05-21_a_18.23.13.png?v=1747844636\" style=\"width: 100%; margin-bottom: 15px;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
           }
         },
+        "liquid_AWp3dg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #faefff; padding: 15px 20px; border-radius: 10px; display: flex; align-items: center;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/360_F_247992143_n8HSwC9vq5csSf6MYnqkvNff3phxLOEy-removebg-preview_1.webp?v=1753865399\" alt=\"90-Day Guarantee\" style=\"width: 40px; height: 40px; margin-right: 15px;\" />\n  <p style=\"margin: 0; font-size: 12px; color: #3f2b63; font-weight: 700;\">\n    Less than 1% of Zempic customers<br />\n    claim our 90-Day Money Back Guarantee\n  </p>\n</div>"
+          }
+        },
         "liquid_tJpDht": {
           "type": "liquid",
           "disabled": true,
@@ -234,6 +240,7 @@
         "liquid_RWM9DH",
         "liquid_qaqar9",
         "liquid_Gb3mF3",
+        "liquid_AWp3dg",
         "liquid_tJpDht",
         "liquid_f9mADK",
         "liquid_hnaFAw",
