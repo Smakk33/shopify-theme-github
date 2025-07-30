@@ -755,6 +755,40 @@
         "text_color": ""
       }
     },
+    "media_with_text_YW7zD7": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_tkYhff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Weight-Loss-Injections-Mi-Bella-Aesthetics-Cleveland-OH-Before-and-after-images-1.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "Burn Fat Naturally",
+            "title": "Watch the Fat Melt Away in 30 Days",
+            "content": "<p>Based on a real-world study of 300+ users who took Meritage daily for 30 days, the results speak volumes</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#41326a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_tkYhff"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "rich_text_4f9HDA": {
       "type": "rich-text",
       "blocks": {
@@ -1324,6 +1358,7 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
+    "media_with_text_YW7zD7",
     "rich_text_4f9HDA",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
