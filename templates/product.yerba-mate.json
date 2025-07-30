@@ -755,6 +755,91 @@
         "text_color": ""
       }
     },
+    "rich_text_4f9HDA": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_Yb9dRq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Backed by <em><strong>Real Results.</strong></em><br/>Trusted by Women.</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_Yb9dRq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_g366Wq": {
+      "type": "impact-text",
+      "blocks": {
+        "item_rAbTQT": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_YVd7Ag": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_dgzit9": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_rAbTQT",
+        "item_YVd7Ag",
+        "item_dgzit9"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multi_column_rKjEq4": {
       "type": "multi-column",
       "blocks": {
@@ -1180,6 +1265,8 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
+    "rich_text_4f9HDA",
+    "impact_text_g366Wq",
     "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
