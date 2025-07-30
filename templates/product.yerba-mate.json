@@ -789,6 +789,68 @@
         "spacing": "none"
       }
     },
+    "multi_column_rKjEq4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9gR4xY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012703.898.svg",
+            "column_size": "4",
+            "title": "Pour & Mix",
+            "heading_tag": "h4",
+            "content": "<p>Fill your favorite cup with cold water and ice for a refreshing boost. Add one scoop of Yerba Mate to the cup.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUppCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012723.708.svg",
+            "column_size": "3",
+            "title": "Blend Until Smooth",
+            "heading_tag": "h4",
+            "content": "<p>Use a frother, whisk, or spoon to mix until fully dissolved. No clumps—just smooth, delicious energy.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQeby3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012737.081.svg",
+            "column_size": "3",
+            "title": "Drink & Enjoy",
+            "heading_tag": "h4",
+            "content": "<p>Sip, savor, and feel the difference! Enjoy the clean energy, mental clarity, and gut support with every sip.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9gR4xY",
+        "item_jUppCw",
+        "item_YQeby3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_y4VrX6": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1043,6 +1105,7 @@
     "related-products",
     "timeline_3CKt7W",
     "media_with_text_8U3D37",
+    "multi_column_rKjEq4",
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
     "faq_FLiQH6",
