@@ -100,8 +100,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Our mission",
-            "content": "<p>We’re here to support women through every stage of menopause — from the first signs of perimenopause to postmenopause.<br/><br/>Our formulas are thoughtfully crafted to ease bloating, improve sleep, stabilize mood and help you feel in control again — naturally.</p>",
+            "title": "",
+            "content": "<p>*These statements have not been evaluated by the FDA. These products are not intended to diagnose, cure, prevent, or treat any disease.</p>",
             "enable_follow_on_shop": false
           }
         },
