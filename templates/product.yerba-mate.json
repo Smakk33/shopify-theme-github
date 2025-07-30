@@ -755,6 +755,40 @@
         "text_color": ""
       }
     },
+    "media_with_text_8U3D37": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7xiBzQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gempages_559956518854722645-c3d56d5e-3944-46ae-99b3-b0d89a190867.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-start-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h3>Takes Less Than <em><strong>2 Minutes</strong></em></h3>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7xiBzQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "custom_liquid_y4VrX6": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -768,10 +802,10 @@
         "text_color": ""
       }
     },
-    "media_with_text_8U3D37": {
+    "media_with_text_yt99ww": {
       "type": "media-with-text",
       "blocks": {
-        "image_MqgcYX": {
+        "image_Dg4ixH": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/image-3.webp",
@@ -795,7 +829,7 @@
         }
       },
       "block_order": [
-        "image_MqgcYX"
+        "image_Dg4ixH"
       ],
       "settings": {
         "full_width": true,
@@ -1008,8 +1042,9 @@
     "media_with_text_AJRELr",
     "related-products",
     "timeline_3CKt7W",
-    "custom_liquid_y4VrX6",
     "media_with_text_8U3D37",
+    "custom_liquid_y4VrX6",
+    "media_with_text_yt99ww",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
