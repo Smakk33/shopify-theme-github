@@ -775,7 +775,7 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#41326a"
       }
     },
     "impact_text_g366Wq": {
@@ -784,9 +784,9 @@
         "item_rAbTQT": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
+            "title": "85%",
+            "subheading": "",
+            "content": "<h4>Felt a Sustained Energy Boost - No crashes, just clean, <em><strong>lost-lasting energy</strong></em></h4>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -796,9 +796,9 @@
         "item_YVd7Ag": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
+            "title": "95%",
+            "subheading": "",
+            "content": "<h4>Reported <em><strong>sharper thinking </strong></em>&<em><strong>improved productivity</strong></em></h4>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -808,9 +808,9 @@
         "item_dgzit9": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
+            "title": "94%",
+            "subheading": "",
+            "content": "<h4>Noticed Improved Digestion -<em><strong>Reduced bloating </strong></em>&<em><strong>better gut health</strong></em></h4>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -835,9 +835,68 @@
         "background_gradient": "",
         "heading_text_color": "",
         "heading_gradient": "",
-        "text_color": "",
+        "text_color": "#41326a",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "impact_text_EDCadt": {
+      "type": "impact-text",
+      "blocks": {
+        "item_pe7Lcb": {
+          "type": "item",
+          "settings": {
+            "title": "92%",
+            "subheading": "",
+            "content": "<h4>Experienced Less Stress & Anxiety - A <em><strong>calm, focused state without jitters</strong></em>.</h4>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_pe7Lcb"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#41326a",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "rich_text_f8kUbN": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_TWnfre": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>*conducted by a 500 customer survey</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_TWnfre"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#41326a"
       }
     },
     "multi_column_rKjEq4": {
@@ -1267,6 +1326,8 @@
     "timeline_3CKt7W",
     "rich_text_4f9HDA",
     "impact_text_g366Wq",
+    "impact_text_EDCadt",
+    "rich_text_f8kUbN",
     "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
