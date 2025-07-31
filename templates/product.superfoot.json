@@ -191,8 +191,8 @@
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
           "settings": {
-            "title": "The Science Behind It",
-            "content": "<p>🌿 <strong>Yerba Mate Caffeine</strong> – A natural source of clean energy, providing a steady boost without the jitters or crashes of coffee. Rich in antioxidants to support immune health and fight oxidative stress.</p><p>🧠 <strong>Lion’s Mane Mushroom</strong> – A powerful nootropic known for its ability to enhance <strong>cognitive function, memory, and focus</strong> while supporting brain health and neuroprotection.</p><p>💆‍♂️ <strong>L-Theanine</strong> – Works synergistically with caffeine to promote <strong>calm focus and relaxation</strong>, reducing stress while keeping you alert. Also improves sleep quality and recovery.</p><p>🌱 <strong>Pro + Prebiotic Blend</strong> – A combination of <strong>gut-friendly fibers</strong> that nourish healthy bacteria, improve digestion, and <strong>reduce bloating</strong>, ensuring that every sip is both refreshing and beneficial.</p><p>With <strong>science-backed ingredients</strong>, Nature Zempic doesn’t just wake you up—it <strong>fuels your body, sharpens your mind, and supports your overall health</strong> in ways traditional energy drinks never could.</p>",
+            "title": "Description",
+            "content": "<p>Unlock comprehensive wellness with a single daily dose. This formula is potent and balanced, blending earthy mushrooms, vibrant superfoods, and zesty adaptogens. It's packed with 90+ ingredients like Lion's Mane and Ashwagandha for whole-body support and designed for effortless, everyday vitality.</p>",
             "page": ""
           }
         },
@@ -208,16 +208,16 @@
         "collapsible_text_TMJMhq": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Ingredients Included",
-            "content": "<p><strong>Serving Size:</strong> 1 scoop (approx. 5g)</p><p><strong>Servings per Container:</strong> 30</p><p><strong>Calories</strong>: 40</p><p><strong>Sugars:</strong> &lt;2g</p><p><strong>Fiber Blend (Prebiotic + Probiotic) – 2000 mg</strong></p><ul><li>Chicory inulin</li><li>Apple fiber</li><li>Citrus pectin</li><li>Pea fiber</li></ul><p><strong>Lions’ Mane Mushroom (Hericium erinaceus) – 1000 mg</strong></p><p><strong>Yerba Mate Extract (Ilex paraguariensis) – 500 mg</strong></p><ul><li>Provides 100 mg of natural caffeine</li></ul><p><strong>L-Theanine – 100 mg</strong></p><p><strong>Other Ingredients:</strong></p><ul><li>Allulose</li><li>Organic Cane sugar</li><li>Natural flavors</li><li>Citric acid</li><li>Silica</li><li>Stevia leaf extract</li><li>Organic stevia rebaudioside A</li></ul>",
+            "title": "Benefits",
+            "content": "<p>Achieve superior nutrient absorption beyond basic multivitamins. This blend promotes gut health, sharpens cognitive function with nootropics, and balances stress via adaptogens. It delivers 3x the phytonutrients of standard greens powders and crafted for sustained energy, immune boost, and optimal daily performance.</p>",
             "page": ""
           }
         },
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
           "settings": {
-            "title": "What is GLP-1?",
-            "content": "<p>GLP-1 is a naturally occurring hormone produced in the intestines that helps regulate blood sugar levels and appetite. Consuming Meritage Yerba Mate may naturally boost your GLP-1 levels without the risks and side effects associated with certain medications.</p>",
+            "title": "How To Use",
+            "content": "<p>Mix one scoop or stick pack into 8-12 oz cold water for instant activation. Stir well and sip throughout your morning routine or post-workout. Take daily as directed by a professional—ideal for busy lifestyles seeking probiotic-enriched hydration and seamless integration into smoothies or shakes.</p>",
             "page": ""
           }
         },
@@ -616,10 +616,10 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<h2>See <em>Why</em> <strong>1000s Are Switching</strong> to MERITAGE Daily</h2>",
+        "content": "<h1><strong>1,000+ Sensational Reviews</strong></h1>",
         "background": "",
         "background_gradient": "",
-        "text_color": "#41326a"
+        "text_color": "#252728"
       }
     },
     "media_with_text_AJRELr": {
