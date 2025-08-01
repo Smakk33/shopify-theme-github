@@ -636,10 +636,10 @@
         "text_color": "#252728"
       }
     },
-    "multi_column_rKjEq4": {
+    "multi_column_rf77kB": {
       "type": "multi-column",
       "blocks": {
-        "item_9gR4xY": {
+        "item_DYXgmw": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/62eabcf5-3e75-48b3-b0a8-ecb590dc00dc.png",
@@ -652,7 +652,7 @@
             "link_style": "link"
           }
         },
-        "item_jUppCw": {
+        "item_qBY6Fp": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/d4efea22-4826-43e0-bea9-790fa9a67926.png",
@@ -665,7 +665,7 @@
             "link_style": "link"
           }
         },
-        "item_YQeby3": {
+        "item_FwLU7Q": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/5a909542-44a1-4e7e-acd5-559b0c4da5eb.png",
@@ -680,9 +680,9 @@
         }
       },
       "block_order": [
-        "item_9gR4xY",
-        "item_jUppCw",
-        "item_YQeby3"
+        "item_DYXgmw",
+        "item_qBY6Fp",
+        "item_FwLU7Q"
       ],
       "name": "Multi-column",
       "settings": {
@@ -933,19 +933,71 @@
         "accordion_text_color": ""
       }
     },
-    "1736349541b004fa39": {
-      "type": "apps",
+    "multi_column_rKjEq4": {
+      "type": "multi-column",
       "blocks": {
-        "trustoo_io_reviews_review_widget_DUCD4T": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+        "item_9gR4xY": {
+          "type": "item",
           "settings": {
-            "product": ""
+            "image": "shopify://shop_images/62eabcf5-3e75-48b3-b0a8-ecb590dc00dc.png",
+            "column_size": "3",
+            "title": "Ashwagandha Root",
+            "heading_tag": "h4",
+            "content": "<p>Ashwagandha root in our superfood greens calms stress and boosts energy, turning everyday chaos into balanced bliss.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUppCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/d4efea22-4826-43e0-bea9-790fa9a67926.png",
+            "column_size": "3",
+            "title": "Lion's Mane Mushroom",
+            "heading_tag": "h4",
+            "content": "<p>Lion's Mane mushroom shines in our superfood greens' nootropic mix, sharpening focus and supporting brain health for that amazing 'aha' moment every day.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQeby3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5a909542-44a1-4e7e-acd5-559b0c4da5eb.png",
+            "column_size": "3",
+            "title": "Natural Turmeric",
+            "heading_tag": "h4",
+            "content": "<p>Our superfood greens spotlight natural turmeric for its antioxidant magic, soothing inflammation and revitalizing your body.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "trustoo_io_reviews_review_widget_DUCD4T"
+        "item_9gR4xY",
+        "item_jUppCw",
+        "item_YQeby3"
       ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h1><strong>Powered By 90+ Superior Ingredients</strong></h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "1736349541b004fa39": {
+      "type": "apps",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1052,12 +1104,13 @@
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
-    "multi_column_rKjEq4",
+    "multi_column_rf77kB",
     "media_with_text_AJRELr",
     "related-products",
     "media_with_text_YW7zD7",
     "media_with_text_8U3D37",
     "faq_FLiQH6",
+    "multi_column_rKjEq4",
     "1736349541b004fa39",
     "174799084244c7d176",
     "ss_product_countdown_timer_2_FJgP8B"
