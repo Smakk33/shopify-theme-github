@@ -936,27 +936,27 @@
     "multi_column_rKjEq4": {
       "type": "multi-column",
       "blocks": {
-        "item_9gR4xY": {
+        "item_jUppCw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/62eabcf5-3e75-48b3-b0a8-ecb590dc00dc.png",
+            "image": "shopify://shop_images/6e8ef19f08bc49d3a837a64365861a5c-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
-            "title": "Ashwagandha Root",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Ashwagandha root in our superfood greens calms stress and boosts energy, turning everyday chaos into balanced bliss.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_jUppCw": {
+        "item_9gR4xY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/d4efea22-4826-43e0-bea9-790fa9a67926.png",
+            "image": "shopify://shop_images/0801-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
-            "title": "Lion's Mane Mushroom",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Lion's Mane mushroom shines in our superfood greens' nootropic mix, sharpening focus and supporting brain health for that amazing 'aha' moment every day.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -967,9 +967,9 @@
           "settings": {
             "image": "shopify://shop_images/5a909542-44a1-4e7e-acd5-559b0c4da5eb.png",
             "column_size": "3",
-            "title": "Natural Turmeric",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Our superfood greens spotlight natural turmeric for its antioxidant magic, soothing inflammation and revitalizing your body.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -977,8 +977,8 @@
         }
       },
       "block_order": [
-        "item_9gR4xY",
         "item_jUppCw",
+        "item_9gR4xY",
         "item_YQeby3"
       ],
       "name": "Multi-column",
