@@ -764,15 +764,15 @@
         "image_tkYhff": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Weight-Loss-Injections-Mi-Bella-Aesthetics-Cleveland-OH-Before-and-after-images-1.webp",
+            "image": "shopify://shop_images/746c85d07f604b09a034e94781c6549e-ezgif.com-gif-to-webp-converter.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "Discover the buzz! Wellness enthusiasts are raving over Meritage Superfood Greens. Packed with adaptogens, probiotics, and vibrant phytonutrients, this formula delivers balanced energy, sharp focus, and robust immune support for your best daily performance yet.",
-            "title": "Watch the Fat Melt Away in 30 Days",
-            "content": "<p>Based on a real-world study of 300+ users who took Meritage daily for 30 days, the results speak volumes</p>",
+            "title": "Greens Made Simple",
+            "content": "<h6>90+ Powerful Ingredients for Whole-Body Health*</h6><h6>Effortless Daily Nutrition Boost*</h6><h6>Non-GMO, USA-Made Quality</h6>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -792,142 +792,21 @@
         "spacing": "none"
       }
     },
-    "rich_text_4f9HDA": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_Yb9dRq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h1>Backed by <em><strong>Real Results.</strong></em><br/>Trusted by Women.</h1>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_Yb9dRq"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#41326a"
-      }
-    },
-    "impact_text_g366Wq": {
-      "type": "impact-text",
-      "blocks": {
-        "item_rAbTQT": {
-          "type": "item",
-          "settings": {
-            "title": "85%",
-            "subheading": "",
-            "content": "<h4>Felt a Sustained Energy Boost - No crashes, just clean, <em><strong>lost-lasting energy</strong></em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_YVd7Ag": {
-          "type": "item",
-          "settings": {
-            "title": "95%",
-            "subheading": "",
-            "content": "<h4>Reported <em><strong>sharper thinking </strong></em>&<em><strong>improved productivity</strong></em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_dgzit9": {
-          "type": "item",
-          "settings": {
-            "title": "94%",
-            "subheading": "",
-            "content": "<h4>Noticed Improved Digestion -<em><strong>Reduced bloating </strong></em>&<em><strong>better gut health</strong></em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_rAbTQT",
-        "item_YVd7Ag",
-        "item_dgzit9"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "#41326a",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "impact_text_EDCadt": {
-      "type": "impact-text",
-      "blocks": {
-        "item_pe7Lcb": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "",
-            "content": "<h4>Experienced Less Stress & Anxiety - A <em><strong>calm, focused state without jitters</strong></em>.</h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_pe7Lcb"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "#41326a",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "media_with_text_8U3D37": {
       "type": "media-with-text",
       "blocks": {
         "image_7xiBzQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/gempages_559956518854722645-c3d56d5e-3944-46ae-99b3-b0d89a190867.webp",
+            "image": "shopify://shop_images/PHOTO-2025-07-31-11-09-29_40cdcf30-bb53-4878-b621-c28af5b4ead6.jpg",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "",
-            "content": "<h3>Takes Less Than <em><strong>2 Minutes</strong></em></h3>",
+            "title": "You’re in good hands",
+            "content": "<p>Before joining our vibrant community of wellness seekers, all members share a passion for holistic health through Meritage Superfood Greens. They bring diverse experiences in nutrition and vitality, ready to inspire and support your journey toward balanced, energized living.</p><p>Once part of our welcoming Meritage circle, you'll connect with like-minded individuals who thrive on 90+ powerful ingredients for gut, brain, and body harmony. They offer tips, stories, and encouragement, making every step in your wellness adventure feel empowering and communal.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -937,106 +816,19 @@
             "button_background": "",
             "button_text_color": ""
           }
-        }
-      },
-      "block_order": [
-        "image_7xiBzQ"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
-      }
-    },
-    "multi_column_JXHeYb": {
-      "type": "multi-column",
-      "blocks": {
-        "item_etdxMy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012703.898.svg",
-            "column_size": "4",
-            "title": "Pour & Mix",
-            "heading_tag": "h4",
-            "content": "<p>Fill your favorite cup with cold water and ice for a refreshing boost. Add one scoop of Yerba Mate to the cup.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         },
-        "item_YTTWe8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012723.708.svg",
-            "column_size": "4",
-            "title": "Blend Until Smooth",
-            "heading_tag": "h4",
-            "content": "<p>Use a frother, whisk, or spoon to mix until fully dissolved. No clumps—just smooth, delicious energy.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4mX4PY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012737.081.svg",
-            "column_size": "4",
-            "title": "Drink & Enjoy",
-            "heading_tag": "h4",
-            "content": "<p>Sip, savor, and feel the difference! Enjoy the clean energy, mental clarity, and gut support with every sip.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_etdxMy",
-        "item_YTTWe8",
-        "item_4mX4PY"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "custom_liquid_y4VrX6": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<section class=\"comparison-section\">\n  <div class=\"comparison-inner\">\n    <h2><em>Why Us?</em></h2>\n    <p class=\"subtitle\">\n      Why rely on expensive prescriptions with potential side effects when you can naturally support your GLP-1 levels? Meritage Yerba Mate delivers appetite control, sustained energy, and gut health benefits—all without the risks of traditional medications.\n    </p>\n\n    <table class=\"comparison-table no-scroll\">\n      <thead>\n        <tr>\n          <th></th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/yerba.avif?v=1753867274\" alt=\"Meritage Yerba Mate\">\n              <span>Meritage</span>\n            </div>\n          </th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/ozempic.avif?v=1753867304\" alt=\"Injections\">\n              <span>Injections</span>\n            </div>\n          </th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/material-symbols_no-food.png?v=1753867305\" alt=\"Other Supplements\">\n              <span>Other Supps</span>\n            </div>\n          </th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>Suppress Cravings</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check red\">✔</span></td>\n          <td><span class=\"check gray\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Reduces Bloating</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Enhances Focus</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Supports Gut & Hormones</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>No Side Effects</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Cost</td>\n          <td>$59.99<br><small>CAD / month</small></td>\n          <td>$1000+<br><small>CAD / month</small></td>\n          <td>Constantly<br><small>Buying</small></td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</section>\n\n<style>\n.comparison-section {\n  background-color: #ede8ff;\n  padding: 30px 15px;\n  text-align: center;\n}\n\n.comparison-inner {\n  max-width: 1000px;\n  margin: 0 auto;\n}\n\n.subtitle {\n  font-size: 14px;\n  color: #333;\n  margin-bottom: 20px;\n}\n\n.comparison-table {\n  width: 100%;\n  border-collapse: collapse;\n  background-color: #fff;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 13px;\n  table-layout: fixed;\n}\n\n.comparison-table th,\n.comparison-table td {\n  padding: 12px 8px;\n  text-align: center;\n  border: 1px solid #ddd;\n  vertical-align: middle;\n  word-wrap: break-word;\n}\n\n.comparison-table th {\n  background-color: #f5f2ff;\n  font-weight: 700;\n  font-size: 13px;\n}\n\n.header-icon {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  gap: 4px;\n}\n\n.header-icon img {\n  height: 38px;\n  max-width: 100%;\n}\n\n.check {\n  font-size: 16px;\n  font-weight: bold;\n}\n\n.check.purple { color: #6b5cab; }\n.check.red { color: #e63946; }\n.check.green { color: #6ecf68; }\n.check.gray { color: #999; }\n\n/* Mobile Optimisation */\n@media (max-width: 600px) {\n  .comparison-table th, .comparison-table td {\n    padding: 8px 4px;\n    font-size: 12px;\n  }\n\n  .comparison-section h2 {\n    font-size: 18px;\n  }\n\n  .subtitle {\n    font-size: 13px;\n  }\n\n  .header-icon img {\n    height: 32px;\n  }\n\n  .header-icon span {\n    font-size: 12px;\n  }\n\n  .check {\n    font-size: 15px;\n  }\n}\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_yt99ww": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_Dg4ixH": {
+        "image_k6ieF6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image-3.webp",
+            "image": "shopify://shop_images/PHOTO-2025-07-31-11-09-29_2.jpg",
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center-start text-start",
+            "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "90-DAY RISK FREE",
-            "title": "Notice Results or Your Money Back",
-            "content": "<p>Try Meritage for a full 90 days, risk-free! If you’re not 100% satisfied, just contact us for a hassle-free refund, no questions asked. We believe in our product, and if it’s not the right fit for you, we’ll make it right.</p>",
+            "subheading": "",
+            "title": "You Asked We Delivered",
+            "content": "<p>A convenient option of single-serve packs in a 20-count bag, our Meritage provides a full 20-day supply as portable and effortless as you'll find daily wellness.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -1049,7 +841,8 @@
         }
       },
       "block_order": [
-        "image_Dg4ixH"
+        "image_7xiBzQ",
+        "image_k6ieF6"
       ],
       "settings": {
         "full_width": true,
@@ -1263,13 +1056,7 @@
     "media_with_text_AJRELr",
     "related-products",
     "media_with_text_YW7zD7",
-    "rich_text_4f9HDA",
-    "impact_text_g366Wq",
-    "impact_text_EDCadt",
     "media_with_text_8U3D37",
-    "multi_column_JXHeYb",
-    "custom_liquid_y4VrX6",
-    "media_with_text_yt99ww",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
