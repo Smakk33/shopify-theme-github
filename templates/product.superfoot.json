@@ -636,6 +636,68 @@
         "text_color": "#252728"
       }
     },
+    "multi_column_rKjEq4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9gR4xY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/62eabcf5-3e75-48b3-b0a8-ecb590dc00dc.png",
+            "column_size": "3",
+            "title": "Ashwagandha Root",
+            "heading_tag": "h4",
+            "content": "<p>Ashwagandha root in our superfood greens calms stress and boosts energy, turning everyday chaos into balanced bliss.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUppCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/d4efea22-4826-43e0-bea9-790fa9a67926.png",
+            "column_size": "3",
+            "title": "Lion's Mane Mushroom",
+            "heading_tag": "h4",
+            "content": "<p>Lion's Mane mushroom shines in our superfood greens' nootropic mix, sharpening focus and supporting brain health for that amazing 'aha' moment every day.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQeby3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5a909542-44a1-4e7e-acd5-559b0c4da5eb.png",
+            "column_size": "3",
+            "title": "Natural Turmeric",
+            "heading_tag": "h4",
+            "content": "<p>Our superfood greens spotlight natural turmeric for its antioxidant magic, soothing inflammation and revitalizing your body.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9gR4xY",
+        "item_jUppCw",
+        "item_YQeby3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h1><strong>Powered By 90+ Superior Ingredients</strong></h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_AJRELr": {
       "type": "media-with-text",
       "blocks": {
@@ -931,82 +993,6 @@
         "text_color": "#41326a",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "multi_column_rKjEq4": {
-      "type": "multi-column",
-      "blocks": {
-        "item_9gR4xY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_05b9c017-94c4-487a-a682-e1453c1098d7.webp",
-            "column_size": "3",
-            "title": "🌿 Yerba Mate",
-            "heading_tag": "h4",
-            "content": "<p>A natural appetite regulator shown to support the body’s GLP-1 hormone to help signal fullness and reduce cravings. Delivering steady energy and antioxidant support for immune health and metabolic function.<br/><br/><strong>APPETITE CONTROL / ENERGY / GLP-1 SUPPORT</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jUppCw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_fc79cc11-6195-4884-896b-e313bab9abe8.webp",
-            "column_size": "3",
-            "title": "🧠 Lions Mane",
-            "heading_tag": "h4",
-            "content": "<p>A powerful nootropic known for its ability to enhance cognitive function, memory, and focus while supporting brain health and neuroprotection.</p><p><strong>BRAIN HEALTH / MEMORY / MENTAL CLARITY</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YQeby3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_3875c3cc-efa9-4f93-aa38-6d815aca5e14.webp",
-            "column_size": "3",
-            "title": "💆‍♂️ L-Theanine",
-            "heading_tag": "h4",
-            "content": "<p>Works synergistically with caffeine to promote calm focus and relaxation, reducing stress while keeping you alert. Also improves sleep quality and recovery.</p><p><strong>STRESS RELIEF / FOCUS / BETTER SLEEP</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AwmAkX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_ee4ebbe8-c177-4907-ac21-bd3c3ffa1236.webp",
-            "column_size": "3",
-            "title": "🌱 Pre + Probiotic Blend",
-            "heading_tag": "h4",
-            "content": "<p>A combination of gut-friendly fibers that nourish healthy bacteria, improve digestion, and reduce bloating, ensuring that every sip is both refreshing and beneficial.</p><p><strong>DIGESTION / BLOAT RELIEF / GUT HEALTH</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_9gR4xY",
-        "item_jUppCw",
-        "item_YQeby3",
-        "item_AwmAkX"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h1><em><strong>Real </strong></em>Ingredients, <em><strong>Real </strong></em>Results</h1>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "media_with_text_8U3D37": {
@@ -1355,6 +1341,7 @@
     "press_d49NgN",
     "media_with_text_XgGpQw",
     "multi_column_JY4g6c",
+    "multi_column_rKjEq4",
     "media_with_text_AJRELr",
     "related-products",
     "rich_text_f8kUbN",
@@ -1363,7 +1350,6 @@
     "rich_text_4f9HDA",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
-    "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
