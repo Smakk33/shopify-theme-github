@@ -539,7 +539,7 @@
         "item_HnHMTB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.59.51.png",
+            "image": "shopify://shop_images/1_9e548e4f-f31f-42ed-9038-c9e340a7d54d.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -552,7 +552,7 @@
         "item_Nkxpkf": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.04.png",
+            "image": "shopify://shop_images/2_c55aa1e8-bbba-486f-bde6-c728d4e1ea9d.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -565,7 +565,7 @@
         "item_TWhRUV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.14.png",
+            "image": "shopify://shop_images/3_3f946454-0b39-4076-9994-5353a8b5e308.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -578,7 +578,7 @@
         "item_7bfFA8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.26.png",
+            "image": "shopify://shop_images/4_f7fbf385-2dc9-4fb6-a468-d81f5912153b.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -591,7 +591,20 @@
         "item_EtdC8j": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.33.png",
+            "image": "shopify://shop_images/5_74ff737b-0773-410f-9d41-ef77c1448502.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_r9r6rq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_2e0e4bd2-a15c-4c49-b578-bdb8377f36ba.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -607,7 +620,8 @@
         "item_Nkxpkf",
         "item_TWhRUV",
         "item_7bfFA8",
-        "item_EtdC8j"
+        "item_EtdC8j",
+        "item_r9r6rq"
       ],
       "settings": {
         "full_width": true,
