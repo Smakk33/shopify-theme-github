@@ -779,6 +779,7 @@
         },
         "item_bYzCVH": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "How do I prepare Yerba Mate?",
             "content": "<p>It’s super easy! Just <strong>add one scoop to cold water with ice, stir with a frother or whisk, and enjoy</strong>. No brewing required!</p>"
@@ -786,6 +787,7 @@
         },
         "item_LhA7PL": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "What if I don’t like it?",
             "content": "<p>We stand by our product with a <strong>90-day risk-free trial</strong>. If Yerba Mate isn’t for you, just contact us for a <strong>hassle-free refund</strong>—no questions asked.</p>"
