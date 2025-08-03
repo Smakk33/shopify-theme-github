@@ -307,6 +307,29 @@
         "input_text_color": ""
       }
     },
+    "rich_text_4f9HDA": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_Yb9dRq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h1>Backed by <em><strong>Real Results.</strong></em><br/>Trusted by Women.</h1>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_Yb9dRq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "linear-gradient(46deg, rgba(93, 224, 230, 1) 13%, rgba(0, 74, 173, 1) 86%)",
+        "text_color": "#41326a"
+      }
+    },
     "media_with_text_G3VJEB": {
       "type": "media-with-text",
       "blocks": {
@@ -651,29 +674,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "rich_text_4f9HDA": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_Yb9dRq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h1>Backed by <em><strong>Real Results.</strong></em><br/>Trusted by Women.</h1>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_Yb9dRq"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#41326a"
       }
     },
     "impact_text_g366Wq": {
@@ -1190,6 +1190,7 @@
   },
   "order": [
     "main",
+    "rich_text_4f9HDA",
     "media_with_text_G3VJEB",
     "image_link_blocks_qGzYLJ",
     "before_after_image_VyHEee",
@@ -1199,7 +1200,6 @@
     "media_with_text_XgGpQw",
     "media_with_text_AJRELr",
     "related-products",
-    "rich_text_4f9HDA",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
     "multi_column_rKjEq4",
