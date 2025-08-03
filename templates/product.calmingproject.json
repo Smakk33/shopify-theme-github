@@ -496,11 +496,11 @@
         "item_9gR4xY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.21.24_700x700_05b9c017-94c4-487a-a682-e1453c1098d7.webp",
+            "image": "shopify://shop_images/ASHWA1.png",
             "column_size": "3",
-            "title": "🌿 Yerba Mate",
+            "title": "KSM-66®Ashwagandha",
             "heading_tag": "h4",
-            "content": "<p>A natural appetite regulator shown to support the body’s GLP-1 hormone to help signal fullness and reduce cravings. Delivering steady energy and antioxidant support for immune health and metabolic function.<br/><br/><strong>APPETITE CONTROL / ENERGY / GLP-1 SUPPORT</strong></p>",
+            "content": "<p>Powerful adaptogen that promotes calm while also supporting mental and physical function. </p><p>SupraCalm contains <em>300mg of KSM-66 per serving</em>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -509,11 +509,11 @@
         "item_jUppCw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.22.00_700x700_fc79cc11-6195-4884-896b-e313bab9abe8.webp",
+            "image": "shopify://shop_images/VD3.png",
             "column_size": "3",
-            "title": "🧠 Lions Mane",
+            "title": "VITAMIN D3",
             "heading_tag": "h4",
-            "content": "<p>A powerful nootropic known for its ability to enhance cognitive function, memory, and focus while supporting brain health and neuroprotection.</p><p><strong>BRAIN HEALTH / MEMORY / MENTAL CLARITY</strong></p>",
+            "content": "<p>Known as the “sunshine vitamin”, vitamin D3 plays a crucial role in supporting a positive mood. </p><p><em>SupraCalm contains 1,000IU of vitamin D3 per serving.</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -522,7 +522,7 @@
         "item_YQeby3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.28.18_700x700_3875c3cc-efa9-4f93-aa38-6d815aca5e14.webp",
+            "image": "shopify://shop_images/MB1.png",
             "column_size": "3",
             "title": "💆‍♂️ L-Theanine",
             "heading_tag": "h4",
@@ -535,7 +535,7 @@
         "item_AwmAkX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2025-05-26_01.29.58_700x700_ee4ebbe8-c177-4907-ac21-bd3c3ffa1236.webp",
+            "image": "shopify://shop_images/LT1.png",
             "column_size": "3",
             "title": "🌱 Pre + Probiotic Blend",
             "heading_tag": "h4",
