@@ -752,22 +752,15 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "How does Yerba Mate taste?",
-            "content": "<p>Yerba Mate has a <strong>smooth, refreshing flavor </strong>with subtle notes of <strong>Yerba Mate and natural fruit extracts</strong>. It’s slightly earthy but light and easy to drink—perfect for both new and experienced tea drinkers.</p>"
-          }
-        },
-        "item_wB8JVQ": {
-          "type": "item",
-          "settings": {
-            "title": "How much caffeine does it have?",
-            "content": "<p>Each serving contains <strong>100mg of natural caffeine </strong>from<strong>Yerba Mate</strong>, providing a steady energy boost without the jitters or crashes of coffee.</p>"
+            "title": "Is SupraCalm safe to take with antidepressants?",
+            "content": "<p>Yes, Meritage™ SupraCalm can be used alongside antidepressant medications. Just be sure to follow the recommended daily dose.<br/><br/>As with any supplement, it’s best to check with your healthcare provider before combining it with prescription treatments.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
             "title": "Can I drink it everyday?",
-            "content": "<p>Yes! Yerba Mate is designed for <strong>daily use </strong>and can be enjoyed as a morning energy boost, an afternoon pick-me-up, or a pre-workout drink.</p>"
+            "content": "<p>We recommend taking Meritage™ SupraCalm <strong>Monday through Friday</strong>, with a break on weekends. This helps prevent your body from building a tolerance over time.<br/><br/>However, on particularly stressful days or if you're struggling with sleep, it's perfectly fine to take a sachet on the weekend as needed.</p>"
           }
         },
         "item_9w86PN": {
@@ -801,7 +794,6 @@
       },
       "block_order": [
         "item_KqDpLp",
-        "item_wB8JVQ",
         "item_FmKhth",
         "item_9w86PN",
         "item_U8BnMe",
