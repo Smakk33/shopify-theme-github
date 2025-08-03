@@ -15,8 +15,8 @@
         "image_hFnxjE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Header-banner_1.png",
-            "mobile_image": "shopify://shop_images/mobile_2.png",
+            "image": "shopify://shop_images/PDT8_5918edc7-c4f5-4be4-93e1-8dcaf4a62372.png",
+            "mobile_image": "shopify://shop_images/PDT8_5918edc7-c4f5-4be4-93e1-8dcaf4a62372.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -725,7 +725,7 @@
       ],
       "name": "SS - Scrolling Logo Cloud",
       "settings": {
-        "ss-title": "Enjoy Yerba Mate with ZERO risk - with our 90-day money-back guarantee.",
+        "ss-title": "Enjoy SupraCalm with ZERO risk - with our 30-day money-back guarantee.",
         "heading_custom": true,
         "heading_font": "dm_sans_n7",
         "header_size": 28,
