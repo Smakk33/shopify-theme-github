@@ -490,6 +490,40 @@
         "button_text_color": ""
       }
     },
+    "media_with_text_QkLmHd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AdwAXF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/gifmeuf2.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Better Nights Start with Less Stress",
+            "content": "<p>SupraCalm supports natural relaxation and a balanced nervous system</p><p>Helping you<em> </em><em><strong>fall asleep faster</strong></em> and enjoy up to <em><strong>2 more hours of restorative rest each night.*</strong></em></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AdwAXF"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "multi_column_rKjEq4": {
       "type": "multi-column",
       "blocks": {
@@ -564,40 +598,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_with_text_QkLmHd": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_AdwAXF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/gifmeuf2.gif",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Better Nights Start with Less Stress",
-            "content": "<p>SupraCalm supports natural relaxation and a balanced nervous system</p><p>Helping you<em> </em><em><strong>fall asleep faster</strong></em> and enjoy up to <em><strong>2 more hours of restorative rest each night.*</strong></em></p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_AdwAXF"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
       }
     },
     "media_with_text_8U3D37": {
@@ -947,8 +947,8 @@
     "related-products",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
-    "multi_column_rKjEq4",
     "media_with_text_QkLmHd",
+    "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
