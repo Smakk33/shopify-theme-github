@@ -402,7 +402,7 @@
             "content": "<h4><em>Our customers report</em> feeling up to 72% calmer day-to-day <em>after adding SupraCalm to their wellness routine.*</em></h4>",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         },
@@ -414,7 +414,7 @@
             "content": "<h4><em>Our customers reported</em> <strong>Sharper Thinking</strong><em><strong> </strong></em><em>&</em><strong> Improved Productivity</strong><em><strong> </strong></em><em>up to</em><strong> 3 times more</strong></h4>",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         },
