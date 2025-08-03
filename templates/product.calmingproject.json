@@ -291,6 +291,41 @@
         "input_text_color": ""
       }
     },
+    "media_with_text_G3VJEB": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_FdmLUX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Meritage.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Take Back Control of Your Stress",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#252728",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_FdmLUX"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "image_link_blocks_qGzYLJ": {
       "type": "image-link-blocks",
       "blocks": {
@@ -1139,6 +1174,7 @@
   },
   "order": [
     "main",
+    "media_with_text_G3VJEB",
     "image_link_blocks_qGzYLJ",
     "before_after_image_VyHEee",
     "rich_text_mXMeWG",
