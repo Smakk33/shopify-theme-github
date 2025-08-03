@@ -61,7 +61,7 @@
         "liquid_FJ6Aqt": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"custom-divider\"></div>\n\n<style>\n  .custom-divider {\n    height: 1px;\n    background-color: #ccc; /* Change la couleur ici si besoin */\n    margin: 8px 0; /* Padding vertical (haut/bas) */\n    width: 100%;\n  }\n</style>"
+            "liquid": "<div class=\"custom-divider\"></div>\n\n<style>\n  .custom-divider {\n    height: 1px;\n    background-color: #252728; /* Change la couleur ici si besoin */\n    margin: 8px 0; /* Padding vertical (haut/bas) */\n    width: 100%;\n  }\n</style>"
           }
         },
         "offer_pGdHxj": {
