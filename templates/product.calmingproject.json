@@ -152,8 +152,9 @@
         },
         "liquid_AWp3dg": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
-            "liquid": "<div style=\"background-color: #faefff; padding: 15px 20px; border-radius: 10px; display: flex; align-items: center;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/360_F_247992143_n8HSwC9vq5csSf6MYnqkvNff3phxLOEy-removebg-preview_1.webp?v=1753865399\" alt=\"90-Day Guarantee\" style=\"width: 40px; height: 40px; margin-right: 15px;\" />\n  <p style=\"margin: 0; font-size: 12px; color: #3f2b63; font-weight: 700;\">\n    Less than 1% of Meritage customers<br />\n    claim our 90-Day Money Back Guarantee\n  </p>\n</div>"
+            "liquid": "<div style=\"display: flex; align-items: flex-start; gap: 18px; padding: 12px 0; font-family: sans-serif;\">\n  <!-- Image Docteur -->\n  <div style=\"flex: 0 0 auto;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/docteur_derm.png?v=1754207103\" alt=\"Dr. Sanober Doctor\" style=\"width: 120px; height: auto; border-radius: 4px;\">\n  </div>\n\n  <!-- Bloc texte -->\n  <div style=\"flex: 1; font-size: 15px; color: #252728; line-height: 1.6;\">\n    <p style=\"margin: 0;\">\n      \"I strongly recommend getting a full 2-month supply of The Complete System for Mature Skin for best results. Studies show it takes 60 days of daily use to heal the skin barrier and see visible results.\"\n    </p>\n    <p style=\"margin: 8px 0 0 0; font-style: italic;\">\n      Dr. Sanober Doctor, MD\n    </p>\n    <p style=\"margin: 0; font-weight: 600; text-transform: uppercase;\">\n      Anti-Age Expert – Double US Board Certified Dermatologist\n    </p>\n  </div>\n</div>"
           }
         },
         "liquid_tJpDht": {
