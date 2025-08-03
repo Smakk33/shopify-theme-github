@@ -240,6 +240,14 @@
             "content": "<p>SupraCalm can be enjoyed with or without caffeine. We love it on heavy caffeine days to unwind, but it's effective for feelings of stress outside of caffeine consumption. </p>",
             "page": ""
           }
+        },
+        "collapsible_text_QfpNxw": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Are there side effects?",
+            "content": "<p>Calm, light focus.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -274,7 +282,8 @@
         "collapsible_text_4dkd3V",
         "collapsible_text_TMJMhq",
         "collapsible_text_MGDgmy",
-        "collapsible_text_MnetTi"
+        "collapsible_text_MnetTi",
+        "collapsible_text_QfpNxw"
       ],
       "custom_css": [
         ".product-info__liquid {margin-top: 0px !important; /* Réduit l’espace au-dessus */ margin-bottom: 0px !important; /* Réduit l’espace en dessous */}",
