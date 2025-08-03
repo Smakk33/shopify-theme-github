@@ -117,7 +117,7 @@
         "liquid_wQNJEm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>ONLY 10 LEFT IN STOCK\n</p>"
+            "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: red;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: red;\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>GOING FAST – LIMIT 6 PER CUSTOMER\n\n</p>"
           }
         },
         "buy_buttons": {
@@ -125,7 +125,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#ebcafc",
+            "atc_button_background": "#004aad",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
