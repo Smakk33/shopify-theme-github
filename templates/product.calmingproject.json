@@ -411,7 +411,7 @@
           "settings": {
             "title": "3X  Energy",
             "subheading": "",
-            "content": "<h4><em>Our customers report</em> <strong>Sharper Thinking</strong><em><strong> </strong></em><em>&</em><strong> Improved Productivity</strong><em><strong> </strong></em><em>up to</em><strong> 3 times more</strong></h4>",
+            "content": "<h4><em>Our customers report</em> <strong>Sharper Thinking</strong><em><strong> </strong></em><em>&</em><strong> Improved Productivity</strong><em><strong> </strong></em><em>up to</em><strong> 3 times more*</strong></h4>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
@@ -423,7 +423,7 @@
           "settings": {
             "title": "+2H Restorative Sleep",
             "subheading": "",
-            "content": "<h4><em>Our Customers report</em> <strong>deeper, more restful nights</strong>,<em> gaining up to</em> <strong>2 extra hours of sleep</strong></h4>",
+            "content": "<h4><em>Our Customers report</em> <strong>deeper, more restful nights</strong>,<em> gaining up to</em> <strong>2 extra hours of sleep*</strong></h4>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
