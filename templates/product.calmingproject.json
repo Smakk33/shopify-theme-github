@@ -539,95 +539,6 @@
         "spacing": "none"
       }
     },
-    "multi_column_JY4g6c": {
-      "type": "multi-column",
-      "blocks": {
-        "item_HnHMTB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.59.51.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_Nkxpkf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.04.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TWhRUV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.14.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_7bfFA8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.26.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_EtdC8j": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.00.33.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_HnHMTB",
-        "item_Nkxpkf",
-        "item_TWhRUV",
-        "item_7bfFA8",
-        "item_EtdC8j"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h2>See <em>Why</em> <strong>1000s Are Switching</strong> to MERITAGE Daily</h2>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#41326a"
-      }
-    },
     "media_with_text_AJRELr": {
       "type": "media-with-text",
       "blocks": {
@@ -688,120 +599,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "rich_text_f8kUbN": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_TWnfre": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h1>What Happens When You Give Your Body</h1><h1><em><strong>What It’s Been Missing</strong></em></h1>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_TWnfre"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#41326a"
-      }
-    },
-    "timeline_3CKt7W": {
-      "type": "timeline",
-      "blocks": {
-        "slide_ceaMi6": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.55.09.png",
-            "navigation_label": "WEEK 1",
-            "subheading": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "slide_LXDrMk": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_12.51.26.png",
-            "navigation_label": "WEEK 2",
-            "subheading": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "slide_HhzFAe": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.56.10.png",
-            "navigation_label": "WEEK 3",
-            "subheading": "",
-            "title": "",
-            "content": ""
-          }
-        },
-        "slide_gb6dYk": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_a_11.56.18.png",
-            "navigation_label": "WEEK 4",
-            "subheading": "",
-            "title": "",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_ceaMi6",
-        "slide_LXDrMk",
-        "slide_HhzFAe",
-        "slide_gb6dYk"
-      ],
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_YW7zD7": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_tkYhff": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Weight-Loss-Injections-Mi-Bella-Aesthetics-Cleveland-OH-Before-and-after-images-1.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "Burn Fat Naturally",
-            "title": "Watch the Fat Melt Away in 30 Days",
-            "content": "<p>Based on a real-world study of 300+ users who took Meritage daily for 30 days, the results speak volumes</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#41326a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_tkYhff"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
       }
     },
     "rich_text_4f9HDA": {
@@ -1139,6 +936,7 @@
       "block_order": [
         "image_Dg4ixH"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "spacing": "none"
@@ -1346,12 +1144,8 @@
     "media_with_text_yArhtg",
     "press_d49NgN",
     "media_with_text_XgGpQw",
-    "multi_column_JY4g6c",
     "media_with_text_AJRELr",
     "related-products",
-    "rich_text_f8kUbN",
-    "timeline_3CKt7W",
-    "media_with_text_YW7zD7",
     "rich_text_4f9HDA",
     "impact_text_g366Wq",
     "impact_text_EDCadt",
