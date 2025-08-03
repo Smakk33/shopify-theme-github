@@ -217,19 +217,19 @@
             "page": ""
           }
         },
-        "collapsible_text_TMJMhq": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "When & how should I drink it?",
-            "content": "<p><strong>When you need to chill out or anytime before bed. On stressful days.</strong><br/><br/>Take <strong>1 sachet per day</strong>, Monday to Friday.<br/><br/>In case of intense stress, you may take <strong>up to 2 sachets per day</strong>.<br/><br/>A <strong>weekend break</strong> is recommended to maximise long-term benefits and avoid building tolerance.</p>",
-            "page": ""
-          }
-        },
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
           "settings": {
             "title": "When can I feel the affects?",
             "content": "<p>Some ingredients such as the L-theanine, can take effect within as little as <strong>30 minutes after consumption</strong>. </p><p>The benefits of KSM-66 Ashwagandha can build overtime as most clinical studies were performed over a 90-day period.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_TMJMhq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "When & how should I drink it?",
+            "content": "<p><strong>When you need to chill out or anytime before bed. On stressful days.</strong><br/><br/>Take <strong>1 sachet per day</strong>, Monday to Friday.<br/><br/>In case of intense stress, you may take <strong>up to 2 sachets per day</strong>.<br/><br/>A <strong>weekend break</strong> is recommended to maximise long-term benefits and avoid building tolerance.</p>",
             "page": ""
           }
         },
@@ -280,8 +280,8 @@
         "collapsible_text_CCz8J8",
         "collapsible_text_hEkknm",
         "collapsible_text_4dkd3V",
-        "collapsible_text_TMJMhq",
         "collapsible_text_MGDgmy",
+        "collapsible_text_TMJMhq",
         "collapsible_text_MnetTi",
         "collapsible_text_QfpNxw"
       ],
