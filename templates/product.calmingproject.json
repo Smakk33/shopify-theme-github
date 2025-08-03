@@ -313,7 +313,7 @@
         "richtext_Yb9dRq": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Cortisol can <em><strong>Kiss </strong></em>Our <em><strong>Ashwagandha.</strong></em><br/></h1>"
+            "content": "<h1>Cortisol can <em><strong>Kiss </strong></em>Our <em><strong>Ashwagandha</strong></em><br/></h1>"
           }
         }
       },
@@ -358,6 +358,9 @@
       },
       "block_order": [
         "image_FdmLUX"
+      ],
+      "custom_css": [
+        ":host,section,div[class*=\"section\"] {padding-top: 0 !important; padding-bottom: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important;}"
       ],
       "name": "Media with text",
       "settings": {
