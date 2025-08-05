@@ -54,12 +54,14 @@
         },
         "liquid_9K3pt4": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<p style=\"font-weight: 600; font-style: italic;\">for healthy vaginal odor & pH*</p>"
           }
         },
         "liquid_FJ6Aqt": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"custom-divider\"></div>\n\n<style>\n  .custom-divider {\n    height: 1px;\n    background-color: #252728; /* Change la couleur ici si besoin */\n    margin: 8px 0; /* Padding vertical (haut/bas) */\n    width: 100%;\n  }\n</style>"
           }
