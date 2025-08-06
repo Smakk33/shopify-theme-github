@@ -446,6 +446,82 @@
         "text_color": ""
       }
     },
+    "multi_column_NhcPNd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_7K6R8V": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6423fbec8c26484486964599010285a9.HD-720p-1.6Mbps-46861961-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_gMt8F4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/d0debe7a4033499ebeddeac7d0e0beea.HD-720p-4.5Mbps-43096083-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_96bDzW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/dc86ba01ddaa4ad7bb0d2301acfe6d2a.HD-720p-3.0Mbps-43096080-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_caXRHX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/37b9dea3075f4ba584634a20190d5539.HD-720p-4.5Mbps-43096082-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_7K6R8V",
+        "item_gMt8F4",
+        "item_96bDzW",
+        "item_caXRHX"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_G3VJEB": {
       "type": "media-with-text",
       "custom_css": [
@@ -1224,6 +1300,7 @@
     "main",
     "ss_scrolling_logo_cloud_MQXVJE",
     "multi_column_Vpdyjn",
+    "multi_column_NhcPNd",
     "media_with_text_G3VJEB",
     "related-products",
     "impact_text_EDCadt",
