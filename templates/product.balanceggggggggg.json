@@ -815,15 +815,36 @@
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "When will my order ship and arrive?",
-            "content": "<p>We ship all orders within <strong>24 to 48 hours</strong>. Delivery usually takes <strong>5 to 9 business days</strong>, depending on your location in Canada.</p>"
+            "title": "How long does it take to work?",
+            "content": "<p><strong>Most women in clinical studies notice results within the first 7 days</strong>—less odor, cleaner discharge, and a fresher, more balanced feeling. By week 2, issues like dryness, irritation, and recurring discomfort start to fade. <strong>Meritage doesn’t just cover up symptoms—it targets the actual cause. </strong>Our probiotic survives digestion and reaches the vaginal microbiome fast, so it can do what other formulas can’t. Take it daily, and your body stays balanced, protected, and consistent—no guessing, no flare-ups.</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "What is your return policy or guarantee?",
-            "content": "<p>We offer a <strong>30-day money-back guarantee</strong>, so you can try SupraCalm and form your own opinion — with complete peace of mind.<br/><br/>If you're not satisfied, simply reach out to our customer support. We'll provide all the instructions needed for a smooth return and a <strong>full refund</strong>.</p>"
+            "title": "What’s new in the updated formula?",
+            "content": "<p>We’ve refined our formula to deliver even better results—without changing what made She Thrive so effective in the first place.</p><p><strong>Enhanced probiotic blend.</strong> We’ve kept Bacillus coagulans SNZ 1969 and added additional strains for broader vaginal and microbiome support.<br/><br/><strong>Improved nutrient delivery. </strong>The updated gummy base improves ingredient stability and absorption—so your body actually gets the full benefit of every dose.<br/><br/><strong>100% vegan and allergen-free. </strong>No gelatin, gluten, or soy—just clean, effective ingredients.</p>"
+          }
+        },
+        "item_QCPjCF": {
+          "type": "item",
+          "settings": {
+            "title": "How do I take Meritage?",
+            "content": "<p><strong>Just take 2 gummies daily—any time of day, with or without food.</strong>That’s it. No pills, no powders, no weird routines. The formula is designed for consistency, so the most important thing is making it part of your daily habit. Most women take theirs with their morning coffee or right before bed.<br/><strong>100% vegan and allergen-free. </strong>No gelatin, gluten, or soy—just clean, effective ingredients.</p>"
+          }
+        },
+        "item_PiK76N": {
+          "type": "item",
+          "settings": {
+            "title": "Can Meritage be taken with prescription medication?",
+            "content": "<p><strong>Yes—Meritage is hormone-free, antibiotic-free, and made with ingredients that are generally safe alongside most medications.</strong>That said, if you’re currently on prescription meds or managing a medical condition,<strong>it’s always best to check with your doctor before starting any supplement.</strong>We designed this to work for most women, but your health history comes first.</p>"
+          }
+        },
+        "item_jfry3g": {
+          "type": "item",
+          "settings": {
+            "title": "Are the ingredients clinically studied?",
+            "content": "<p><strong>Yes. Every ingredient in She Thrive is backed by clinical research.</strong>Our probiotic strain,<em><strong>Bacillus coagulans</strong></em><strong>SNZ 1969, is one of the most studied and proven to survive digestion and effectively support vaginal health.</strong>Vitamin C and bromelain have also been shown in studies to support pH balance, reduce odor, and improve moisture from within. We don’t guess—we use ingredients that are proven to work.</p>"
           }
         },
         "item_bYzCVH": {
@@ -848,6 +869,9 @@
         "item_FmKhth",
         "item_9w86PN",
         "item_U8BnMe",
+        "item_QCPjCF",
+        "item_PiK76N",
+        "item_jfry3g",
         "item_bYzCVH",
         "item_LhA7PL"
       ],
