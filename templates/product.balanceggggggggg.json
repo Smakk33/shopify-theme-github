@@ -491,40 +491,6 @@
         "button_text_color": ""
       }
     },
-    "media_with_text_QkLmHd": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_AdwAXF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Pi7_GIF_CMP.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Backed by Science. Proven by Women.",
-            "content": "<p>The vagina has a naturally diverse microbiome that protects against odor, discharge, and imbalance. When that environment is disrupted, things go wrong fast. Meritage is designed to reintroduce beneficial bacteria with clinically studied probiotics. This helps restore balance exactly where it matters most.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_AdwAXF"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
-      }
-    },
     "rich_text_hW3KCt": {
       "type": "rich-text",
       "blocks": {
@@ -687,6 +653,40 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_with_text_QkLmHd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AdwAXF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pi7_GIF_CMP.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Backed by Science. Proven by Women.",
+            "content": "<p>The vagina has a naturally diverse microbiome that protects against odor, discharge, and imbalance. When that environment is disrupted, things go wrong fast. Meritage is designed to reintroduce beneficial bacteria with clinically studied probiotics. This helps restore balance exactly where it matters most.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AdwAXF"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
       }
     },
     "media_with_text_8U3D37": {
@@ -1125,10 +1125,10 @@
     "media_with_text_G3VJEB",
     "related-products",
     "impact_text_EDCadt",
+    "multi_column_rKjEq4",
     "media_with_text_QkLmHd",
     "rich_text_hW3KCt",
     "impact_text_g366Wq",
-    "multi_column_rKjEq4",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
