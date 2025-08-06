@@ -424,13 +424,27 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_tddaam": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/f975855ff18f49fb9cbfcc9c6ee4ab02.HD-720p-1.6Mbps-46862099-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_TNRnB3",
         "item_wnTYiz",
         "item_cAFXa9",
-        "item_QbpJHi"
+        "item_QbpJHi",
+        "item_tddaam"
       ],
       "name": "Multi-column",
       "settings": {
