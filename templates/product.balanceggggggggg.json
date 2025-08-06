@@ -795,6 +795,88 @@
         "spacing": "none"
       }
     },
+    "rich_text_HHVddr": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_pEECVa": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_adATLX": {
+          "type": "heading",
+          "settings": {
+            "text": "Beware of Replicas",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_9dpj3M": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Copycat brands are selling untested, low-grade formulas with probiotics that don’t survive digestion—making them completely ineffective. These knockoffs are loaded with cheap fillers, artificial ingredients, and zero third-party testing. You're putting your hormones, pH, and vaginal health at risk. Meritage is the original, clinically-backed formula trusted by over 124,000 women</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pEECVa",
+        "heading_adATLX",
+        "richtext_9dpj3M"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_7dMXeQ": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_4j9FPr": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_MHEFNk": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_crDEEf": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4j9FPr",
+        "heading_MHEFNk",
+        "richtext_crDEEf"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.43.29.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_FLiQH6": {
       "type": "faq",
       "blocks": {
@@ -899,17 +981,6 @@
     },
     "1736349541b004fa39": {
       "type": "apps",
-      "blocks": {
-        "trustoo_io_reviews_review_widget_DUCD4T": {
-          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-          "settings": {
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "trustoo_io_reviews_review_widget_DUCD4T"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1021,6 +1092,8 @@
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
+    "rich_text_HHVddr",
+    "image_with_text_overlay_7dMXeQ",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
