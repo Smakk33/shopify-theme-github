@@ -593,11 +593,11 @@
         "item_9gR4xY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ASHWA1.png",
+            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_50.webp",
             "column_size": "3",
-            "title": "KSM-66®Ashwagandha",
+            "title": "Pineapple Extract",
             "heading_tag": "h4",
-            "content": "<p>Powerful adaptogen that promotes calm while also supporting mental and physical function. </p><p>SupraCalm contains <em>300mg of KSM-66 per serving</em>.</p>",
+            "content": "<p>Rich in bromelain, pineapple extract supports natural detox and has been clinically shown to improve vaginal taste and overall freshness.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -606,11 +606,11 @@
         "item_jUppCw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/VD3.png",
+            "image": "shopify://shop_images/Harmful_Bacteria_2.webp",
             "column_size": "3",
-            "title": "VITAMIN D3",
+            "title": "Probiotic Blend",
             "heading_tag": "h4",
-            "content": "<p>Known as the “sunshine vitamin”, vitamin D3 plays a crucial role in supporting a positive mood. </p><p><em>SupraCalm contains 1,000IU of vitamin D3 per serving.</em></p>",
+            "content": "<p>Our proprietary probiotic blend, including clinically studied strains like Bacillus coagulans SNZ 1969, restores good bacteria and helps maintain a balanced vaginal microbiome.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -619,24 +619,11 @@
         "item_YQeby3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/MB1.png",
+            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_53.webp",
             "column_size": "3",
-            "title": "L-THEANINE",
+            "title": "Vitamin C",
             "heading_tag": "h4",
-            "content": "<p>Supports mood, focus, and cognitive function. </p><p><em>SupraCalm contains 400mg of L-theanine per serving.</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AwmAkX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/LT1.png",
-            "column_size": "3",
-            "title": "MAGNESIUM GLYCINATE",
-            "heading_tag": "h4",
-            "content": "<p>Activates GABA receptors producing a calming effect on the brain. Supports sleep quality, mood and focus. </p><p><em>SupraCalm contains 100mg per serving.</em></p>",
+            "content": "<p>Essential for vaginal pH support, Vitamin C promotes healthy acidity and strengthens natural defenses against imbalance.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -646,8 +633,7 @@
       "block_order": [
         "item_9gR4xY",
         "item_jUppCw",
-        "item_YQeby3",
-        "item_AwmAkX"
+        "item_YQeby3"
       ],
       "name": "Multi-column",
       "settings": {
@@ -657,7 +643,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "",
-        "content": "<h1><em><strong>Real </strong></em>Ingredients, <em><strong>Real </strong></em>Results</h1>",
+        "content": "<h1><strong>So What's in It?</strong></h1>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
