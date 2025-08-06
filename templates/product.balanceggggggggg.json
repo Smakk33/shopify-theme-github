@@ -491,6 +491,178 @@
         "button_text_color": ""
       }
     },
+    "multi_column_rKjEq4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_9gR4xY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_50.webp",
+            "column_size": "3",
+            "title": "Pineapple Extract",
+            "heading_tag": "h4",
+            "content": "<p>Rich in bromelain, pineapple extract supports natural detox and has been clinically shown to improve vaginal taste and overall freshness.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jUppCw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Harmful_Bacteria_2.webp",
+            "column_size": "3",
+            "title": "Probiotic Blend",
+            "heading_tag": "h4",
+            "content": "<p>Our proprietary probiotic blend, including clinically studied strains like Bacillus coagulans SNZ 1969, restores good bacteria and helps maintain a balanced vaginal microbiome.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YQeby3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_53.webp",
+            "column_size": "3",
+            "title": "Vitamin C",
+            "heading_tag": "h4",
+            "content": "<p>Essential for vaginal pH support, Vitamin C promotes healthy acidity and strengthens natural defenses against imbalance.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_9gR4xY",
+        "item_jUppCw",
+        "item_YQeby3"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h1><strong>So What's in It?</strong></h1>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_XT7MTj": {
+      "type": "multi-column",
+      "blocks": {
+        "item_qWD7fT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.52.34.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mAh7NC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.56.58.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zHXrBf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.52.50.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YxKVNC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.52.58.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_qWD7fT",
+        "item_mAh7NC",
+        "item_zHXrBf",
+        "item_YxKVNC"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Doctor Approved‎",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_QkLmHd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AdwAXF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Pi7_GIF_CMP.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Backed by Science. Proven by Women.",
+            "content": "<p>The vagina has a naturally diverse microbiome that protects against odor, discharge, and imbalance. When that environment is disrupted, things go wrong fast. Meritage is designed to reintroduce beneficial bacteria with clinically studied probiotics. This helps restore balance exactly where it matters most.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AdwAXF"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
     "rich_text_hW3KCt": {
       "type": "rich-text",
       "blocks": {
@@ -591,102 +763,6 @@
         "text_color": "#252728",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "multi_column_rKjEq4": {
-      "type": "multi-column",
-      "blocks": {
-        "item_9gR4xY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_50.webp",
-            "column_size": "3",
-            "title": "Pineapple Extract",
-            "heading_tag": "h4",
-            "content": "<p>Rich in bromelain, pineapple extract supports natural detox and has been clinically shown to improve vaginal taste and overall freshness.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jUppCw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Harmful_Bacteria_2.webp",
-            "column_size": "3",
-            "title": "Probiotic Blend",
-            "heading_tag": "h4",
-            "content": "<p>Our proprietary probiotic blend, including clinically studied strains like Bacillus coagulans SNZ 1969, restores good bacteria and helps maintain a balanced vaginal microbiome.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YQeby3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_53.webp",
-            "column_size": "3",
-            "title": "Vitamin C",
-            "heading_tag": "h4",
-            "content": "<p>Essential for vaginal pH support, Vitamin C promotes healthy acidity and strengthens natural defenses against imbalance.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_9gR4xY",
-        "item_jUppCw",
-        "item_YQeby3"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h1><strong>So What's in It?</strong></h1>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "media_with_text_QkLmHd": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_AdwAXF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Pi7_GIF_CMP.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Backed by Science. Proven by Women.",
-            "content": "<p>The vagina has a naturally diverse microbiome that protects against odor, discharge, and imbalance. When that environment is disrupted, things go wrong fast. Meritage is designed to reintroduce beneficial bacteria with clinically studied probiotics. This helps restore balance exactly where it matters most.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_AdwAXF"
-      ],
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
       }
     },
     "media_with_text_8U3D37": {
@@ -1126,6 +1202,7 @@
     "related-products",
     "impact_text_EDCadt",
     "multi_column_rKjEq4",
+    "multi_column_XT7MTj",
     "media_with_text_QkLmHd",
     "rich_text_hW3KCt",
     "impact_text_g366Wq",
