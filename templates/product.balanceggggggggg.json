@@ -206,8 +206,8 @@
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
           "settings": {
-            "title": "What does it taste like?",
-            "content": "<p>Naturally sweetened refreshing raspberry lemonade flavor, a perfect balance between sweet and tart, but not overpowering. </p><p><em>Mix with 8oz of cold water for best taste.</em></p>",
+            "title": "Is This for You?",
+            "content": "<p>If you check any of these, She Thrive is for you:</p><ul><li><strong>Vaginal odor</strong></li><li><strong>Dryness during intimacy</strong></li><li><strong>Yeast infections</strong></li><li><strong>Recurring UTIs or flare-ups</strong></li><li><strong>Bacterial Vaginosis</strong></li><li><strong>Excess discharge</strong></li><li><strong>Irritation after intimacy</strong></li><li><strong>Discomfort after your period</strong></li><li><strong>Hormonal imbalance</strong></li></ul>",
             "page": ""
           }
         },
@@ -223,8 +223,8 @@
         "collapsible_text_MGDgmy": {
           "type": "collapsible_text",
           "settings": {
-            "title": "When can I feel the affects?",
-            "content": "<p>Some ingredients such as the L-theanine, can take effect within as little as <strong>30 minutes after consumption</strong>. </p><p>The benefits of KSM-66 Ashwagandha can build overtime as most clinical studies were performed over a 90-day period.</p>",
+            "title": "What are Probiotics?",
+            "content": "<p><strong>Probiotics are live, beneficial bacteria that help keep your body in balance</strong>—especially in areas like your gut and vaginal microbiome. When your natural bacteria levels get thrown off by things like stress, hormones, sex, or antibiotics, bad bacteria can take over. <strong>That’s when issues like odor, discharge, or discomfort can show up.</strong></p><p><strong>Probiotics help restore that balance by replenishing the good bacteria your body needs to stay healthy, fresh, and protected.</strong> The probiotic strain in She Thrive is clinically studied to survive digestion and actually reach the vaginal tract—so it can help where it matters most.</p>",
             "page": ""
           }
         },
@@ -232,7 +232,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "When & how should I drink it?",
-            "content": "<p><strong>When you need to chill out or anytime before bed. On stressful days.</strong><br/><br/>Take <strong>1 sachet per day</strong>, Monday to Friday.<br/><br/>In case of intense stress, you may take <strong>up to 2 sachets per day</strong>.<br/><br/>A <strong>weekend break</strong> is recommended to maximise long-term benefits and avoid building tolerance.</p>",
+            "content": "<p>Meritage is formulated with clinically studied ingredients—like <em><strong>Bacillus coagulans </strong></em><strong>SNZ 1969</strong>, a probiotic strain shown to survive digestion and support vaginal balance. Combined with targeted ingredients like<strong>Vitamin C </strong>and bromelain-rich <strong>pineapple extract</strong>, the formula works in sync with your body to help restore a healthy microbiome and support your natural pH. <strong>Every ingredient has a purpose—and the science to back it.</strong></p>",
             "page": ""
           }
         },
