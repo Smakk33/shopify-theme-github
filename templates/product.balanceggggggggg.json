@@ -370,27 +370,44 @@
         "lazy": true
       }
     },
-    "rich_text_4f9HDA": {
+    "rich_text_AELd8a": {
       "type": "rich-text",
       "blocks": {
-        "richtext_Yb9dRq": {
+        "subheading_RYxBai": {
+          "type": "subheading",
+          "settings": {
+            "text": "Trusted by 124,000+ Women"
+          }
+        },
+        "heading_eLCWjn": {
+          "type": "heading",
+          "settings": {
+            "text": "Smell Like a Dream. Taste Like One Too.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_gEdq9G": {
           "type": "richtext",
           "settings": {
-            "content": "<h1>Cortisol can <em><strong>Kiss </strong></em>Our <em><strong>Ashwagandha</strong></em><br/></h1>"
+            "content": "<p>Meritage works from the inside out to keep you naturally balanced, effortlessly fresh, and ready for anything (or anyone). No sprays. No wipes. No covering up. Just a body that feels as good as it tastes.</p>"
           }
         }
       },
       "block_order": [
-        "richtext_Yb9dRq"
+        "subheading_RYxBai",
+        "heading_eLCWjn",
+        "richtext_gEdq9G"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "medium",
+        "content_width": "small",
         "text_position": "center",
         "background": "",
-        "background_gradient": "linear-gradient(46deg, rgba(93, 224, 230, 1) 13%, rgba(0, 74, 173, 1) 86%)",
-        "text_color": "#ffffff"
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "media_with_text_G3VJEB": {
@@ -1197,7 +1214,7 @@
   "order": [
     "main",
     "ss_scrolling_logo_cloud_MQXVJE",
-    "rich_text_4f9HDA",
+    "rich_text_AELd8a",
     "media_with_text_G3VJEB",
     "related-products",
     "impact_text_EDCadt",
