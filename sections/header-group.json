@@ -16,6 +16,7 @@
       "blocks": {
         "message_9MUNRk": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "CORTISOL CAN KISS OUR ASHWAGANDHA",
             "url": ""
@@ -24,7 +25,7 @@
         "message_Kgeg3H": {
           "type": "message",
           "settings": {
-            "text": "SUMMER OFFER ☀ UP TO 50% OFF",
+            "text": "SUMMER OFFER ☀BUY 1 GET 1 FREE",
             "url": ""
           }
         },

@@ -239,8 +239,8 @@
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
           "settings": {
-            "title": "60-Day Money Back Guarantee",
-            "content": "<h2></h2><p>If you’re not satisfied within 60 days of delivery, <strong>you can return your order for a full refund.</strong></p>",
+            "title": "30-Day Money Back Guarantee",
+            "content": "<p>If you’re not satisfied within 30 days of delivery, <strong>you can return your order for a full refund.</strong></p>",
             "page": ""
           }
         }
