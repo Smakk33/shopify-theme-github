@@ -655,15 +655,15 @@
         "image_7xiBzQ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GIF3.gif",
+            "image": "shopify://shop_images/GIF_2_73bae58e-dc35-4c6b-b9c7-59b84fb86b6e.webp",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Takes Less Than 2 Minutes",
-            "content": "<p>Now available in <em><strong>easy on-the-go packets</strong></em> for daily balance, <em><strong>wherever you are.</strong></em></p>",
+            "title": "Stay fresh and balanced all day!",
+            "content": "<p>Learn how to maintain optimal feminine health with simple, daily habits that keep you feeling fresh and confident.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
