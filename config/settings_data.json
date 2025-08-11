@@ -21,8 +21,8 @@
     "text_color": "#252728",
     "header_background": "#ffffff",
     "header_text_color": "#1a1a1a",
-    "footer_background": "#ef5093",
-    "footer_text_color": "#ffffff",
+    "footer_background": "#fedb37",
+    "footer_text_color": "#252728",
     "primary_button_background": "#29d2fa",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#f0c417",
@@ -99,16 +99,6 @@
       },
       "5134484470793087125": {
         "type": "shopify://apps/vitals/blocks/app-embed/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-        "disabled": false,
-        "settings": {}
-      },
-      "3991723993231535834": {
-        "type": "shopify://apps/trackbee-connect/blocks/trackbee/4ee1d514-671e-48bf-bd4e-9373f4af089a",
-        "disabled": false,
-        "settings": {}
-      },
-      "6146500278089136509": {
-        "type": "shopify://apps/bm-country-blocker-ip-blocker/blocks/boostmark-blocker/bf9db4b9-be4b-45e1-8127-bbcc07d93e7e",
         "disabled": false,
         "settings": {}
       }
