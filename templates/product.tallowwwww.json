@@ -617,11 +617,11 @@
         "item_9gR4xY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_50.webp",
+            "image": "shopify://shop_images/formula1.webp",
             "column_size": "3",
-            "title": "Pineapple Extract",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Rich in bromelain, pineapple extract supports natural detox and has been clinically shown to improve vaginal taste and overall freshness.</p>",
+            "content": "<h3>Manuka Honey Therapy</h3><p>Naturally anti-inflammatory to help heal blemishes and calm irritation.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -630,11 +630,11 @@
         "item_jUppCw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Harmful_Bacteria_2.webp",
+            "image": "shopify://shop_images/formula2.webp",
             "column_size": "3",
-            "title": "Probiotic Blend",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Our proprietary probiotic blend, including clinically studied strains like Bacillus coagulans SNZ 1969, restores good bacteria and helps maintain a balanced vaginal microbiome.</p>",
+            "content": "<h3>Grass-Fed Grass-Finished Tallow Nutrition</h3><p>Delivers deep moisture and essential vitamins for strong, supple skin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -643,11 +643,24 @@
         "item_YQeby3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Copy_of_Copy_of_Save_More_53.webp",
+            "image": "shopify://shop_images/formula3.webp",
             "column_size": "3",
-            "title": "Vitamin C",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Essential for vaginal pH support, Vitamin C promotes healthy acidity and strengthens natural defenses against imbalance.</p>",
+            "content": "<h3>Olive Oil Absorption Boost</h3><p>Cold-pressed olive oil helps your skin drink in nutrients without clogging pores.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_CV4FYW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/formula4.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h3>Calendula Comfort</h3><p>Pot marigold extract helps reduce redness and supports skin recovery.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -657,7 +670,8 @@
       "block_order": [
         "item_9gR4xY",
         "item_jUppCw",
-        "item_YQeby3"
+        "item_YQeby3",
+        "item_CV4FYW"
       ],
       "name": "Multi-column",
       "settings": {
@@ -666,8 +680,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
-        "content": "<h1><strong>So What's in It?</strong></h1>",
+        "title": "SKINCARE THAT HITS DIFFERENT",
+        "content": "<p>powered by nature's heavy-hitters. No fluff, no fillers — just real ingredients that heal, hydrate, and hold the line.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
