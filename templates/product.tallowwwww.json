@@ -1047,29 +1047,22 @@
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "What’s new in the updated formula?",
-            "content": "<p>We’ve refined our formula to deliver even better results—without changing what made Meritage so effective in the first place.</p><p><strong>Enhanced probiotic blend.</strong> We’ve kept Bacillus coagulans SNZ 1969 and added additional strains for broader vaginal and microbiome support.<br/><br/><strong>Improved nutrient delivery. </strong>The updated gummy base improves ingredient stability and absorption—so your body actually gets the full benefit of every dose.<br/><br/><strong>100% vegan and allergen-free. </strong>No gelatin, gluten, or soy—just clean, effective ingredients.</p>"
+            "title": "How do I apply the tallow balm?",
+            "content": "<p>For best results, take a small amount (about the size of a pea for facial application) and warm it between your fingertips. The balm will melt slightly with your body heat, making it easier to apply. Gently massage into clean skin using upward, circular motions until fully absorbed. A little goes a long way!</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
           "settings": {
-            "title": "How do I take Meritage?",
-            "content": "<p><strong>Just take 2 gummies daily—any time of day, with or without food.</strong>That’s it. No pills, no powders, no weird routines. The formula is designed for consistency, so the most important thing is making it part of your daily habit. Most women take theirs with their morning coffee or right before bed.<br/><strong>100% vegan and allergen-free. </strong>No gelatin, gluten, or soy—just clean, effective ingredients.</p>"
+            "title": "How often should I use the product?",
+            "content": "<p>For optimal results, we recommend using our tallow balm 1-2 times daily on clean skin. Many customers incorporate it into both morning and evening skincare routines. Those with very dry skin may benefit from more frequent application, while those with oilier skin might prefer using it just once daily, typically in the evening.</p>"
           }
         },
         "item_PiK76N": {
           "type": "item",
           "settings": {
-            "title": "Can Meritage be taken with prescription medication?",
-            "content": "<p><strong>Yes—Meritage is hormone-free, antibiotic-free, and made with ingredients that are generally safe alongside most medications.</strong>That said, if you’re currently on prescription meds or managing a medical condition, <strong>it’s always best to check with your doctor before starting any supplement.</strong>We designed this to work for most women, but your health history comes first.</p>"
-          }
-        },
-        "item_jfry3g": {
-          "type": "item",
-          "settings": {
-            "title": "Are the ingredients clinically studied?",
-            "content": "<p><strong>Yes. Every ingredient in Meritage is backed by clinical research.</strong>Our probiotic strain, <em><strong>Bacillus coagulans</strong></em><strong>SNZ 1969, is one of the most studied and proven to survive digestion and effectively support vaginal health.</strong>Vitamin C and bromelain have also been shown in studies to support pH balance, reduce odor, and improve moisture from within. We don’t guess—we use ingredients that are proven to work.</p>"
+            "title": "Can I use your tallow balm on my face?",
+            "content": "<p>Absolutely! Our tallow balm is excellent for facial use. Its natural composition is similar to human skin cells, making it ideal for facial application. It's deeply moisturizing without clogging pores and can help balance oil production, reduce fine lines, and soothe irritation.</p>"
           }
         },
         "item_bYzCVH": {
@@ -1096,7 +1089,6 @@
         "item_U8BnMe",
         "item_QCPjCF",
         "item_PiK76N",
-        "item_jfry3g",
         "item_bYzCVH",
         "item_LhA7PL"
       ],
