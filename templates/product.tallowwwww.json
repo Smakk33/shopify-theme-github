@@ -700,8 +700,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "",
-            "content": "",
+            "title": "WHY SWITCH TO EVIL GOODS?",
+            "content": "<p>Whipped smooth and fast-absorbing — because you shouldn't have to choose between clean and satisfying.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -720,6 +720,68 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
+      }
+    },
+    "multi_column_zbg8WV": {
+      "type": "multi-column",
+      "blocks": {
+        "item_XpE8HT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Leaf_7bab2c2b-3a2d-417f-b87e-3b3358597a50.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>REAL INGREDIENTS, REAL RESULTS</strong></p><p>Grass-fed grass-finished tallow, manuka honey, cold-pressed olive oil, organic vitamin E. That's it. No junk. No gimmicks.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MVCA3Q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Star_fcfa14e0-cfe7-4410-8b39-c23592025939.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>ZERO TOXINS, ZERO BULLSH*T</strong></p><p>No parabens. No phthalates. No seed oils. No synthetic fragrance. Just skin-loving, body-safe nutrition.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_paVamp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Check.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<p><strong>FEELS LIKE LUXURY. WORKS LIKE MEDICINE.</strong></p><p>Whipped smooth and fast-absorbing — because you shouldn’t have to choose between clean and effective.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_XpE8HT",
+        "item_MVCA3Q",
+        "item_paVamp"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_XT7MTj": {
@@ -1312,6 +1374,7 @@
     "impact_text_g366Wq",
     "multi_column_rKjEq4",
     "media_with_text_MPCXi7",
+    "multi_column_zbg8WV",
     "multi_column_XT7MTj",
     "media_with_text_QkLmHd",
     "rich_text_hW3KCt",
