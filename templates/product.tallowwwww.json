@@ -784,6 +784,90 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_7dMXeQ": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_4j9FPr": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_MHEFNk": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_crDEEf": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4j9FPr",
+        "heading_MHEFNk",
+        "richtext_crDEEf"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.34.34.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_KXDGxc": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_tCNqgC": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_bDVQ7R": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_c34JV9": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_tCNqgC",
+        "heading_bDVQ7R",
+        "richtext_c34JV9"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.45.00.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_XT7MTj": {
       "type": "multi-column",
       "blocks": {
@@ -1120,48 +1204,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_7dMXeQ": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_4j9FPr": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_MHEFNk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_crDEEf": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_4j9FPr",
-        "heading_MHEFNk",
-        "richtext_crDEEf"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_04.43.29.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "faq_FLiQH6": {
       "type": "faq",
       "blocks": {
@@ -1375,6 +1417,8 @@
     "multi_column_rKjEq4",
     "media_with_text_MPCXi7",
     "multi_column_zbg8WV",
+    "image_with_text_overlay_7dMXeQ",
+    "image_with_text_overlay_KXDGxc",
     "multi_column_XT7MTj",
     "media_with_text_QkLmHd",
     "rich_text_hW3KCt",
@@ -1383,7 +1427,6 @@
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
     "rich_text_HHVddr",
-    "image_with_text_overlay_7dMXeQ",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
