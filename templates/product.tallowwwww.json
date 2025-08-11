@@ -980,41 +980,147 @@
         "spacing": "none"
       }
     },
-    "rich_text_HHVddr": {
-      "type": "rich-text",
+    "multi_column_nGM76q": {
+      "type": "multi-column",
       "blocks": {
-        "subheading_pEECVa": {
-          "type": "subheading",
+        "item_PazKKx": {
+          "type": "item",
           "settings": {
-            "text": ""
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.55.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "heading_adATLX": {
-          "type": "heading",
+        "item_n4T4JM": {
+          "type": "item",
           "settings": {
-            "text": "Beware of Replicas",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.29.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "richtext_9dpj3M": {
-          "type": "richtext",
+        "item_8cQD4n": {
+          "type": "item",
           "settings": {
-            "content": "<p>Copycat brands are selling untested, low-grade formulas with probiotics that don’t survive digestion—making them completely ineffective. These knockoffs are loaded with cheap fillers, artificial ingredients, and zero third-party testing. You're putting your hormones, pH, and vaginal health at risk. Meritage is the original, clinically-backed formula trusted by over 124,000 women</p>"
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.07.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cDDT7Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.57.01.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_epVtm9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.35.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yy9Xfp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.13.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_F6Jq3G": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.57.07.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9WXpE8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.41.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aAXhYW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.19.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "subheading_pEECVa",
-        "heading_adATLX",
-        "richtext_9dpj3M"
+        "item_PazKKx",
+        "item_n4T4JM",
+        "item_8cQD4n",
+        "item_cDDT7Y",
+        "item_epVtm9",
+        "item_yy9Xfp",
+        "item_F6Jq3G",
+        "item_9WXpE8",
+        "item_aAXhYW"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1231,7 +1337,7 @@
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
-    "rich_text_HHVddr",
+    "multi_column_nGM76q",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
