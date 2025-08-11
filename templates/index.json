@@ -754,6 +754,63 @@
         "lazy": true
       }
     },
+    "featured_product_xn7cdn": {
+      "type": "featured-product",
+      "blocks": {
+        "title_KEETJR": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "separator_dCaUKe": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_dzzjKQ": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "button_briEaz": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://products/youthful-glow-tallow-balm-pure-non-synthetic",
+            "text": "Add to cart",
+            "size": "lg",
+            "style": "fill",
+            "stretch": true,
+            "background": "#fedb37",
+            "text_color": "#252728"
+          }
+        }
+      },
+      "block_order": [
+        "title_KEETJR",
+        "separator_dCaUKe",
+        "description_dzzjKQ",
+        "button_briEaz"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "youthful-glow-tallow-balm-pure-non-synthetic",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "rich_text_YpGD3R": {
       "type": "rich-text",
       "blocks": {
@@ -978,6 +1035,7 @@
     "ss_testi_6_YnEtPF",
     "custom_html_q6KahD",
     "ss_scrolling_logo_cloud_BHjtcq",
+    "featured_product_xn7cdn",
     "rich_text_YpGD3R",
     "featured-collection",
     "featured_collection_UQti4Q",
