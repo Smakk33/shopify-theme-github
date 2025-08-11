@@ -291,75 +291,6 @@
         "input_text_color": ""
       }
     },
-    "ss_scrolling_logo_cloud_MQXVJE": {
-      "type": "ss-scrolling-logo-cloud",
-      "blocks": {
-        "slide_TnDpDU": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/3_afc85d70-2339-4423-a2e9-40d260255894.webp",
-            "link": ""
-          }
-        },
-        "slide_NMENTr": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/2_e5e4eb2a-c559-4250-b874-823e2651f728.webp",
-            "link": ""
-          }
-        },
-        "slide_KjKbgq": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/1_6ebb1c83-ae09-48e4-88d0-ecf8ab598592.webp",
-            "link": ""
-          }
-        },
-        "slide_Kczaqx": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/4_5d620d52-0582-49ba-bf69-24ce8a67dc41.webp",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_TnDpDU",
-        "slide_NMENTr",
-        "slide_KjKbgq",
-        "slide_Kczaqx"
-      ],
-      "name": "SS - Scrolling Logo Cloud",
-      "settings": {
-        "ss-title": "",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
-        "header_size": 30,
-        "header_align": "center",
-        "scrolling_velocity": 15,
-        "pause_hover": false,
-        "shadow": false,
-        "sliders_mt": 16,
-        "logo_padding_top": 0,
-        "logo_padding_bottom": 0,
-        "slider_gap": 30,
-        "slider_gap_mobile": 30,
-        "slider_direction": "left",
-        "icon_width": 200,
-        "header_color": "#121212",
-        "border_color": "#ffffff",
-        "background-color": "#ffffff",
-        "slider-background-color": "#ffffff",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "multi_column_Vpdyjn": {
       "type": "multi-column",
       "blocks": {
@@ -442,9 +373,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "Trusted by 124,000+ Women",
-        "title": "Smell Like a Dream. Taste Like One Too.",
-        "content": "<p>Meritage works from the inside out to keep you naturally balanced, effortlessly fresh, and ready for anything (or anyone). No sprays. No wipes. No covering up. Just a body that feels as good as it tastes.</p>",
+        "subheading": "350,000 + Happy Customers",
+        "title": "",
+        "content": "<h1>REAL USERS.<br/>REAL SKIN WINS.</h1>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1344,7 +1275,6 @@
   },
   "order": [
     "main",
-    "ss_scrolling_logo_cloud_MQXVJE",
     "multi_column_Vpdyjn",
     "multi_column_NhcPNd",
     "media_with_text_G3VJEB",
