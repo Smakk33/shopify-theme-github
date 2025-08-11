@@ -332,40 +332,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_QbpJHi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/37b9dea3075f4ba584634a20190d5539.HD-720p-4.5Mbps-43096082-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tddaam": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/f975855ff18f49fb9cbfcc9c6ee4ab02.HD-720p-1.6Mbps-46862099-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_TNRnB3",
         "item_wnTYiz",
-        "item_cAFXa9",
-        "item_QbpJHi",
-        "item_tddaam"
+        "item_cAFXa9"
       ],
       "name": "Multi-column",
       "settings": {
@@ -381,119 +353,42 @@
         "text_color": ""
       }
     },
-    "multi_column_NhcPNd": {
-      "type": "multi-column",
+    "rich_text_T836JW": {
+      "type": "rich-text",
       "blocks": {
-        "item_7K6R8V": {
-          "type": "item",
+        "subheading_9CNiWj": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.25.43.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Your body's favorite 30-second ritual"
           }
         },
-        "item_gMt8F4": {
-          "type": "item",
+        "heading_qHKqwn": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.25.56.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Here’s What Happens to Your Skin Once You Start Using Our Tallow Balm",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item_96bDzW": {
-          "type": "item",
+        "richtext_EtXB8w": {
+          "type": "richtext",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.26.16.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_caXRHX": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.26.29.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8HfqiJ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.26.43.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tgXa9r": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.26.54.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_DRh7eV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-06_a_05.27.08.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<h1>Here’s What Happens to Your Skin Once You Start Using Our Tallow Balm</h1>"
           }
         }
       },
       "block_order": [
-        "item_7K6R8V",
-        "item_gMt8F4",
-        "item_96bDzW",
-        "item_caXRHX",
-        "item_8HfqiJ",
-        "item_tgXa9r",
-        "item_DRh7eV"
+        "subheading_9CNiWj",
+        "heading_qHKqwn",
+        "richtext_EtXB8w"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -501,6 +396,7 @@
     },
     "media_with_text_G3VJEB": {
       "type": "media-with-text",
+      "disabled": true,
       "custom_css": [
         ":host,section,div[class*=\"section\"] {padding-top: 0 !important; padding-bottom: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important;}"
       ],
@@ -568,6 +464,64 @@
         "text_color": "#41326a",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "timeline_6rbxfm": {
+      "type": "timeline",
+      "blocks": {
+        "slide_kxwLdq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_153.webp",
+            "navigation_label": "WEEK 1",
+            "subheading": "WEEK 1",
+            "title": "Deep Hydration & Calming Irritation",
+            "content": "<p>Your skin will feel more nourished as the natural fats in beef tallow start to restore moisture. Dryness, irritation, and redness begin to subside, especially if your skin has been exposed to harsh skincare products.</p>"
+          }
+        },
+        "slide_9eJgzL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_153_1.webp",
+            "navigation_label": "WEEK 2",
+            "subheading": "WEEK 2",
+            "title": "Strengthened Skin Barrier & Balanced Oil Production",
+            "content": "<p>Your skin barrier becomes stronger, helping to lock in moisture for longer periods. Dry patches become less noticeable, and oily areas start to balance out as your skin adjusts to real nourishment.</p>"
+          }
+        },
+        "slide_XUCTWz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_153_2.webp",
+            "navigation_label": "WEEK 3",
+            "subheading": "WEEK 3",
+            "title": "Smoother Texture & Reduced Redness",
+            "content": "<p>Fine lines, wrinkles and rough patches start to soften as your skin absorbs essential vitamins A, D, E, and K. Redness and irritation diminish, making your skin tone appear more even and healthier.</p>"
+          }
+        },
+        "slide_q3CBpM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_153_3.webp",
+            "navigation_label": "WEEK 4",
+            "subheading": "WEEK 4",
+            "title": "Resilient, Naturally Hydrated Skin",
+            "content": "<p>Your skin looks and feels stronger and younger, with long-lasting moisture retention. It becomes more supple, smooth, and naturally radiant, without the need for synthetic creams or harsh treatments.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_kxwLdq",
+        "slide_9eJgzL",
+        "slide_XUCTWz",
+        "slide_q3CBpM"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_rKjEq4": {
@@ -1276,10 +1230,11 @@
   "order": [
     "main",
     "multi_column_Vpdyjn",
-    "multi_column_NhcPNd",
+    "rich_text_T836JW",
     "media_with_text_G3VJEB",
     "related-products",
     "impact_text_EDCadt",
+    "timeline_6rbxfm",
     "multi_column_rKjEq4",
     "multi_column_XT7MTj",
     "media_with_text_QkLmHd",
