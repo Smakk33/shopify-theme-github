@@ -549,6 +549,68 @@
         "spacing": "none"
       }
     },
+    "impact_text_g366Wq": {
+      "type": "impact-text",
+      "blocks": {
+        "item_rAbTQT": {
+          "type": "item",
+          "settings": {
+            "title": "78%",
+            "subheading": "",
+            "content": "<p><strong>HORMONE-DISRUPTING FRAGRANCES</strong></p><p>78% of drugstore lotions contain fragrance blends that trigger inflammation, breakouts, and endocrine issues.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_YVd7Ag": {
+          "type": "item",
+          "settings": {
+            "title": "85%",
+            "subheading": "",
+            "content": "<p><strong>TESTOSTERONE-LOWERING CHEMICALS</strong></p><p>85% of standard body lotions contain ingredients scientifically linked to hormone suppression and fertility problems.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_dgzit9": {
+          "type": "item",
+          "settings": {
+            "title": "87%",
+            "subheading": "",
+            "content": "<p><strong>PORE-CLOGGING PETROLEUM</strong></p><p>87% of drugstore moisturizers use petroleum byproducts that create a plastic-like barrier, trapping dirt and preventing skin from breathing naturally.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_rAbTQT",
+        "item_YVd7Ag",
+        "item_dgzit9"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "#252728",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multi_column_rKjEq4": {
       "type": "multi-column",
       "blocks": {
@@ -759,68 +821,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "impact_text_g366Wq": {
-      "type": "impact-text",
-      "blocks": {
-        "item_rAbTQT": {
-          "type": "item",
-          "settings": {
-            "title": "95%",
-            "subheading": "",
-            "content": "<h4><em>noticed improved scent and freshness</em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_YVd7Ag": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "",
-            "content": "<h4><em>felt more confident in intimate situations</em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_dgzit9": {
-          "type": "item",
-          "settings": {
-            "title": "88%",
-            "subheading": "",
-            "content": "<h4><em>experienced less discharge and discomfort</em></h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_rAbTQT",
-        "item_YVd7Ag",
-        "item_dgzit9"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "#252728",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "media_with_text_8U3D37": {
@@ -1260,11 +1260,11 @@
     "impact_text_EDCadt",
     "timeline_6rbxfm",
     "media_with_text_G3VJEB",
+    "impact_text_g366Wq",
     "multi_column_rKjEq4",
     "multi_column_XT7MTj",
     "media_with_text_QkLmHd",
     "rich_text_hW3KCt",
-    "impact_text_g366Wq",
     "media_with_text_8U3D37",
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
