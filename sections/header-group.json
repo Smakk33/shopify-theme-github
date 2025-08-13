@@ -16,14 +16,14 @@
       "blocks": {
         "message_9MUNRk": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "CORTISOL CAN KISS OUR ASHWAGANDHA",
+            "text": "Buy 1, Get 1 FREE – Only while last stocks remain",
             "url": ""
           }
         },
         "message_Kgeg3H": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "SUMMER OFFER ☀BUY 1 GET 1 FREE",
             "url": ""
