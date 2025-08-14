@@ -429,47 +429,6 @@
         "text_color": ""
       }
     },
-    "rich_text_T836JW": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_9CNiWj": {
-          "type": "subheading",
-          "settings": {
-            "text": "Your body's favorite 30-second ritual"
-          }
-        },
-        "heading_qHKqwn": {
-          "type": "heading",
-          "settings": {
-            "text": "Here’s What Happens to Your Skin Once You Start Using Our Tallow Balm",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_EtXB8w": {
-          "type": "richtext",
-          "disabled": true,
-          "settings": {
-            "content": "<h1>Here’s What Happens to Your Skin Once You Start Using Our Tallow Balm</h1>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_9CNiWj",
-        "heading_qHKqwn",
-        "richtext_EtXB8w"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -530,64 +489,6 @@
         "button_text_color": ""
       }
     },
-    "timeline_6rbxfm": {
-      "type": "timeline",
-      "blocks": {
-        "slide_kxwLdq": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_153.webp",
-            "navigation_label": "WEEK 1",
-            "subheading": "WEEK 1",
-            "title": "Deep Hydration & Calming Irritation",
-            "content": "<p>Your skin will feel more nourished as the natural fats in beef tallow start to restore moisture. Dryness, irritation, and redness begin to subside, especially if your skin has been exposed to harsh skincare products.</p>"
-          }
-        },
-        "slide_9eJgzL": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_153_1.webp",
-            "navigation_label": "WEEK 2",
-            "subheading": "WEEK 2",
-            "title": "Strengthened Skin Barrier & Balanced Oil Production",
-            "content": "<p>Your skin barrier becomes stronger, helping to lock in moisture for longer periods. Dry patches become less noticeable, and oily areas start to balance out as your skin adjusts to real nourishment.</p>"
-          }
-        },
-        "slide_XUCTWz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_153_2.webp",
-            "navigation_label": "WEEK 3",
-            "subheading": "WEEK 3",
-            "title": "Smoother Texture & Reduced Redness",
-            "content": "<p>Fine lines, wrinkles and rough patches start to soften as your skin absorbs essential vitamins A, D, E, and K. Redness and irritation diminish, making your skin tone appear more even and healthier.</p>"
-          }
-        },
-        "slide_q3CBpM": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_153_3.webp",
-            "navigation_label": "WEEK 4",
-            "subheading": "WEEK 4",
-            "title": "Resilient, Naturally Hydrated Skin",
-            "content": "<p>Your skin looks and feels stronger and younger, with long-lasting moisture retention. It becomes more supple, smooth, and naturally radiant, without the need for synthetic creams or harsh treatments.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_kxwLdq",
-        "slide_9eJgzL",
-        "slide_XUCTWz",
-        "slide_q3CBpM"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_with_text_G3VJEB": {
       "type": "media-with-text",
       "blocks": {
@@ -612,10 +513,33 @@
             "button_background": "",
             "button_text_color": ""
           }
+        },
+        "image_HnAGFm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Image_v2.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "THE SKINCARE INDUSTRYIS LYING TO YOU",
+            "content": "<p>Normal moisturizers and skin care products are loaded with toxic chemicals that don't just sit on your skin — they penetrate your bloodstream and disrupt your body from within.<strong>These aren't just ineffective — they're actively harmful.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_bqmYgy"
+        "image_bqmYgy",
+        "image_HnAGFm"
       ],
       "custom_css": [
         ":host,section,div[class*=\"section\"] {padding-top: 0 !important; padding-bottom: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important;}"
@@ -624,144 +548,6 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
-      }
-    },
-    "impact_text_g366Wq": {
-      "type": "impact-text",
-      "blocks": {
-        "item_rAbTQT": {
-          "type": "item",
-          "settings": {
-            "title": "78%",
-            "subheading": "",
-            "content": "<p><strong>HORMONE-DISRUPTING FRAGRANCES</strong></p><p>78% of drugstore lotions contain fragrance blends that trigger inflammation, breakouts, and endocrine issues.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_YVd7Ag": {
-          "type": "item",
-          "settings": {
-            "title": "85%",
-            "subheading": "",
-            "content": "<p><strong>TESTOSTERONE-LOWERING CHEMICALS</strong></p><p>85% of standard body lotions contain ingredients scientifically linked to hormone suppression and fertility problems.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_dgzit9": {
-          "type": "item",
-          "settings": {
-            "title": "87%",
-            "subheading": "",
-            "content": "<p><strong>PORE-CLOGGING PETROLEUM</strong></p><p>87% of drugstore moisturizers use petroleum byproducts that create a plastic-like barrier, trapping dirt and preventing skin from breathing naturally.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_rAbTQT",
-        "item_YVd7Ag",
-        "item_dgzit9"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "#252728",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "multi_column_rKjEq4": {
-      "type": "multi-column",
-      "blocks": {
-        "item_9gR4xY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/43_c61879ae-562b-4e3f-be28-08f7ae042071.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h3>Manuka Honey Therapy</h3><p>Naturally anti-inflammatory to help heal blemishes and calm irritation.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_jUppCw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/44.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h3>Grass-Fed Grass-Finished Tallow Nutrition</h3><p>Delivers deep moisture and essential vitamins for strong, supple skin.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YQeby3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/45.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h3>Olive Oil Absorption Boost</h3><p>Cold-pressed olive oil helps your skin drink in nutrients without clogging pores.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_CV4FYW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/42_eef7ebe6-0149-43c6-ada5-f57f0548c52a.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h3>Calendula Comfort</h3><p>Pot marigold extract helps reduce redness and supports skin recovery.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_9gR4xY",
-        "item_jUppCw",
-        "item_YQeby3",
-        "item_CV4FYW"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "SKINCARE THAT HITS DIFFERENT",
-        "content": "<p>powered by nature's heavy-hitters. No fluff, no fillers — just real ingredients that heal, hydrate, and hold the line.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "media_with_text_MPCXi7": {
@@ -797,152 +583,6 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
-      }
-    },
-    "multi_column_zbg8WV": {
-      "type": "multi-column",
-      "blocks": {
-        "item_XpE8HT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Leaf_7bab2c2b-3a2d-417f-b87e-3b3358597a50.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>REAL INGREDIENTS, REAL RESULTS</strong></p><p>Grass-fed grass-finished tallow, manuka honey, cold-pressed olive oil, organic vitamin E. That's it. No junk. No gimmicks.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_MVCA3Q": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Star_fcfa14e0-cfe7-4410-8b39-c23592025939.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>ZERO TOXINS, ZERO BULLSH*T</strong></p><p>No parabens. No phthalates. No seed oils. No synthetic fragrance. Just skin-loving, body-safe nutrition.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_paVamp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Check.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<p><strong>FEELS LIKE LUXURY. WORKS LIKE MEDICINE.</strong></p><p>Whipped smooth and fast-absorbing — because you shouldn’t have to choose between clean and effective.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_XpE8HT",
-        "item_MVCA3Q",
-        "item_paVamp"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_7dMXeQ": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_4j9FPr": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_MHEFNk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_crDEEf": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_4j9FPr",
-        "heading_MHEFNk",
-        "richtext_crDEEf"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.34.34.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_KXDGxc": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_tCNqgC": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_bDVQ7R": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_c34JV9": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_tCNqgC",
-        "heading_bDVQ7R",
-        "richtext_c34JV9"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.45.00.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multi_column_JXHeYb": {
@@ -1055,152 +695,6 @@
       "settings": {
         "full_width": true,
         "spacing": "none"
-      }
-    },
-    "multi_column_nGM76q": {
-      "type": "multi-column",
-      "blocks": {
-        "item_PazKKx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.55.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_n4T4JM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.29.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8cQD4n": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.07.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cDDT7Y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.57.01.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_epVtm9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.35.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yy9Xfp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.13.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_F6Jq3G": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.57.07.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_9WXpE8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.41.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_aAXhYW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-08-11_a_14.56.19.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_PazKKx",
-        "item_n4T4JM",
-        "item_8cQD4n",
-        "item_cDDT7Y",
-        "item_epVtm9",
-        "item_yy9Xfp",
-        "item_F6Jq3G",
-        "item_9WXpE8",
-        "item_aAXhYW"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq_FLiQH6": {
@@ -1401,21 +895,13 @@
     "main",
     "ss_scrolling_logo_cloud_WkcyPQ",
     "multi_column_Vpdyjn",
-    "rich_text_T836JW",
     "related-products",
     "impact_text_EDCadt",
-    "timeline_6rbxfm",
     "media_with_text_G3VJEB",
-    "impact_text_g366Wq",
-    "multi_column_rKjEq4",
     "media_with_text_MPCXi7",
-    "multi_column_zbg8WV",
-    "image_with_text_overlay_7dMXeQ",
-    "image_with_text_overlay_KXDGxc",
     "multi_column_JXHeYb",
     "custom_liquid_y4VrX6",
     "media_with_text_yt99ww",
-    "multi_column_nGM76q",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
