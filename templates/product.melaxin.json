@@ -373,7 +373,7 @@
         "item_TNRnB3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/39_ed2cb78d-2d8b-45df-87fe-f8fc60cb9c26.webp",
+            "image": "shopify://shop_images/a9acbdf8e5f744f994742fa1211361ac.HD-720p-1.6Mbps-51060051-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -386,7 +386,7 @@
         "item_wnTYiz": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/40_69203d61-4159-4899-9441-618c9d9a54d0.webp",
+            "image": "shopify://shop_images/613db616ed5b42838ec543518353e412.HD-720p-1.6Mbps-51060053-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -399,7 +399,33 @@
         "item_cAFXa9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/41_c50def5e-aa21-45a2-8395-cf328d6906e0.webp",
+            "image": "shopify://shop_images/7fbc1080fdb64317ac2d4effcdce6025.HD-720p-1.6Mbps-51060050-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XznXya": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/256f9a55272b4025a3f5b0a2f6891482.HD-720p-1.6Mbps-51060052-ezgif.com-video-to-webp-converter.webp",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YtD6cy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ad5aa304ba5a485c856381cf185f0892.HD-720p-1.6Mbps-51060049-ezgif.com-video-to-webp-converter.webp",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -413,7 +439,9 @@
       "block_order": [
         "item_TNRnB3",
         "item_wnTYiz",
-        "item_cAFXa9"
+        "item_cAFXa9",
+        "item_XznXya",
+        "item_YtD6cy"
       ],
       "name": "Multi-column",
       "settings": {
