@@ -204,8 +204,8 @@
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Our All-Natural Ingredients",
-            "content": "<ul><li><strong>Manuka Honey</strong><br/>Fights irritation and speeds up healing.</li><li><strong>Delays visible aging.</strong><br/>Grass-Fed Grass-Finished Tallow<br/>Mimics your skin’s natural oils for deep, lasting moisture.</li><li><strong>Cold-Pressed Olive Oil</strong><br/>Helps nutrients absorb fast—without clogging pores.</li><li><strong>Organic Vitamin E</strong><br/>Protects your skin barrier, soothes inflammation.</li><li><strong>Pot Marigold Extract</strong><br/>Reduces redness. Calms inflamed and sensitive skin.<br/></li></ul><p><strong>What Makes Us Different</strong><br/><em>We use </em><em><strong>grass-fed, grass-finished tallow</strong></em><em> from ethical U.S. farms—no seed oils, no fillers, just real nourishment your skin can actually recognize.</em></p>",
+            "title": "Product Details",
+            "content": "<p>Radiant Rice Exfoliating Serum™ rejuvenates your skin with a blend of AHA, BHA, and PHA for gentle exfoliation. Infused with rice bran water and Niacinamide, this serum deeply hydrates while refining skin texture and reducing pores. Say goodbye to blackheads and dullness with a formula suitable for all skin types!</p>",
             "page": ""
           }
         },
@@ -221,16 +221,16 @@
         "collapsible_text_TMJMhq": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Recommended Usage",
-            "content": "<p>Scoop it, spread it, or spoon it straight from the jar (we won't judge).<br/><br/>Use daily for best results. One tablespoon in the morning is our favorite ritual—on toast, in smoothies, or by the spoonful.</p>",
+            "title": "Shipping & Delivery",
+            "content": "<p>We provide fast and reliable shipping! Once you place your order, it will be processed within 1-2 business days. Enjoy free shipping on orders over a certain amount and expect your Radiant Rice Exfoliating Serum to arrive within 4-9 business days.</p>",
             "page": ""
           }
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Happy Skin or Your Money Back",
-            "content": "<p>We use this balm every day ourselves — because it works. And we stand by it 100%. If your skin doesn’t look or feel better in 30 days, we’ll refund you.</p>",
+            "title": "Return & Refund Policy",
+            "content": "<p>Your satisfaction is our priority! If you’re not completely satisfied with your purchase, we offer hassle-free returns within 30 days of receipt. Simply contact our customer service team to initiate your return and we'll make it right.</p>",
             "page": ""
           }
         }
