@@ -290,6 +290,83 @@
         "input_text_color": ""
       }
     },
+    "ss_scrolling_logo_cloud_WkcyPQ": {
+      "type": "ss-scrolling-logo-cloud",
+      "blocks": {
+        "slide_URyNqF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-07-11_124542757.webp",
+            "link": ""
+          }
+        },
+        "slide_bY3hYe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-07-11_124603425.webp",
+            "link": ""
+          }
+        },
+        "slide_ewFmLV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-07-11_124635263.webp",
+            "link": ""
+          }
+        },
+        "slide_4t8aUM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-07-11_124534413.webp",
+            "link": ""
+          }
+        },
+        "slide_4qGEme": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-07-11_124612860.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_URyNqF",
+        "slide_bY3hYe",
+        "slide_ewFmLV",
+        "slide_4t8aUM",
+        "slide_4qGEme"
+      ],
+      "name": "SS - Scrolling Logo Cloud",
+      "settings": {
+        "ss-title": "As seen on",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 20,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "multi_column_Vpdyjn": {
       "type": "multi-column",
       "blocks": {
@@ -344,9 +421,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "350,000 + Happy Customers",
+        "subheading": "",
         "title": "",
-        "content": "<h1>REAL USERS.<br/>REAL SKIN WINS.</h1>",
+        "content": "<h2>Loved By +14,000 Customers ❤️</h2>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1322,6 +1399,7 @@
   },
   "order": [
     "main",
+    "ss_scrolling_logo_cloud_WkcyPQ",
     "multi_column_Vpdyjn",
     "rich_text_T836JW",
     "related-products",
