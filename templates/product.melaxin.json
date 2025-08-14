@@ -545,12 +545,11 @@
         "image_HnAGFm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Image_v2.webp",
+            "image": "shopify://shop_images/IMG5_cf8a3769-c78c-45ad-ab24-6fef33a2e180.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/IMG5_e1fc4e4d-3294-4910-b563-3bcfa157838f.png",
             "icon_width": 48,
             "subheading": "",
             "title": "A gentle exfoliator for all areas… even the most delicate ones.",
