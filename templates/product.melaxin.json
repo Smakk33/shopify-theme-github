@@ -703,43 +703,36 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "What ingredients are in your Tallow Balm?",
-            "content": "<p>Our Tallow Balm contains only 4 natural ingredients: grass-fed, grass-finished beef tallow, cold-pressed organic olive oil, pot marigold extract, and organic vitamin E. We use manuka honey in some variations for its additional healing properties. No fillers, no chemicals, just raw, unadulterated skin nutrition that lets your skin thrive naturally.</p>"
+            "title": "How often should I use it?",
+            "content": "<p>For best results, use 2-3 times a week.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "Do your products contain any artificial fragrances?",
-            "content": "<p>No, our products are completely free from artificial fragrances. Any scent you experience comes naturally from the ingredients themselves. This makes our products ideal for those with sensitivities to synthetic fragrances or those seeking truly natural skincare.</p>"
+            "title": "Is it suitable for sensitive skin?",
+            "content": "<p>Yes, it’s formulated to be gentle for all skin types.</p>"
           }
         },
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "Are your products suitable for sensitive skin?",
-            "content": "<p>Yes, our tallow-based products are particularly well-suited for sensitive skin. The natural fat profile in grass-fed tallow closely resembles human skin cells, making it highly compatible and gentle. Many customers with eczema, rosacea, and other skin sensitivities report significant improvements when using our products.</p>"
+            "title": "Can I use it under makeup?",
+            "content": "<p>Absolutely! This serum makes a great primer for makeup.</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "How do I apply the tallow balm?",
-            "content": "<p>For best results, take a small amount (about the size of a pea for facial application) and warm it between your fingertips. The balm will melt slightly with your body heat, making it easier to apply. Gently massage into clean skin using upward, circular motions until fully absorbed. A little goes a long way!</p>"
+            "title": "What if I experience irritation?",
+            "content": "<p>Discontinue use and consult a dermatologist if irritation occurs.</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
           "settings": {
-            "title": "How often should I use the product?",
-            "content": "<p>For optimal results, we recommend using our tallow balm 1-2 times daily on clean skin. Many customers incorporate it into both morning and evening skincare routines. Those with very dry skin may benefit from more frequent application, while those with oilier skin might prefer using it just once daily, typically in the evening.</p>"
-          }
-        },
-        "item_PiK76N": {
-          "type": "item",
-          "settings": {
-            "title": "Can I use your tallow balm on my face?",
-            "content": "<p>Absolutely! Our tallow balm is excellent for facial use. Its natural composition is similar to human skin cells, making it ideal for facial application. It's deeply moisturizing without clogging pores and can help balance oil production, reduce fine lines, and soothe irritation.</p>"
+            "title": "What is the expiration date?",
+            "content": "<p>Each product has a shelf life of 12 months after opening.</p>"
           }
         },
         "item_bYzCVH": {
@@ -765,7 +758,6 @@
         "item_9w86PN",
         "item_U8BnMe",
         "item_QCPjCF",
-        "item_PiK76N",
         "item_bYzCVH",
         "item_LhA7PL"
       ],
@@ -775,7 +767,7 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 300,
-        "support_hours": "",
+        "support_hours": "Our customer service team is available Monday to Friday, from 9am to 8pm.",
         "answer_time": "",
         "button_text": "",
         "button_url": "",
