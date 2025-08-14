@@ -203,8 +203,8 @@
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Product Details",
-            "content": "<p>Radiant Rice Exfoliating Serum™ rejuvenates your skin with a blend of AHA, BHA, and PHA for gentle exfoliation. Infused with rice bran water and Niacinamide, this serum deeply hydrates while refining skin texture and reducing pores. Say goodbye to blackheads and dullness with a formula suitable for all skin types!</p>",
+            "title": "Key Ingredients",
+            "content": "<p><strong>PENTA-RICE (Rice Water Extract + PENTAVITIN)</strong>: A unique blend that softens and removes dead skin cells while controlling excess sebum, providing instant hydration for a complete skincare feel after exfoliation.<br/><strong>Rice Water Extract</strong>: A gentle ingredient that exfoliates and balances sebum production, leaving the skin smooth and refreshed.<br/><strong>PENTAVITIN</strong>: Known as a \"moisture magnet,\" it delivers deep hydration, ensuring your skin feels nourished after peeling.<br/><strong>AHA + BHA</strong>: Exfoliates dead skin cells and accelerates skin turnover cycles, refining texture for a smoother complexion.<br/><strong>Niacinamide</strong>: Improves overall skin radiance and texture, leaving the skin clear and vibrant post-exfoliation.</p>",
             "page": ""
           }
         },
