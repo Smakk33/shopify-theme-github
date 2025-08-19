@@ -776,13 +776,13 @@
         "button_briEaz": {
           "type": "button",
           "settings": {
-            "link": "shopify://products/youthful-glow-tallow-balm-pure-non-synthetic",
+            "link": "shopify://products/peel-shot-glow-rice-ampoule-duo-by-dr-melaxin",
             "text": "Add to cart",
             "size": "lg",
             "style": "fill",
             "stretch": true,
-            "background": "#fedb37",
-            "text_color": "#252728"
+            "background": "#c5a276",
+            "text_color": "#ffffff"
           }
         }
       },
