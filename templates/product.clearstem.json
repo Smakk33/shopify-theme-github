@@ -442,6 +442,7 @@
         "item_XznXya",
         "item_YtD6cy"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -522,7 +523,7 @@
         "image_bqmYgy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/image_2025-07-21_233632000.webp",
+            "image": "shopify://shop_images/section1.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
