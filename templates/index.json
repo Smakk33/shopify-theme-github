@@ -781,7 +781,7 @@
             "size": "lg",
             "style": "fill",
             "stretch": true,
-            "background": "#c5a276",
+            "background": "#becaeb",
             "text_color": "#ffffff"
           }
         }
@@ -795,7 +795,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "peel-shot-glow-rice-ampoule-duo-by-dr-melaxin",
+        "product": "clearstem-acne-solution-that-clears-hormonal-breakouts-from-within",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
