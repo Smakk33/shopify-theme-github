@@ -730,33 +730,34 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "How often should I use it?",
-            "content": "<p>For best results, use 2-3 times a week.</p>"
+            "title": "Who should take this product?",
+            "content": "<p>This product is for anyone with acne or oily/acne-prone skin. This product serves the market who wants more control over their acne without having to take toxic medications like antibiotics, or for parents who do not want to put their child on something like Accutane.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "Is it suitable for sensitive skin?",
-            "content": "<p>Yes, it’s formulated to be gentle for all skin types.</p>"
+            "title": "How long does it take to see results?",
+            "content": "<p>Initial results can be felt after the 1st week, with full effects kicking in around weeks 3 and 4.</p>"
           }
         },
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "Can I use it under makeup?",
-            "content": "<p>Absolutely! This serum makes a great primer for makeup.</p>"
+            "title": "How many do you take and when?",
+            "content": "<p>Serving size is 3 capsules with a meal (it works better with food as it has digestive enzyme and Vitamin A is fat-soluble). For smaller people who weigh less than 120 lb, they may be fine to just take 2 capsules. For those who get too relaxed from the 5-TP, we recommend taking in the evening.</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "What if I experience irritation?",
-            "content": "<p>Discontinue use and consult a dermatologist if irritation occurs.</p>"
+            "title": "What are the results to look out for when taking it?",
+            "content": "<p>Customers will not notice much for the first few days, but then may experience a better stress-response and feelings of calm and peace. After 1 week customers should notice less new acne and a reduction in size and inflammation of pre-existing acne. After 2 weeks customers should see a significant reduction in both new and existing acne, along with elevated feelings of well-being. After 1 month, customers should notice a smoother menstrual experience, better sleep, and significantly clearer skin that heals faster and is less oily throughout the day.</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "What is the expiration date?",
             "content": "<p>Each product has a shelf life of 12 months after opening.</p>"
