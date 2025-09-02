@@ -298,6 +298,221 @@
         "input_text_color": ""
       }
     },
+    "ss_testimonials_38_fQPGCk": {
+      "type": "ss-testimonials-38",
+      "blocks": {
+        "heading_pxWMyf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Testimonials #38</h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 24,
+            "heading_height": 130,
+            "heading_color": "#121212"
+          }
+        },
+        "rating_G8r8Kn": {
+          "type": "rating",
+          "settings": {
+            "rating_text": "<p>Based on 3,250 reviews</p>",
+            "rating_custom": false,
+            "rating_font": "josefin_sans_n4",
+            "rating_size": 13,
+            "rating_size_mobile": 13,
+            "rating_height": 150,
+            "rating_mt": 10,
+            "rating_mt_mobile": 10,
+            "stars_count": 4.5,
+            "stars_size": 28,
+            "stars_size_mobile": 28,
+            "rating_color": "#121212",
+            "stars_color": "#FFFFFF",
+            "stars_bg_color": "#00B67A",
+            "stars_bg_half_color": "#DDDDDD"
+          }
+        },
+        "testimonial_UEmJtP": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Super easy to use",
+            "text": "<p>This antifungal pen is super easy to use and mess-free thanks to the twist-up applicator. The formula feels gentle but effective. The mix of tea tree oil, aloe, and vitamin E is a nice touch too. Definitely recommend!</p>",
+            "author": "Lyndzi W,",
+            "date": "1 day ago"
+          }
+        },
+        "testimonial_y76949": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Great result",
+            "text": "<p>After 2nd day I started seeing the results, a great result, I have tried many stuff but nothing works. I was under my Doctor following for 8 month medicine but nothing works. This item is my savior, I have just order a 2nd pack. Thank you 😊</p>",
+            "author": "Sarah J,",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_pq3X9d": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_bdhTrW": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_LVCbEy": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_aebtkh": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_Dz9rmb": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_rnrnCC": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Title",
+            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
+            "author": "Author",
+            "date": "3 days ago"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pxWMyf",
+        "rating_G8r8Kn",
+        "testimonial_UEmJtP",
+        "testimonial_y76949",
+        "testimonial_pq3X9d",
+        "testimonial_bdhTrW",
+        "testimonial_LVCbEy",
+        "testimonial_aebtkh",
+        "testimonial_Dz9rmb",
+        "testimonial_rnrnCC"
+      ],
+      "name": "SS - Testimonials #38",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "content_vertical_align": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 1,
+        "slider_gap": 12,
+        "slider_gap_mobile": 16,
+        "slide_padding_horizontal": 16,
+        "slide_padding_horizontal_mobile": 16,
+        "slide_padding_vertical": 16,
+        "slide_padding_vertical_mobile": 16,
+        "slide_radius": 2,
+        "slide_border_thickness": 0,
+        "slide_content_align": "left",
+        "slide_content_align_mobile": "left",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 14,
+        "title_size_mobile": 14,
+        "title_height": 150,
+        "title_mt": 12,
+        "title_mt_mobile": 12,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 13,
+        "text_size_mobile": 13,
+        "text_height": 150,
+        "text_mt": 6,
+        "text_mt_mobile": 10,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 12,
+        "author_size_mobile": 12,
+        "author_height": 130,
+        "date_custom": false,
+        "date_font": "josefin_sans_n4",
+        "date_size": 12,
+        "date_size_mobile": 12,
+        "date_height": 150,
+        "date_mt": 8,
+        "date_mt_mobile": 8,
+        "slide_stars_size": 18,
+        "slide_stars_size_mobile": 18,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "arrow_size": 28,
+        "arrow_size_mobile": 28,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "title_color": "#121212",
+        "text_color": "#121212",
+        "author_color": "#666666",
+        "date_color": "#666666",
+        "slide_stars_color": "#FFFFFF",
+        "slide_stars_bg_color": "#00B67A",
+        "slide_stars_bg_half_color": "#DDDDDD",
+        "slide_bg_color": "#FFFFFF",
+        "slide_border_color": "#121212",
+        "arrow_color": "#7B7B7B",
+        "arrow_hover_color": "#7B7B7B",
+        "arrow_bg_color": "#EBEBEB",
+        "arrow_bg_hover_color": "#F5F5F5",
+        "arrow_border_color": "#C7C7C7",
+        "arrow_border_hover_color": "#C7C7C7",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "ss_scrolling_logo_cloud_WkcyPQ": {
       "type": "ss-scrolling-logo-cloud",
       "blocks": {
@@ -941,6 +1156,7 @@
   },
   "order": [
     "main",
+    "ss_testimonials_38_fQPGCk",
     "ss_scrolling_logo_cloud_WkcyPQ",
     "multi_column_Vpdyjn",
     "related-products",
