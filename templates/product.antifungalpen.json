@@ -303,6 +303,7 @@
       "blocks": {
         "heading_pxWMyf": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<h2>Testimonials #38</h2>",
             "heading_custom": false,
@@ -315,6 +316,7 @@
         },
         "rating_G8r8Kn": {
           "type": "rating",
+          "disabled": true,
           "settings": {
             "rating_text": "<p>Based on 3,250 reviews</p>",
             "rating_custom": false,
@@ -460,7 +462,7 @@
         "slide_padding_horizontal": 16,
         "slide_padding_horizontal_mobile": 16,
         "slide_padding_vertical": 16,
-        "slide_padding_vertical_mobile": 16,
+        "slide_padding_vertical_mobile": 0,
         "slide_radius": 2,
         "slide_border_thickness": 0,
         "slide_content_align": "left",
