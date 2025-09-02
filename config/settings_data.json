@@ -21,7 +21,7 @@
     "text_color": "#252728",
     "header_background": "#ffffff",
     "header_text_color": "#1a1a1a",
-    "footer_background": "#becaeb",
+    "footer_background": "#293046",
     "footer_text_color": "#ffffff",
     "primary_button_background": "#becaeb",
     "primary_button_text_color": "#ffffff",
@@ -219,7 +219,7 @@
       ".h-stack.grow.gap-2.sm\\:gap-2\\.5,.h-stack.gap-4.justify-between {justify-content: flex-start;}",
       "#dummy-chat-button-iframe,#shopify-chat #ShopifyChat {z-index: 45 !important;}",
       ".product-info__price {font-size: 16px !important; font-weight: bold !important; line-height: 1.2em !important;}",
-      ".product-info__badge-list {display: none}"
+      ".product-info__badge-list {display: none;}"
     ]
   }
 }
