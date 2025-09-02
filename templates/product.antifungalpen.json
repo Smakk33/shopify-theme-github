@@ -344,6 +344,7 @@
         "slide_4t8aUM",
         "slide_4qGEme"
       ],
+      "disabled": true,
       "name": "SS - Scrolling Logo Cloud",
       "settings": {
         "ss-title": "As seen on",
@@ -532,15 +533,15 @@
         "image_bqmYgy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/section1.png",
+            "image": "shopify://shop_images/pdt6_eb36048a-a8c4-4763-b2d8-8efe0d1d30af.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Stop the endless cycle of hormonal breakouts",
-            "content": "<p>After years of failed treatments, thousands found what actually works : <strong>clear, glowing skin without side effects</strong>.</p>",
+            "title": "Clinically Backed, Targeted Formula",
+            "content": "<p>This antifungal pen is powered by <strong>25% Undecylenic Acid</strong>, an FDA-recognized active for addressing athlete’s foot (tinea pedis). To enhance results, it’s enriched with a blend of botanical oils including <strong>Tea Tree</strong>, <strong>Oregano</strong>, <strong>Manuka, Clove Bud, and Propolis</strong> — carefully selected to soothe, hydrate, and support skin comfort throughout treatment.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
