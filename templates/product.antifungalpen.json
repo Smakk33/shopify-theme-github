@@ -617,6 +617,7 @@
       "block_order": [
         "image_qAktTK"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
@@ -741,53 +742,57 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "Who should take this product?",
-            "content": "<p>This product is for anyone with acne or oily/acne-prone skin. This product serves the market who wants more control over their acne without having to take toxic medications like antibiotics, or for parents who do not want to put their child on something like Accutane.</p>"
+            "title": "How long until I see improvements in my skin?",
+            "content": "<p>When used as directed on the skin around the nails, many customers report reilef from symptoms like itching and irritation within the first few weeks. Individual experiences may vary.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "How long does it take to see results?",
-            "content": "<p>Initial results can be felt after the 1st week, with full effects kicking in around weeks 3 and 4.</p>"
+            "title": "How much product do I get in each pen?",
+            "content": "<p>One pen can be used to treat multiple affected areas of the skin, including the skin around multiple toes or fingers, depending on usage frequency.</p>"
           }
         },
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "How many do you take and when?",
-            "content": "<p>Serving size is 3 capsules with a meal (it works better with food as it has digestive enzyme and Vitamin A is fat-soluble). For smaller people who weigh less than 120 lb, they may be fine to just take 2 capsules. For those who get too relaxed from the 5-TP, we recommend taking in the evening.</p>"
+            "title": "Is Lunavia chemical-free?",
+            "content": "<p>We use a monograph-compliant antifungal active - 25% Undecylenic Acid - combined with skin-conditioning botanical oils. Our formula contains no parabens, artifical dyes, or synthetic fragrances.</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "What are the results to look out for when taking it?",
-            "content": "<p>Customers will not notice much for the first few days, but then may experience a better stress-response and feelings of calm and peace. After 1 week customers should notice less new acne and a reduction in size and inflammation of pre-existing acne. After 2 weeks customers should see a significant reduction in both new and existing acne, along with elevated feelings of well-being. After 1 month, customers should notice a smoother menstrual experience, better sleep, and significantly clearer skin that heals faster and is less oily throughout the day.</p>"
+            "title": "How often should I apply it?",
+            "content": "<p>We recommend applying as directed on the label. Consistent use is important for full symptom relief and effective treatment of conditions like athlete's foot and ringworm.</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "title": "What is the expiration date?",
-            "content": "<p>Each product has a shelf life of 12 months after opening.</p>"
+            "title": "Is it suitable for use around nails?",
+            "content": "<p>Yes. Our formula is intended for use on the skin around the nails and between the toes, as directed. It is not intended to treat fungal infections of the nail itself.</p>"
           }
         },
         "item_bYzCVH": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "title": "How do I prepare Yerba Mate?",
-            "content": "<p>It’s super easy! Just <strong>add one scoop to cold water with ice, stir with a frother or whisk, and enjoy</strong>. No brewing required!</p>"
+            "title": "Can I use Lunavia if I have a sensitive skin type?",
+            "content": "<p>Many user with sensitive skin tolerate the formula well, as it includes soothing botanical ingredients. However, because the product contains a high concentration of Undecylenic Acid (an active antifungal drug),we recommend performing a patch test before full use - especially if you have known sensitivities.</p>"
           }
         },
         "item_LhA7PL": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "title": "What if I don’t like it?",
-            "content": "<p>We stand by our product with a <strong>90-day risk-free trial</strong>. If Yerba Mate isn’t for you, just contact us for a <strong>hassle-free refund</strong>—no questions asked.</p>"
+            "title": "Is it suitable for men and women?",
+            "content": "<p>Yes. Our antifungal formula is designed for adult use and may be used by both men and women to treat common fungal infections like athlete's foot, ringworm, and jock itch. As with any OTC drug, follow label directions and consult a healthcare provider if you have sensitive skin or underlying conditions.</p>"
+          }
+        },
+        "item_mtCbEh": {
+          "type": "item",
+          "settings": {
+            "title": "What is the full ingredient list?",
+            "content": "<p>Undecylenic Acid (25%), Tea Tree Oil, Oregano Oil, Manuka Oil, Clove Bud Oil, Propolis Extract, Tocopheryl Acetate (Vitamin E), plus other supporting ingredients for optimal penetration.</p>"
           }
         }
       },
@@ -798,7 +803,8 @@
         "item_U8BnMe",
         "item_QCPjCF",
         "item_bYzCVH",
-        "item_LhA7PL"
+        "item_LhA7PL",
+        "item_mtCbEh"
       ],
       "settings": {
         "full_width": true,
@@ -835,6 +841,7 @@
       "block_order": [
         "trustoo_io_reviews_review_widget_htH6DH"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
