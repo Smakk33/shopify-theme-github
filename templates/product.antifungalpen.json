@@ -422,6 +422,16 @@
             "author": "Michelle W,",
             "date": "3 weeks ago"
           }
+        },
+        "testimonial_pTXiEX": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Gave me the confidence",
+            "text": "<p>It gave me the confidence to finally stop hiding my feet. I recommend it to anyone struggling with toenail fungus or athlete’s foot.</p>",
+            "author": "George S,",
+            "date": "3 weeks ago"
+          }
         }
       },
       "block_order": [
@@ -435,7 +445,8 @@
         "testimonial_aebtkh",
         "testimonial_Dz9rmb",
         "testimonial_rnrnCC",
-        "testimonial_xfLbKt"
+        "testimonial_xfLbKt",
+        "testimonial_pTXiEX"
       ],
       "name": "SS - Testimonials #38",
       "settings": {
