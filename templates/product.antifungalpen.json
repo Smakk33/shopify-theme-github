@@ -407,10 +407,20 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Title",
-            "text": "<p>Add customer reviews and testimonials to highlight the positive experiences they’ve had with your store.</p>",
-            "author": "Author",
-            "date": "3 days ago"
+            "title": "no more itching, no more cracking",
+            "text": "<p>I work on my feet all day and athlete’s foot kept coming back. Since using this pen, no more itching, no more cracking. It feels soothing right after applying, and the formula actually smells nice compared to other stuff I’ve tried.</p>",
+            "author": "Daniel K,",
+            "date": "2 weeks ago"
+          }
+        },
+        "testimonial_xfLbKt": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "by far the highest-quality",
+            "text": "<p>This is by far the highest-quality antifungal treatment I’ve bought. The packaging, instructions, and product itself feel premium. You can tell it’s been well thought out. It’s simple, portable, and really works.</p>",
+            "author": "Michelle W,",
+            "date": "3 weeks ago"
           }
         }
       },
@@ -424,7 +434,8 @@
         "testimonial_LVCbEy",
         "testimonial_aebtkh",
         "testimonial_Dz9rmb",
-        "testimonial_rnrnCC"
+        "testimonial_rnrnCC",
+        "testimonial_xfLbKt"
       ],
       "name": "SS - Testimonials #38",
       "settings": {
