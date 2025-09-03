@@ -547,175 +547,6 @@
         "lazy": true
       }
     },
-    "ss_scrolling_logo_cloud_WkcyPQ": {
-      "type": "ss-scrolling-logo-cloud",
-      "blocks": {
-        "slide_URyNqF": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-07-11_124542757.webp",
-            "link": ""
-          }
-        },
-        "slide_bY3hYe": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-07-11_124603425.webp",
-            "link": ""
-          }
-        },
-        "slide_ewFmLV": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-07-11_124635263.webp",
-            "link": ""
-          }
-        },
-        "slide_4t8aUM": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-07-11_124534413.webp",
-            "link": ""
-          }
-        },
-        "slide_4qGEme": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/image_2025-07-11_124612860.webp",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_URyNqF",
-        "slide_bY3hYe",
-        "slide_ewFmLV",
-        "slide_4t8aUM",
-        "slide_4qGEme"
-      ],
-      "disabled": true,
-      "name": "SS - Scrolling Logo Cloud",
-      "settings": {
-        "ss-title": "As seen on",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
-        "header_size": 30,
-        "header_align": "center",
-        "scrolling_velocity": 20,
-        "pause_hover": false,
-        "shadow": false,
-        "sliders_mt": 16,
-        "logo_padding_top": 0,
-        "logo_padding_bottom": 0,
-        "slider_gap": 30,
-        "slider_gap_mobile": 30,
-        "slider_direction": "left",
-        "icon_width": 200,
-        "header_color": "#121212",
-        "border_color": "#ffffff",
-        "background-color": "#ffffff",
-        "slider-background-color": "#ffffff",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "multi_column_Vpdyjn": {
-      "type": "multi-column",
-      "blocks": {
-        "item_TNRnB3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/a9acbdf8e5f744f994742fa1211361ac.HD-720p-1.6Mbps-51060051-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_wnTYiz": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/613db616ed5b42838ec543518353e412.HD-720p-1.6Mbps-51060053-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_cAFXa9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/7fbc1080fdb64317ac2d4effcdce6025.HD-720p-1.6Mbps-51060050-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XznXya": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/256f9a55272b4025a3f5b0a2f6891482.HD-720p-1.6Mbps-51060052-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YtD6cy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ad5aa304ba5a485c856381cf185f0892.HD-720p-1.6Mbps-51060049-ezgif.com-video-to-webp-converter.webp",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_TNRnB3",
-        "item_wnTYiz",
-        "item_cAFXa9",
-        "item_XznXya",
-        "item_YtD6cy"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "<h2>Loved By +14,000 Customers ❤️</h2>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -737,43 +568,6 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
-      }
-    },
-    "impact_text_EDCadt": {
-      "type": "impact-text",
-      "blocks": {
-        "item_pe7Lcb": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "",
-            "content": "<h4>Experienced Less Stress & Anxiety - A <em><strong>calm, focused state without jitters</strong></em>.</h4>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_pe7Lcb"
-      ],
-      "disabled": true,
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "#41326a",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "media_with_text_G3VJEB": {
@@ -800,33 +594,10 @@
             "button_background": "",
             "button_text_color": ""
           }
-        },
-        "image_HnAGFm": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/section1_14a502bf-5a59-4f93-8b02-65bb8390023d.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Mess-Free, Effortless Application",
-            "content": "<p>Forget spills and messy creams — our antifungal pen makes treatment simple and clean every time:</p><ul><li><br/>Precision brush delivers product exactly where it’s needed<br/></li><li><br/>No rubbing or massaging required — just apply and move on<br/></li><li><br/>Fast-drying formula leaves no residue<br/></li><li><br/>Compact size, perfect for on-the-go use</li></ul>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
         }
       },
       "block_order": [
-        "image_bqmYgy",
-        "image_HnAGFm"
+        "image_bqmYgy"
       ],
       "custom_css": [
         ":host,section,div[class*=\"section\"] {padding-top: 0 !important; padding-bottom: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important;}"
@@ -866,74 +637,45 @@
       "block_order": [
         "image_qAktTK"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": true,
         "spacing": "none"
       }
     },
-    "multi_column_JXHeYb": {
-      "type": "multi-column",
+    "media_with_text_8jjd9p": {
+      "type": "media-with-text",
       "blocks": {
-        "item_etdxMy": {
-          "type": "item",
+        "image_7mc8Q4": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012703.898.svg",
-            "column_size": "4",
-            "title": "Pour & Mix",
-            "heading_tag": "h4",
-            "content": "<p>Fill your favorite cup with cold water and ice for a refreshing boost. Add one scoop of Yerba Mate to the cup.</p>",
-            "link_url": "",
+            "image": "shopify://shop_images/GIFFINAL1.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "No Accutane. No scary side effects",
+            "content": "<p>A natural solution that clears skin from the root: <strong>hormones, stress, digestion.</strong> Without damaging your body.</p>",
             "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YTTWe8": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012723.708.svg",
-            "column_size": "4",
-            "title": "Blend Until Smooth",
-            "heading_tag": "h4",
-            "content": "<p>Use a frother, whisk, or spoon to mix until fully dissolved. No clumps—just smooth, delicious energy.</p>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_4mX4PY": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/shopify_icons_-_2025-02-14T012737.081.svg",
-            "column_size": "4",
-            "title": "Drink & Enjoy",
-            "heading_tag": "h4",
-            "content": "<p>Sip, savor, and feel the difference! Enjoy the clean energy, mental clarity, and gut support with every sip.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
           }
         }
       },
       "block_order": [
-        "item_etdxMy",
-        "item_YTTWe8",
-        "item_4mX4PY"
+        "image_7mc8Q4"
       ],
-      "disabled": true,
-      "name": "Multi-column",
+      "name": "Media with text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "spacing": "none"
       }
     },
     "custom_liquid_y4VrX6": {
@@ -948,41 +690,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_with_text_yt99ww": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_Dg4ixH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/image-3.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "90-DAY RISK FREE",
-            "title": "Notice Results or Your Money Back",
-            "content": "<p>Try Meritage for a full 90 days, risk-free! If you’re not 100% satisfied, just contact us for a hassle-free refund, no questions asked. We believe in our product, and if it’s not the right fit for you, we’ll make it right.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_Dg4ixH"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "spacing": "none"
       }
     },
     "faq_FLiQH6": {
@@ -1191,15 +898,11 @@
   "order": [
     "main",
     "ss_testimonials_38_fQPGCk",
-    "ss_scrolling_logo_cloud_WkcyPQ",
-    "multi_column_Vpdyjn",
     "related-products",
-    "impact_text_EDCadt",
     "media_with_text_G3VJEB",
     "media_with_text_MPCXi7",
-    "multi_column_JXHeYb",
+    "media_with_text_8jjd9p",
     "custom_liquid_y4VrX6",
-    "media_with_text_yt99ww",
     "faq_FLiQH6",
     "1736349541b004fa39",
     "174799084244c7d176",
