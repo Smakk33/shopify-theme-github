@@ -81,8 +81,15 @@
         },
         "liquid_FQpVrJ": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Clear, Healthy Nails in Weeks</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Relieves Itching, Burning & Irritation</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Targets Fungus at the Source</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Restores Confidence to Show Your Feet</span>\n</li>"
+          }
+        },
+        "liquid_CVrUDX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-family: Arial, sans-serif; font-size:15px; color:#252728; line-height:1.8; margin:10px 0;\">\n\n  <ul style=\"list-style:none; padding-left:0; margin:0;\">\n    <li style=\"margin-bottom:6px;\">💨 Quick-dry & machine washable</li>\n    <li style=\"margin-bottom:6px;\">✨ Streak-free & limescale-free shine</li>\n    <li style=\"margin-bottom:6px;\">💧 Absorbs up to 800ml of water</li>\n    <li style=\"margin-bottom:6px;\">☑️ Machine washable</li>\n\n  </ul>\n\n</div>"
           }
         },
         "description": {
@@ -254,6 +261,7 @@
         "offer_pGdHxj",
         "liquid_FJ6Aqt",
         "liquid_FQpVrJ",
+        "liquid_CVrUDX",
         "description",
         "variant_picker",
         "quantity_selector",
