@@ -49,9 +49,9 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#293046",
+        "background": "#c5e4d6",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#1a1a1a"
       }
     },
     "header": {
@@ -59,9 +59,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/MeritageLOGOSVG.svg",
+        "logo": "shopify://shop_images/KidooLand.png",
         "logo_max_width": 100,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 125,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
