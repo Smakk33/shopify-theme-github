@@ -141,7 +141,7 @@
         "liquid_Pnm9Db": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"better-sleep-container\">\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span>90-DAY MONEY-BACK GUARANTEE</span>\n  </div>\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span id=\"delivery-dates\">DELIVERY BETWEEN <span id=\"date1\" class=\"underline\"></span> AND <span id=\"date2\" class=\"underline\"></span></span>\n  </div>\n</div>\n\n<style>\n  .better-sleep-container {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    max-width: 100%;\n    margin-top: -18px;\n    padding-top: 15px; /* ESPACEMENT AJOUTÉ ICI */\n  }\n\n  .better-sleep {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    text-align: center;\n    padding: 7px 0;\n    width: 100%;\n  }\n\n  .better-sleep img {\n    flex-shrink: 0;\n    margin-right: 5px;\n    width: 15px;\n    height: 15px;\n  }\n\n  .better-sleep span {\n    font-size: 14px;\n    line-height: 1.1;\n  }\n\n  .underline {\n    text-decoration: underline;\n  }\n\n  @media screen and (max-width: 385px) {\n    .better-sleep span {\n      font-size: 12px;\n    }\n  }\n</style>\n\n<script>\n  function formatDate(date) {\n    const options = { day: 'numeric', month: 'long' };\n    return date.toLocaleDateString('en-CA', options).toUpperCase();\n  }\n\n  function updateDates() {\n    const today = new Date();\n    const date1 = new Date(today.getTime() + 4 * 24 * 60 * 60 * 1000);\n    const date2 = new Date(today.getTime() + 9 * 24 * 60 * 60 * 1000);\n\n    document.getElementById('date1').textContent = formatDate(date1);\n    document.getElementById('date2').textContent = formatDate(date2);\n  }\n\n  updateDates();\n  setInterval(updateDates, 24 * 60 * 60 * 1000);\n</script>"
+            "liquid": "<div class=\"better-sleep-container\">\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span>30-DAY MONEY-BACK GUARANTEE</span>\n  </div>\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span id=\"delivery-dates\">DELIVERY BETWEEN <span id=\"date1\" class=\"underline\"></span> AND <span id=\"date2\" class=\"underline\"></span></span>\n  </div>\n</div>\n\n<style>\n  .better-sleep-container {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    max-width: 100%;\n    margin-top: -18px;\n    padding-top: 15px; /* ESPACEMENT AJOUTÉ ICI */\n  }\n\n  .better-sleep {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    text-align: center;\n    padding: 7px 0;\n    width: 100%;\n  }\n\n  .better-sleep img {\n    flex-shrink: 0;\n    margin-right: 5px;\n    width: 15px;\n    height: 15px;\n  }\n\n  .better-sleep span {\n    font-size: 14px;\n    line-height: 1.1;\n  }\n\n  .underline {\n    text-decoration: underline;\n  }\n\n  @media screen and (max-width: 385px) {\n    .better-sleep span {\n      font-size: 12px;\n    }\n  }\n</style>\n\n<script>\n  function formatDate(date) {\n    const options = { day: 'numeric', month: 'long' };\n    return date.toLocaleDateString('en-CA', options).toUpperCase();\n  }\n\n  function updateDates() {\n    const today = new Date();\n    const date1 = new Date(today.getTime() + 4 * 24 * 60 * 60 * 1000);\n    const date2 = new Date(today.getTime() + 9 * 24 * 60 * 60 * 1000);\n\n    document.getElementById('date1').textContent = formatDate(date1);\n    document.getElementById('date2').textContent = formatDate(date2);\n  }\n\n  updateDates();\n  setInterval(updateDates, 24 * 60 * 60 * 1000);\n</script>"
           }
         },
         "liquid_qaqar9": {
@@ -202,7 +202,7 @@
         "collapsible_text_CCz8J8": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Does it really work?",
+            "title": "Product Details",
             "content": "<p>Yes. Our antifungal pen contains 25% Undecylenic Acid, a clinically proven ingredient to fight fungus effectively.</p>",
             "page": ""
           }
@@ -210,22 +210,22 @@
         "collapsible_text_hEkknm": {
           "type": "collapsible_text",
           "settings": {
-            "title": "How fast will I see results?",
-            "content": "<p>Most users notice visible nail improvement within weeks, while full restoration continues as healthy nails grow.</p>",
+            "title": "Shipping",
+            "content": "<ul><li>Free shipping</li><li>Ships within 24–48 hours</li><li>Delivered in 5 to 9 business days</li></ul>",
             "page": ""
           }
         },
         "collapsible_text_4dkd3V": {
           "type": "collapsible_text",
-          "disabled": true,
           "settings": {
-            "title": "Quels sont les ingrédients clés ?",
-            "content": "<p>💧 <strong>Acide Hyaluronique</strong> – <strong>L’hydratation intense pour repulper la peau</strong><br/><br/>Imaginez une peau qui retrouve son rebond et son éclat 💦 ! L’<strong>Acide Hyaluronique</strong> attire jusqu’à <strong>1000 fois son poids en eau</strong>, aidant à <strong>lisser</strong> les rides verticales et à <strong>redonner du volume au contour de la bouche</strong>. Résultat ? Une peau plus souple, des rides estompées et un effet \"lifté\" naturel ✨.</p><p>🌿 <strong>Alpha-Arbutin</strong> – <strong>L'éclaircissant puissant contre les taches pigmentaires</strong><br/><br/>Les rides verticales ne viennent pas seules… souvent, des <strong>taches brunes</strong> apparaissent, accentuant les signes de l’âge. L’<strong>Alpha-Arbutin</strong>, puissant dérivé naturel de l’hydroquinone, <strong>unifie le teint</strong> et <strong>atténue les taches</strong> tout en douceur 🌿. </p><p>🌼 <strong>Extrait de Chrysanthème</strong> – <strong>Le bouclier anti-inflammatoire</strong><br/><br/>Les peaux matures ont tendance à être plus sensibles et sujettes aux rougeurs. L’extrait de <strong>Chrysanthème</strong> calme les irritations et aide à <strong>préserver l’élasticité</strong> cutanée 🌼. Un ingrédient <strong>apaisant et protecteur</strong>, idéal pour une routine anti-âge globale.</p><p>🧈 <strong>Beurre de Karité</strong> – <strong>La nutrition profonde pour une peau soyeuse</strong><br/><br/>Qui dit peau mature dit souvent <strong>sèche et en manque de confort</strong>. Le beurre de Karité nourrit en profondeur, protège contre la déshydratation et aide à <strong>réparer la barrière cutanée</strong> 🧴. <strong>Un must-have</strong> pour une peau douce et souple au fil du temps.</p><p>🌙 <strong>Rétinol (0,1%)</strong> – <strong>L’arme secrète contre les rides profondes</strong><br/><br/>Le rétinol, c’est <strong>l’ingrédient star</strong> de l’anti-âge ! Il booste la <strong>production de collagène</strong>, <strong>accélère le renouvellement cellulaire</strong> et réduit les rides et ridules en douceur 🌙. Résultat ? Un grain de peau affiné, une peau plus ferme et des rides verticales visiblement atténuées.</p>",
+            "title": "30-Day Guarantee",
+            "content": "<ul><li>30-day satisfaction guarantee</li><li>Easy returns and exchanges during the guarantee period</li></ul>",
             "page": ""
           }
         },
         "collapsible_text_TMJMhq": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "Is it easy to apply?",
             "content": "<p>Absolutely. The precision brush makes application clean, simple, and mess-free — even between toes.</p>",
@@ -234,6 +234,7 @@
         },
         "collapsible_text_MnetTi": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "How is this different from other creams or oils?",
             "content": "<p>Unlike basic creams, our pen penetrates deeply and combines Undecylenic Acid with natural oils (tea tree, manuka, aloe) for faster, targeted results.</p>",
@@ -242,6 +243,7 @@
         },
         "collapsible_text_LcAHrK": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "What about shipping and guarantee?",
             "content": "<p>Shipping takes 4–9 business days, and you’re protected by our <strong>90-day money-back guarantee</strong>.</p>",
