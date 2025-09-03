@@ -14,33 +14,32 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Back to School Offer Up to 50% Off",
+            "url": ""
+          }
+        },
         "message_9MUNRk": {
           "type": "message",
           "settings": {
-            "text": "END OF SUMMER SALE ENDS TODAY",
+            "text": "Trusted by 22,800+ Happy Parents",
             "url": ""
           }
         },
         "message_Kgeg3H": {
           "type": "message",
-          "disabled": true,
           "settings": {
-            "text": "SUMMER OFFER ☀BUY 1 GET 1 FREE",
-            "url": ""
-          }
-        },
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "90-DAY MONEY-BACK GUARANTEE",
+            "text": "30-Day Money-Back Guarantee",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message",
         "message_9MUNRk",
-        "message_Kgeg3H",
-        "message"
+        "message_Kgeg3H"
       ],
       "settings": {
         "enable_sticky": true,
