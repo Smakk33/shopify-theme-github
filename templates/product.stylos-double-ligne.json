@@ -643,8 +643,8 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "How long until I see improvements in my skin?",
-            "content": "<p>When used as directed on the skin around the nails, many customers report reilef from symptoms like itching and irritation within the first few weeks. Individual experiences may vary.</p>"
+            "title": "Do these pens really create a double-line effect?",
+            "content": "<p>Yes! Each pen automatically draws a colored outline around shimmering ink for a unique, eye-catching result.</p>"
           }
         },
         "item_FmKhth": {
@@ -657,43 +657,29 @@
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "Is Lunavia chemical-free?",
-            "content": "<p>We use a monograph-compliant antifungal active - 25% Undecylenic Acid - combined with skin-conditioning botanical oils. Our formula contains no parabens, artifical dyes, or synthetic fragrances.</p>"
+            "title": "Are they safe for kids?",
+            "content": "<p>Absolutely. The pens are non-toxic, acid-free, and suitable for children ages 5+ (with adult supervision recommended).</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "How often should I apply it?",
-            "content": "<p>We recommend applying as directed on the label. Consistent use is important for full symptom relief and effective treatment of conditions like athlete's foot and ringworm.</p>"
+            "title": "What surfaces can I use them on?",
+            "content": "<p>They work best on thick white paper, but also perform beautifully on glass, stone, cardboard, and fabric.</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
           "settings": {
-            "title": "Is it suitable for use around nails?",
-            "content": "<p>Yes. Our formula is intended for use on the skin around the nails and between the toes, as directed. It is not intended to treat fungal infections of the nail itself.</p>"
+            "title": "Does the ink bleed through paper?",
+            "content": "<p>No. The ink is designed to stay crisp and vibrant without bleeding through standard paper.</p><p></p>"
           }
         },
         "item_bYzCVH": {
           "type": "item",
           "settings": {
-            "title": "Can I use Lunavia if I have a sensitive skin type?",
-            "content": "<p>Many user with sensitive skin tolerate the formula well, as it includes soothing botanical ingredients. However, because the product contains a high concentration of Undecylenic Acid (an active antifungal drug),we recommend performing a patch test before full use - especially if you have known sensitivities.</p>"
-          }
-        },
-        "item_LhA7PL": {
-          "type": "item",
-          "settings": {
-            "title": "Is it suitable for men and women?",
-            "content": "<p>Yes. Our antifungal formula is designed for adult use and may be used by both men and women to treat common fungal infections like athlete's foot, ringworm, and jock itch. As with any OTC drug, follow label directions and consult a healthcare provider if you have sensitive skin or underlying conditions.</p>"
-          }
-        },
-        "item_mtCbEh": {
-          "type": "item",
-          "settings": {
-            "title": "What is the full ingredient list?",
-            "content": "<p>Undecylenic Acid (25%), Tea Tree Oil, Oregano Oil, Manuka Oil, Clove Bud Oil, Propolis Extract, Tocopheryl Acetate (Vitamin E), plus other supporting ingredients for optimal penetration.</p>"
+            "title": "Are they a good gift idea?",
+            "content": "<p>Definitely! These pens are perfect for kids, teens, and even adults who love creative projects. A fun and original gift.</p>"
           }
         }
       },
@@ -703,9 +689,7 @@
         "item_9w86PN",
         "item_U8BnMe",
         "item_QCPjCF",
-        "item_bYzCVH",
-        "item_LhA7PL",
-        "item_mtCbEh"
+        "item_bYzCVH"
       ],
       "settings": {
         "full_width": true,
