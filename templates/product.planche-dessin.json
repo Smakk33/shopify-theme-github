@@ -528,8 +528,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Create magical effects ✨",
-            "content": "<p>Instantly add a shimmering colored outline to your drawings.<br/><br/>Unique pens that turn every doodle into a masterpiece.</p>",
+            "title": "Draw with light ✨",
+            "content": "<p>Each stroke glows instantly for magical creations—no mess, no cleanup.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -566,8 +566,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Fun for kids & adults 🎨",
-            "content": "<p>Smooth ink flow and vibrant strokes.<br/><br/>Perfect to spark imagination—whether solo or family time.</p>",
+            "title": "Safe & eco-friendly 🌍",
+            "content": "<p>Chemical-free, vision-friendly, and endlessly reusable.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -601,8 +601,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Safe & easy to use 🛡️",
-            "content": "<p>Acid-free, non-toxic, and suitable for ages 5+.<br/><br/>Enjoy creative moments with total peace of mind.</p>",
+            "title": "Sparks imagination 🎨",
+            "content": "<p>A fun, creative toy that keeps kids screen-free while boosting their creativity.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -643,40 +643,41 @@
         "item_KqDpLp": {
           "type": "item",
           "settings": {
-            "title": "Do these pens really create a double-line effect?",
-            "content": "<p>Yes! Each pen automatically draws a colored outline around shimmering ink for a unique, eye-catching result.</p>"
+            "title": "What age is the board suitable for?",
+            "content": "<p>It’s designed for kids ages 3 and up. Lightweight, easy to use, and completely safe for both little ones and older kids.</p>"
           }
         },
         "item_FmKhth": {
           "type": "item",
           "settings": {
-            "title": "How much product do I get in each pen?",
-            "content": "<p>One pen can be used to treat multiple affected areas of the skin, including the skin around multiple toes or fingers, depending on usage frequency.</p>"
+            "title": "Does it require batteries or ink?",
+            "content": "<p>No, nothing extra needed! It works with the included light pen—no ink, no paint.</p>"
           }
         },
         "item_9w86PN": {
           "type": "item",
           "settings": {
-            "title": "Are they safe for kids?",
-            "content": "<p>Absolutely. The pens are non-toxic, acid-free, and suitable for children ages 5+ (with adult supervision recommended).</p>"
+            "title": "How long do the drawings last?",
+            "content": "<p>Each drawing stays visible for about 5–10 minutes before fading away, so kids can draw again and again endlessly.</p>"
           }
         },
         "item_U8BnMe": {
           "type": "item",
           "settings": {
-            "title": "What surfaces can I use them on?",
-            "content": "<p>They work best on thick white paper, but also perform beautifully on glass, stone, cardboard, and fabric.</p>"
+            "title": "Is it safe for children’s eyes?",
+            "content": "<p>Yes, 100% safe. The board is certified and designed to protect eyesight, even with extended use.</p>"
           }
         },
         "item_QCPjCF": {
           "type": "item",
           "settings": {
-            "title": "Does the ink bleed through paper?",
-            "content": "<p>No. The ink is designed to stay crisp and vibrant without bleeding through standard paper.</p><p></p>"
+            "title": "Is it a good gift idea?",
+            "content": "<p>Definitely! It’s an educational, fun, and original toy that sparks creativity—kids love receiving it as a gift.</p>"
           }
         },
         "item_bYzCVH": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Are they a good gift idea?",
             "content": "<p>Definitely! These pens are perfect for kids, teens, and even adults who love creative projects. A fun and original gift.</p>"
