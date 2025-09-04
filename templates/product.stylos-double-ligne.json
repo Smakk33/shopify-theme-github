@@ -349,40 +349,40 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Super easy to use",
-            "text": "<p>This antifungal pen is super easy to use and mess-free thanks to the twist-up applicator. The formula feels gentle but effective. The mix of tea tree oil, aloe, and vitamin E is a nice touch too. Definitely recommend!</p>",
-            "author": "Lyndzi W,",
-            "date": "1 day ago"
+            "title": "I absolutely love them",
+            "text": "<p>These take me right back to the 80s. I absolutely love them—and the kids do too!</p>",
+            "author": "Nicole P",
+            "date": ""
           }
         },
         "testimonial_y76949": {
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Great result",
-            "text": "<p>After 2nd day I started seeing the results, a great result, I have tried many stuff but nothing works. I was under my Doctor following for 8 month medicine but nothing works. This item is my savior, I have just order a 2nd pack. Thank you 😊</p>",
-            "author": "Sarah J,",
-            "date": "3 days ago"
+            "title": "Perfect birthday gift",
+            "text": "<p>I originally bought them for my daughter’s birthday, but ended up ordering another set for myself!</p>",
+            "author": "Cindy W",
+            "date": ""
           }
         },
         "testimonial_pq3X9d": {
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "I’ve tried every cream and spray",
-            "text": "<p>I was skeptical because I’ve tried every cream and spray on the market, but this pen actually works. Within a couple of weeks, my toenails looked clearer and the itching between my toes was gone. Super easy to apply and dries fast no mess at all.</p>",
-            "author": "Karen M,",
-            "date": "3 days ago"
+            "title": "Colors are so vibrant",
+            "text": "<p>Just received mine and I’m thrilled. The effect is exactly as described, and the colors are so vibrant.</p>",
+            "author": "Julie Anderson",
+            "date": ""
           }
         },
         "testimonial_bdhTrW": {
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "yellow toenails for years",
-            "text": "<p>I’ve been dealing with thick, yellow toenails for years and nothing changed. After using this pen daily, I can finally see healthy growth coming back. It feels like my nails are slowly being restored.</p>",
-            "author": "Robert H,",
-            "date": "3 days ago"
+            "title": "So much fun for the family",
+            "text": "<p>Such a fun and unique find! My grandchildren can’t stop drawing with them, and honestly neither can I.</p>",
+            "author": "Sarah M",
+            "date": ""
           }
         },
         "testimonial_LVCbEy": {
@@ -394,56 +394,6 @@
             "author": "Amanda T,",
             "date": "5 days ago"
           }
-        },
-        "testimonial_aebtkh": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "I’m not embarrassed to wear sandals",
-            "text": "<p>My doctor prescribed antifungal pills before, but they upset my stomach. This pen gave me results without side effects. After just a few weeks, my nails are smoother, less brittle, and I’m not embarrassed to wear sandals anymore.</p>",
-            "author": "Lisa P,",
-            "date": "1 week ago"
-          }
-        },
-        "testimonial_Dz9rmb": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "I didn’t expect much",
-            "text": "<p>Honestly, I didn’t expect much because I’ve wasted money on other treatments. The redness and burning disappeared quickly, and my toenails are looking healthier each week. I just ordered a second pack.</p>",
-            "author": "James R,",
-            "date": "1 week ago"
-          }
-        },
-        "testimonial_rnrnCC": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "no more itching, no more cracking",
-            "text": "<p>I work on my feet all day and athlete’s foot kept coming back. Since using this pen, no more itching, no more cracking. It feels soothing right after applying, and the formula actually smells nice compared to other stuff I’ve tried.</p>",
-            "author": "Daniel K,",
-            "date": "2 weeks ago"
-          }
-        },
-        "testimonial_xfLbKt": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "by far the highest-quality",
-            "text": "<p>This is by far the highest-quality antifungal treatment I’ve bought. The packaging, instructions, and product itself feel premium. You can tell it’s been well thought out. It’s simple, portable, and really works.</p>",
-            "author": "Michelle W,",
-            "date": "3 weeks ago"
-          }
-        },
-        "testimonial_pTXiEX": {
-          "type": "testimonial",
-          "settings": {
-            "stars_count": 5,
-            "title": "Gave me the confidence",
-            "text": "<p>It gave me the confidence to finally stop hiding my feet. I recommend it to anyone struggling with toenail fungus or athlete’s foot.</p>",
-            "author": "George S,",
-            "date": "3 weeks ago"
-          }
         }
       },
       "block_order": [
@@ -453,12 +403,7 @@
         "testimonial_y76949",
         "testimonial_pq3X9d",
         "testimonial_bdhTrW",
-        "testimonial_LVCbEy",
-        "testimonial_aebtkh",
-        "testimonial_Dz9rmb",
-        "testimonial_rnrnCC",
-        "testimonial_xfLbKt",
-        "testimonial_pTXiEX"
+        "testimonial_LVCbEy"
       ],
       "name": "SS - Testimonials #38",
       "settings": {
