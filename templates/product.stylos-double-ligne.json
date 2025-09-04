@@ -1,0 +1,911 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_hhwVe3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"eg-rating\" aria-label=\"Product rating\">\n  <div class=\"eg-rating__stars\" aria-hidden=\"true\">\n    {% for i in (1..5) %}\n      <span class=\"eg-star\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\" width=\"16\" height=\"16\" class=\"eg-star__svg\">\n          <path d=\"M7.68323 1.52997C7.71245 1.47094 7.75758 1.42126 7.81353 1.38652C7.86949 1.35178 7.93404 1.33337 7.9999 1.33337C8.06576 1.33337 8.13031 1.35178 8.18626 1.38652C8.24222 1.42126 8.28735 1.47094 8.31656 1.52997L9.85656 4.6493C9.95802 4.85461 10.1078 5.03224 10.293 5.16694C10.4782 5.30164 10.6933 5.38938 10.9199 5.42264L14.3639 5.92664C14.4292 5.93609 14.4905 5.96362 14.5409 6.0061C14.5913 6.04859 14.6289 6.10434 14.6492 6.16704C14.6696 6.22975 14.6721 6.29691 14.6563 6.36093C14.6405 6.42495 14.6071 6.48327 14.5599 6.5293L12.0692 8.95464C11.905 9.1147 11.7821 9.31229 11.7111 9.53039C11.6402 9.74849 11.6233 9.98056 11.6619 10.2066L12.2499 13.6333C12.2614 13.6985 12.2544 13.7657 12.2296 13.8271C12.2048 13.8885 12.1632 13.9417 12.1096 13.9806C12.056 14.0196 11.9926 14.0426 11.9265 14.0472C11.8604 14.0518 11.7944 14.0378 11.7359 14.0066L8.65723 12.388C8.45438 12.2815 8.22868 12.2258 7.99956 12.2258C7.77044 12.2258 7.54475 12.2815 7.3419 12.388L4.2639 14.0066C4.20545 14.0376 4.1395 14.0515 4.07353 14.0468C4.00757 14.0421 3.94424 14.019 3.89076 13.9801C3.83728 13.9412 3.79579 13.8881 3.771 13.8268C3.74622 13.7655 3.73914 13.6984 3.75056 13.6333L4.3379 10.2073C4.3767 9.98112 4.35989 9.7489 4.28892 9.53067C4.21796 9.31243 4.09497 9.11474 3.93056 8.95464L1.4399 6.52997C1.39229 6.48399 1.35856 6.42557 1.34254 6.36135C1.32652 6.29714 1.32886 6.22971 1.34928 6.16676C1.36971 6.10381 1.40741 6.04786 1.45808 6.00529C1.50876 5.96272 1.57037 5.93524 1.6359 5.92597L5.07923 5.42264C5.30607 5.38964 5.52149 5.30201 5.70695 5.16729C5.89242 5.03258 6.04237 4.85482 6.1439 4.6493L7.68323 1.52997Z\"\n                fill=\"#FEDB36\" stroke=\"#2C2609\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n        </svg>\n      </span>\n    {% endfor %}\n  </div>\n\n  <div class=\"eg-rating__text\">\n    <span class=\"eg-rating__score\">Rated 4.8/5 from 402 Reviews</span>\n    <span class=\"eg-rating__dot\"></span>\n    <span class=\"eg-rating__count\"></span>\n  </div>\n</div>\n\n<style>\n  .eg-rating{\n    display:flex; align-items:center; gap:10px;\n    white-space:nowrap; /* force une seule ligne */\n    /* ajuste la largeur si tu veux contraindre le bloc */\n    /* max-width: 100%; */\n  }\n  .eg-rating__stars{ display:flex; gap:3px; }\n  .eg-star{ display:inline-flex; width:16px; height:16px; }\n  .eg-star__svg{ width:16px; height:16px; flex:0 0 16px; }\n\n  .eg-rating__text{ display:flex; align-items:center; gap:8px; line-height:1; }\n  .eg-rating__score{ color:#1d211e; font-size:14px; font-weight:600; }\n  .eg-rating__count{ color:#383633; font-size:14px; font-weight:500; }\n  .eg-rating__dot{ color:#383633; font-size:14px; opacity:.9; }\n\n  /* Desktop léger boost visuel */\n  @media (min-width: 768px){\n    .eg-star, .eg-star__svg{ width:18px; height:18px; }\n    .eg-rating__score, .eg-rating__count, .eg-rating__dot{ font-size:15px; }\n    .eg-rating{ gap:12px; }\n  }\n\n  /* Très petits écrans : on réduit pour rester sur une seule ligne */\n  @media (max-width: 360px){\n    .eg-star, .eg-star__svg{ width:14px; height:14px; }\n    .eg-rating__score, .eg-rating__count, .eg-rating__dot{ font-size:12.5px; }\n    .eg-rating{ gap:8px; }\n  }\n</style>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "liquid_7WBdGn": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-form__label-container\" id=\"SizeChartAppend-template--18507855036582__main-option_1_label_container\">\n          <label class=\"form__label\" for=\"Option-template--18507855036582__main-0\">\n            \n              Flavor:\n              <span id=\"custom-label-template--18507855036582__main-1\">\n                🥭 Peach Mango\n              </span>\n            \n          </label>\n          \n          \n        </div>"
+          }
+        },
+        "liquid_9K3pt4": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<p style=\"font-weight: 600; font-style: italic;\">for healthy vaginal odor & pH*</p>"
+          }
+        },
+        "offer_pGdHxj": {
+          "type": "offer",
+          "disabled": true,
+          "settings": {
+            "text_alignment": "center",
+            "icon_position": "aligned",
+            "icon": "picto-gift",
+            "icon_width": 24,
+            "title": "Shipping",
+            "content": "<p>Short content about your shipping rates or discounts.</p>",
+            "background": "#e6f1f9",
+            "text_color": "#94bac4"
+          }
+        },
+        "liquid_FJ6Aqt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-family: Arial, sans-serif; font-size:14px; color:#000; margin:10px 0;\">\n  <span style=\"font-weight:bold; text-decoration: underline; font-size:inherit; font-family:inherit;\">\n    30 DAYS MONEY-BACK GUARANTEE\n  </span>\n</div>"
+          }
+        },
+        "liquid_FQpVrJ": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Clear, Healthy Nails in Weeks</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Relieves Itching, Burning & Irritation</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Targets Fungus at the Source</span>\n</li>\n<li style=\"display: flex; align-items: center; margin-bottom: 3px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/logo2.png?v=1756026628\" alt=\"Icône coche\" style=\"width: 18px; height: 18px; margin-right: 6px;\">\n  <span style=\"line-height: 1.25; color: #252728;\">Restores Confidence to Show Your Feet</span>\n</li>"
+          }
+        },
+        "liquid_CVrUDX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"font-family: Arial, sans-serif; font-size:15px; color:#252728; line-height:1.8; margin:10px 0;\">\n\n  <ul style=\"list-style:none; padding-left:0; margin:0;\">\n    <li style=\"margin-bottom:6px;\">💨 Quick-dry & machine washable</li>\n    <li style=\"margin-bottom:6px;\">✨ Streak-free & limescale-free shine</li>\n    <li style=\"margin-bottom:6px;\">💧 Absorbs up to 800ml of water</li>\n    <li style=\"margin-bottom:6px;\">☑️ Machine washable</li>\n\n  </ul>\n\n</div>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_wQNJEm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink-dot {\n    display: inline-block;\n    width: 8px;\n    height: 8px;\n    margin-right: 6px;\n    background-color: #28a745; /* vert succès */\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    vertical-align: middle;\n  }\n\n  @keyframes blink {\n    0%, 100% { opacity: 1; }\n    50% { opacity: 0; }\n  }\n\n  .stock-alert {\n    font-size: 12px;\n    color: #28a745; /* vert succès */\n    font-weight: bold;\n    margin-top: 8px;\n    text-align: left;\n  }\n</style>\n\n<p class=\"stock-alert\">\n  <span class=\"blink-dot\"></span>In stock – ready to ship\n</p>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#293046",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_RWM9DH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n            <div class=\"product-payments--container\">\n          <center> <p class=\"product-payments--title\"></p> <center>\n          <div class=\"product-payments\">\n            \n<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" x=\"0\" y=\"0\" width=\"38\" height=\"24\" viewBox=\"0 0 165.521 105.965\" xml:space=\"preserve\" aria-labelledby=\"pi-apple_pay\"><title id=\"pi-apple_pay\">Apple Pay</title><path fill=\"#000\" d=\"M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z\"></path><path fill=\"#FFF\" d=\"M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875\"></path><g><g><path fill=\"#000\" d=\"M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858\"></path><path fill=\"#000\" d=\"M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048\"></path></g><g><path fill=\"#000\" d=\"M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z\"></path><path fill=\"#000\" d=\"M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z\"></path><path fill=\"#000\" d=\"M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z\"></path></g></g></svg>\n<svg xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" viewBox=\"0 0 38 24\" width=\"38\" height=\"24\" aria-labelledby=\"pi-google_pay\"><title id=\"pi-google_pay\">Google Pay</title><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#000\" opacity=\".07\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFF\"></path><path d=\"M18.093 11.976v3.2h-1.018v-7.9h2.691a2.447 2.447 0 0 1 1.747.692 2.28 2.28 0 0 1 .11 3.224l-.11.116c-.47.447-1.098.69-1.747.674l-1.673-.006zm0-3.732v2.788h1.698c.377.012.741-.135 1.005-.404a1.391 1.391 0 0 0-1.005-2.354l-1.698-.03zm6.484 1.348c.65-.03 1.286.188 1.778.613.445.43.682 1.03.65 1.649v3.334h-.969v-.766h-.049a1.93 1.93 0 0 1-1.673.931 2.17 2.17 0 0 1-1.496-.533 1.667 1.667 0 0 1-.613-1.324 1.606 1.606 0 0 1 .613-1.336 2.746 2.746 0 0 1 1.698-.515c.517-.02 1.03.093 1.49.331v-.208a1.134 1.134 0 0 0-.417-.901 1.416 1.416 0 0 0-.98-.368 1.545 1.545 0 0 0-1.319.717l-.895-.564a2.488 2.488 0 0 1 2.182-1.06zM23.29 13.52a.79.79 0 0 0 .337.662c.223.176.5.269.785.263.429-.001.84-.17 1.146-.472.305-.286.478-.685.478-1.103a2.047 2.047 0 0 0-1.324-.374 1.716 1.716 0 0 0-1.03.294.883.883 0 0 0-.392.73zm9.286-3.75l-3.39 7.79h-1.048l1.281-2.728-2.224-5.062h1.103l1.612 3.885 1.569-3.885h1.097z\" fill=\"#5F6368\"></path><path d=\"M13.986 11.284c0-.308-.024-.616-.073-.92h-4.29v1.747h2.451a2.096 2.096 0 0 1-.9 1.373v1.134h1.464a4.433 4.433 0 0 0 1.348-3.334z\" fill=\"#4285F4\"></path><path d=\"M9.629 15.721a4.352 4.352 0 0 0 3.01-1.097l-1.466-1.14a2.752 2.752 0 0 1-4.094-1.44H5.577v1.17a4.53 4.53 0 0 0 4.052 2.507z\" fill=\"#34A853\"></path><path d=\"M7.079 12.05a2.709 2.709 0 0 1 0-1.735v-1.17H5.577a4.505 4.505 0 0 0 0 4.075l1.502-1.17z\" fill=\"#FBBC04\"></path><path d=\"M9.629 8.44a2.452 2.452 0 0 1 1.74.68l1.3-1.293a4.37 4.37 0 0 0-3.065-1.183 4.53 4.53 0 0 0-4.027 2.5l1.502 1.171a2.715 2.715 0 0 1 2.55-1.875z\" fill=\"#EA4335\"></path></svg>\n<svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-maestro\"><title id=\"pi-maestro\">Maestro</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#00A2E5\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#7375CF\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-master\"><title id=\"pi-master\">Mastercard</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><circle fill=\"#EB001B\" cx=\"15\" cy=\"12\" r=\"7\"></circle><circle fill=\"#F79E1B\" cx=\"23\" cy=\"12\" r=\"7\"></circle><path fill=\"#FF5F00\" d=\"M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" width=\"38\" height=\"24\" aria-labelledby=\"pi-visa\"><title id=\"pi-visa\">Visa</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path d=\"M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z\" fill=\"#142688\"></path></svg><svg viewBox=\"0 0 38 24\" xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"24\" role=\"img\" aria-labelledby=\"pi-paypal\"><title id=\"pi-paypal\">PayPal</title><path opacity=\".07\" d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\"></path><path fill=\"#fff\" d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\"></path><path fill=\"#003087\" d=\"M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z\"></path><path fill=\"#3086C8\" d=\"M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z\"></path><path fill=\"#012169\" d=\"M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z\"><path fill=\"#005B9A\" d=\"M-36 46.8v.7-.7zM-18.3 25v24h-7.2c-1.3 0-2.1-1-1.8-2.3l4.4-19.4c.3-1.3 1.9-2.3 3.2-2.3h1.4zm12.6 0c-1.3 0-2.9 1-3.2 2.3l-4.5 19.4c-.3 1.3.5 2.3 1.8 2.3h-4.9V25h10.8z\"></path><path fill=\"#E9292D\" d=\"M-19.7 25c-1.3 0-2.9 1.1-3.2 2.3l-4.4 19.4c-.3 1.3.5 2.3 1.8 2.3h-8.9c-.8 0-1.5-.6-1.5-1.4v-21c0-.8.7-1.6 1.5-1.6h14.7z\"></path><path fill=\"#0E73B9\" d=\"M-5.7 25c-1.3 0-2.9 1.1-3.2 2.3l-4.4 19.4c-.3 1.3.5 2.3 1.8 2.3H-26h.5c-1.3 0-2.1-1-1.8-2.3l4.4-19.4c.3-1.3 1.9-2.3 3.2-2.3h14z\"></path><path fill=\"#059DA4\" d=\"M2 26.6v21c0 .8-.6 1.4-1.5 1.4h-12.1c-1.3 0-2.1-1.1-1.8-2.3l4.5-19.4C-8.6 26-7 25-5.7 25H.5c.9 0 1.5.7 1.5 1.6z\"></path><path fill=\"#fff\" d=\"M-21.122 38.645h.14c.14 0 .28-.07.28-.14l.42-.63h1.19l-.21.35h1.4l-.21.63h-1.68c-.21.28-.42.42-.7.42h-.84l.21-.63m-.21.91h3.01l-.21.7h-1.19l-.21.7h1.19l-.21.7h-1.19l-.28 1.05c-.07.14 0 .28.28.21h.98l-.21.7h-1.89c-.35 0-.49-.21-.35-.63l.35-1.33h-.77l.21-.7h.77l.21-.7h-.7l.21-.7zm4.83-1.75v.42s.56-.42 1.12-.42h1.96l-.77 2.66c-.07.28-.35.49-.77.49h-2.24l-.49 1.89c0 .07 0 .14.14.14h.42l-.14.56h-1.12c-.42 0-.56-.14-.49-.35l1.47-5.39h.91zm1.68.77h-1.75l-.21.7s.28-.21.77-.21h1.05l.14-.49zm-.63 1.68c.14 0 .21 0 .21-.14l.14-.35h-1.75l-.14.56 1.54-.07zm-1.19.84h.98v.42h.28c.14 0 .21-.07.21-.14l.07-.28h.84l-.14.49c-.07.35-.35.49-.77.56h-.56v.77c0 .14.07.21.35.21h.49l-.14.56h-1.19c-.35 0-.49-.14-.49-.49l.07-2.1zm4.2-2.45l.21-.84h1.19l-.07.28s.56-.28 1.05-.28h1.47l-.21.84h-.21l-1.12 3.85h.21l-.21.77h-.21l-.07.35h-1.19l.07-.35h-2.17l.21-.77h.21l1.12-3.85h-.28m1.26 0l-.28 1.05s.49-.21.91-.28c.07-.35.21-.77.21-.77h-.84zm-.49 1.54l-.28 1.12s.56-.28.98-.28c.14-.42.21-.77.21-.77l-.91-.07zm.21 2.31l.21-.77h-.84l-.21.77h.84zm2.87-4.69h1.12l.07.42c0 .07.07.14.21.14h.21l-.21.7h-.77c-.28 0-.49-.07-.49-.35l-.14-.91zm-.35 1.47h3.57l-.21.77h-1.19l-.21.7h1.12l-.21.77h-1.26l-.28.42h.63l.14.84c0 .07.07.14.21.14h.21l-.21.7h-.7c-.35 0-.56-.07-.56-.35l-.14-.77-.56.84c-.14.21-.35.35-.63.35h-1.05l.21-.7h.35c.14 0 .21-.07.35-.21l.84-1.26h-1.05l.21-.77h1.19l.21-.7h-1.19l.21-.77zm-19.74-5.04c-.14.7-.42 1.19-.91 1.54-.49.35-1.12.56-1.89.56-.7 0-1.26-.21-1.54-.56-.21-.28-.35-.56-.35-.98 0-.14 0-.35.07-.56l.84-3.92h1.19l-.77 3.92v.28c0 .21.07.35.14.49.14.21.35.28.7.28s.7-.07.91-.28c.21-.21.42-.42.49-.77l.77-3.92h1.19l-.84 3.92m1.12-1.54h.84l-.07.49.14-.14c.28-.28.63-.42 1.05-.42.35 0 .63.14.77.35.14.21.21.49.14.91l-.49 2.38h-.91l.42-2.17c.07-.28.07-.49 0-.56-.07-.14-.21-.14-.35-.14-.21 0-.42.07-.56.21-.14.14-.28.35-.28.63l-.42 2.03h-.91l.63-3.57m9.8 0h.84l-.07.49.14-.14c.28-.28.63-.42 1.05-.42.35 0 .63.14.77.35s.21.49.14.91l-.49 2.38h-.91l.42-2.24c.07-.21 0-.42-.07-.49-.07-.14-.21-.14-.35-.14-.21 0-.42.07-.56.21-.14.14-.28.35-.28.63l-.42 2.03h-.91l.7-3.57m-5.81 0h.98l-.77 3.5h-.98l.77-3.5m.35-1.33h.98l-.21.84h-.98l.21-.84zm1.4 4.55c-.21-.21-.35-.56-.35-.98v-.21c0-.07 0-.21.07-.28.14-.56.35-1.05.7-1.33.35-.35.84-.49 1.33-.49.42 0 .77.14 1.05.35.21.21.35.56.35.98v.21c0 .07 0 .21-.07.28-.14.56-.35.98-.7 1.33-.35.35-.84.49-1.33.49-.35 0-.7-.14-1.05-.35m1.89-.7c.14-.21.28-.49.35-.84v-.35c0-.21-.07-.35-.14-.49a.635.635 0 0 0-.49-.21c-.28 0-.49.07-.63.28-.14.21-.28.49-.35.84v.28c0 .21.07.35.14.49.14.14.28.21.49.21.28.07.42 0 .63-.21m6.51-4.69h2.52c.49 0 .84.14 1.12.35.28.21.35.56.35.91v.28c0 .07 0 .21-.07.28-.07.49-.35.98-.7 1.26-.42.35-.84.49-1.4.49h-1.4l-.42 2.03h-1.19l1.19-5.6m.56 2.59h1.12c.28 0 .49-.07.7-.21.14-.14.28-.35.35-.63v-.28c0-.21-.07-.35-.21-.42-.14-.07-.35-.14-.7-.14h-.91l-.35 1.68zm8.68 3.71c-.35.77-.7 1.26-.91 1.47-.21.21-.63.7-1.61.7l.07-.63c.84-.28 1.26-1.4 1.54-1.96l-.28-3.78h1.19l.07 2.38.91-2.31h1.05l-2.03 4.13m-2.94-3.85l-.42.28c-.42-.35-.84-.56-1.54-.21-.98.49-1.89 4.13.91 2.94l.14.21h1.12l.7-3.29-.91.07m-.56 1.82c-.21.56-.56.84-.91.77-.28-.14-.35-.63-.21-1.19.21-.56.56-.84.91-.77.28.14.35.63.21 1.19\"></path> height=\"24\" viewBox=\"0 0 38 24\" aria-labelledby=\"pi-klarna\"&gt;<title id=\"pi-klarna\">Klarna</title><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z\" fill=\"#FFB3C7\"></path><path d=\"M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32\" fill=\"#FFB3C7\"></path><path d=\"M34.117 13.184c-.487 0-.882.4-.882.892 0 .493.395.893.882.893.488 0 .883-.4.883-.893a.888.888 0 00-.883-.892zm-2.903-.69c0-.676-.57-1.223-1.274-1.223-.704 0-1.274.547-1.274 1.222 0 .675.57 1.223 1.274 1.223.704 0 1.274-.548 1.274-1.223zm.005-2.376h1.406v4.75h-1.406v-.303a2.446 2.446 0 01-1.394.435c-1.369 0-2.478-1.122-2.478-2.507 0-1.384 1.11-2.506 2.478-2.506.517 0 .996.16 1.394.435v-.304zm-11.253.619v-.619h-1.44v4.75h1.443v-2.217c0-.749.802-1.15 1.359-1.15h.016v-1.382c-.57 0-1.096.247-1.378.618zm-3.586 1.756c0-.675-.57-1.222-1.274-1.222-.703 0-1.274.547-1.274 1.222 0 .675.57 1.223 1.274 1.223.704 0 1.274-.548 1.274-1.223zm.005-2.375h1.406v4.75h-1.406v-.303A2.446 2.446 0 0114.99 15c-1.368 0-2.478-1.122-2.478-2.507 0-1.384 1.11-2.506 2.478-2.506.517 0 .997.16 1.394.435v-.304zm8.463-.128c-.561 0-1.093.177-1.448.663v-.535H22v4.75h1.417v-2.496c0-.722.479-1.076 1.055-1.076.618 0 .973.374.973 1.066v2.507h1.405v-3.021c0-1.106-.87-1.858-2.002-1.858zM10.465 14.87h1.472V8h-1.472v6.868zM4 14.87h1.558V8H4v6.87zM9.45 8a5.497 5.497 0 01-1.593 3.9l2.154 2.97H8.086l-2.341-3.228.604-.458A3.96 3.96 0 007.926 8H9.45z\" fill=\"#0A0B09\" fill-rule=\"nonzero\"></path></g></path></svg></div>\n       </center></center></div>\n          </div>"
+          }
+        },
+        "liquid_Pnm9Db": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"better-sleep-container\">\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span>30-DAY MONEY-BACK GUARANTEE</span>\n  </div>\n  <div class=\"better-sleep\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0924/0848/0091/files/7823496.webp?v=1740324757\" alt=\"Guarantee icon\" width=\"10\" height=\"10\">\n    <span id=\"delivery-dates\">DELIVERY BETWEEN <span id=\"date1\" class=\"underline\"></span> AND <span id=\"date2\" class=\"underline\"></span></span>\n  </div>\n</div>\n\n<style>\n  .better-sleep-container {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    max-width: 100%;\n    margin-top: -18px;\n    padding-top: 15px; /* ESPACEMENT AJOUTÉ ICI */\n  }\n\n  .better-sleep {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    text-align: center;\n    padding: 7px 0;\n    width: 100%;\n  }\n\n  .better-sleep img {\n    flex-shrink: 0;\n    margin-right: 5px;\n    width: 15px;\n    height: 15px;\n  }\n\n  .better-sleep span {\n    font-size: 14px;\n    line-height: 1.1;\n  }\n\n  .underline {\n    text-decoration: underline;\n  }\n\n  @media screen and (max-width: 385px) {\n    .better-sleep span {\n      font-size: 12px;\n    }\n  }\n</style>\n\n<script>\n  function formatDate(date) {\n    const options = { day: 'numeric', month: 'long' };\n    return date.toLocaleDateString('en-CA', options).toUpperCase();\n  }\n\n  function updateDates() {\n    const today = new Date();\n    const date1 = new Date(today.getTime() + 4 * 24 * 60 * 60 * 1000);\n    const date2 = new Date(today.getTime() + 9 * 24 * 60 * 60 * 1000);\n\n    document.getElementById('date1').textContent = formatDate(date1);\n    document.getElementById('date2').textContent = formatDate(date2);\n  }\n\n  updateDates();\n  setInterval(updateDates, 24 * 60 * 60 * 1000);\n</script>"
+          }
+        },
+        "liquid_qaqar9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id='ss-countdown-timer-2'>"
+          }
+        },
+        "liquid_QbND4Y": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!-- DOCTOR TESTIMONIAL — MOBILE-FIRST -->\n<style>\n  .eg-doc-card{--eg-yellow:#becaeb;--eg-ink:#2C2609;--eg-gray:#6b6b6b;--eg-border:#2C2609;--eg-bg:#fff}\n  .eg-doc-card{border:1.5px solid var(--eg-border);border-radius:15px;background:var(--eg-bg);padding:10px 10px 10px;max-width:720px;margin:12px auto}\n  .eg-doc-grid{display:grid;grid-template-columns:1fr 128px;gap:10px;align-items:center}\n  /* Heading */\n  .eg-doc-h{display:flex;align-items:center;gap:8px;margin:0 0 8px 0}\n  .eg-doc-h span{font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--eg-ink);font-size:14px;line-height:1}\n  .eg-doc-h svg{width:18px;height:18px;flex:0 0 18px}\n  /* Quote */\n  .eg-doc-q{font-size:12.5px;line-height:1.1;color:var(--eg-ink);margin:0 0 10px 0}\n  /* Author line + pill */\n  .eg-doc-author{display:flex;flex-wrap:wrap;align-items:center;gap:6px}\n  .eg-doc-name{background:var(--eg-yellow);border:1.2px solid var(--eg-border);color:var(--eg-ink);font-weight:600;border-radius:6px;padding:1px 8px;font-size:12.5px;line-height:1}\n  .eg-doc-title{color:var(--eg-gray);font-size:11px;line-height:1.1}\n  /* Image */\n  .eg-doc-imgwrap{position:relative}\n  .eg-doc-img{display:block;width:100%;height:auto;max-width:128px}\n  /* Tighten on very small screens */\n  @media (max-width:360px){\n    .eg-doc-grid{grid-template-columns:1fr 110px}\n    .eg-doc-q{font-size:13px}\n    .eg-doc-name{font-size:12px;padding:5px 9px}\n  }\n  /* Tablet+ (si tu l’utilises ailleurs) */\n  @media (min-width:680px){\n    .eg-doc-card{padding:16px 18px}\n    .eg-doc-grid{grid-template-columns:1fr 160px;gap:14px}\n    .eg-doc-img{max-width:160px}\n  }\n</style>\n\n<div class=\"eg-doc-card\" id=\"doctor-approval\">\n  <div class=\"eg-doc-grid\">\n    <!-- Colonne gauche : contenu -->\n    <div>\n      <h4 class=\"eg-doc-h\">\n        <span>Doctor Approved</span>\n        <!-- badge jaune (et pas noir) -->\n        <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\">\n          <g clip-path=\"url(#egclip)\">\n            <path d=\"M9.5 1a.9.9 0 0 1 1 0l1.1 1.14c.18.19.46.27.72.2l1.58-.45c.44-.12.88.17.99.62l.41 1.66c.06.26.26.45.52.51l1.66.41c.45.11.73.55.62.99l-.45 1.58c-.07.26.01.55.2.72L18.9 9.9a.9.9 0 0 1 0 1.2l-1.14 1.1a.78.78 0 0 0-.2.72l.45 1.58c.11.44-.17.88-.62.99l-1.66.41a.62.62 0 0 0-.52.51l-.41 1.66a.77.77 0 0 1-.99.62l-1.58-.45a.78.78 0 0 0-.72.2L10.5 19a.9.9 0 0 1-1 0l-1.1-1.14a.78.78 0 0 0-.72-.2l-1.58.45a.77.77 0 0 1-.99-.62l-.41-1.66a.62.62 0 0 0-.51-.51l-1.66-.41a.77.77 0 0 1-.62-.99l.45-1.58c.07-.26-.01-.55-.2-.72L1 11.1a.9.9 0 0 1 0-1.2l1.14-1.1c.19-.18.27-.46.2-.72L2 6.5a.77.77 0 0 1 .62-.99l1.66-.41c.26-.06.45-.26.51-.51l.41-1.66c.11-.45.55-.74.99-.62l1.58.45c.26.07.55-.01.72-.2L9.5 1Z\" fill=\"#FEDB36\" stroke=\"#2C2609\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            <path d=\"M13.7 7.4l-4.5 5.6-2.1-1.6\" stroke=\"#2C2609\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </g>\n          <defs><clipPath id=\"egclip\"><rect width=\"20\" height=\"20\"/></clipPath></defs>\n        </svg>\n      </h4>\n\n      <p class=\"eg-doc-q\">“Most chemical exfoliants damage the skin barrier. I recommend Rice Peel Shot. It gently dissolves dead skin, blackheads, and hyperpigmentation while restoring your skin’s glow. Gentle enough for sensitive skin, yet powerful enough to leave pores refined and skin radiant in just minutes.”</p>\n\n      <div class=\"eg-doc-author\">\n        <span class=\"eg-doc-name\">Dr. Melaxin</span>\n        <span class=\"eg-doc-title\">Dermatologist &amp; Endocrinology Assistant</span>\n      </div>\n    </div>\n\n    <!-- Colonne droite : image -->\n    <div class=\"eg-doc-imgwrap\">\n      <!-- Desktop et Mobile utilisent la même balise, width contrôlé par CSS -->\n      <img\n        class=\"eg-doc-img\"\n        src=\"//evilgoods.com/cdn/shop/files/Dermatologist_Mobile.png?v=1748856294&width=400\"\n        srcset=\"//evilgoods.com/cdn/shop/files/Dermatologist_Mobile.png?v=1748856294&width=320 320w, //evilgoods.com/cdn/shop/files/Dermatologist_Desktop.png?v=1748854030&width=400 400w\"\n        sizes=\"(max-width:680px) 128px, 160px\"\n        alt=\"Dr. Elena Dinkollari\">\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_Gb3mF3": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"margin-top: 10px;\">\n<img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/Capture_d_ecran_2025-05-21_a_18.23.13.png?v=1747844636\" style=\"width: 100%; margin-bottom: 15px;\">\n</div>\n<div id='ss-product-videos2'>\n</div>"
+          }
+        },
+        "liquid_AWp3dg": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: flex-start; gap: 18px; padding: 12px 0; font-family: sans-serif;\">\n  <!-- Image Docteur -->\n  <div style=\"flex: 0 0 auto;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/docteur_derm.png?v=1754207103\" alt=\"Dr. Sanober Doctor\" style=\"width: 120px; height: auto; border-radius: 4px;\">\n  </div>\n\n  <!-- Bloc texte -->\n  <div style=\"flex: 1; font-size: 15px; color: #252728; line-height: 1.6;\">\n    <p style=\"margin: 0;\">\n      \"I strongly recommend getting a full 2-month supply of The Complete System for Mature Skin for best results. Studies show it takes 60 days of daily use to heal the skin barrier and see visible results.\"\n    </p>\n    <p style=\"margin: 8px 0 0 0; font-style: italic;\">\n      Dr. Sanober Doctor, MD\n    </p>\n    <p style=\"margin: 0; font-weight: 600; text-transform: uppercase;\">\n      Anti-Age Expert – Double US Board Certified Dermatologist\n    </p>\n  </div>\n</div>"
+          }
+        },
+        "liquid_tJpDht": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"livraison\">\n  <div style=\"display: flex; align-items: flex-start;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0803/5310/0121/files/Design_sans_titre_61.png?v=1711456507\" alt=\"Livraison à domicile\" style=\"width: 24px; height: 24px; margin-right: 10px; margin-top: -2px;\">\n    <div style=\"line-height: 24px;\">\n      <p style=\"color: #323C41; font-weight: bold; margin: 0;\">Livraison à domicile : <span style=\"color: #3CB371;\">Gratuit</span></p>\n      <p style=\"color: #3CB371; font-weight: bold; margin: 0; margin-top: 2px;\">Transport via La Poste</p>\n      <p style=\"color: #6E767A; font-size: 0.9em; margin: 0; margin-top: 2px;\">Livré chez vous en 4 à 9 jours ouvrés.</p>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_f9mADK": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div id=\"shopify-block-ANTc1Yjk4V29PMFprK__smart_stories_smart_stories_XWPQHj\" class=\"shopify-block shopify-app-block\"><style>\n  #moneyFormat{\n    display:none;\n  }\n  #PageContainer{\n    -webkit-transform: none;\n  }\n  smart-stories,\n  smart-story,\n  smart-story-media {\n  font-family: \"Arial\", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  }\n</style>\n\n\n  \n  <script type=\"module\" src=\"https://d1mqdk3pxfmmxi.cloudfront.net/CJBqV4q84f6sAWXD.js\" async=\"\"></script>\n  <smart-stories secret=\"CJBqV4q84f6sAWXD\" preview-secret=\"0frANRkNxOaeCTS2\" custom_settings=\"{ \n    \n    &quot;&quot;: &quot;&quot;\n    }\n\"></smart-stories>\n\n<div class=\"stories-product-recommendations\" data-url=\"/recommendations/products.json?product_id=9822433444186&amp;limit=10\">\n  <span id=\"moneyFormat\">12,34€</span>\n</div>\n<script>\n//recommended\nvar productRecommendationsSection = document.querySelector('.stories-product-recommendations');\nasync function getrecommended(){\n  const url = productRecommendationsSection.dataset.url;\n  let json = await fetch(url)\n    .then(response => response.json())\nreturn json.products\n}\n  //get collection products\nasync function getcollection(collection_handle){\n    const url = \"/collections/\"+collection_handle+\"/products.json\";\n  let json = await fetch(url)\n    .then(response => response.json())\nreturn json.products;\n\n}\n\n  //get collection products\nasync function getNewestProducts(){\n  const url = `/products.json?limit=10`;\n  let json = await fetch(url)\n    .then(response => response.json())\nreturn json.products;\n}\n\n\nfunction getShopifyJson(content) {\n    if (content == \"newest\") {\n        return getNewestProducts();\n    } else if (content == \"recom\") {\n        return getrecommended();\n    } else {\n        return getcollection(content);\n    }\n}\n\n\nfunction getCookieSmartStories(cname) {\n  let name = cname + \"=\";\n  let decodedCookie = decodeURIComponent(document.cookie);\n  let ca = decodedCookie.split(';');\n  for(let i = 0; i <ca.length; i++) {\n    let c = ca[i];\n    while (c.charAt(0) == ' ') {\n      c = c.substring(1);\n    }\n    if (c.indexOf(name) == 0) {\n      return c.substring(name.length, c.length);\n    }\n  }\n  return \"\";\n}\n\nfunction setCookieSmartStories(cname, cvalue, exdays) {\n  const d = new Date();\n  d.setTime(d.getTime() + (exdays*24*60*60*1000));\n  let expires = \"expires=\"+ d.toUTCString();\n  document.cookie = cname + \"=\" + cvalue + \";\" + expires + \";path=/\";\n}\n\nfunction incrementCookieSmartStories(preview_secret, variant_id){\n  var views_array = {};\n  var smart_stories_cookie_object = {};\n  if(document.cookie.indexOf('smart_stories_view') == -1){\n     //Cookie not created\n    var smart_stories_cookie_object = {};\n    smart_stories_cookie_object[\"number_of_times_viewed\"] = 1;\n    smart_stories_cookie_object[\"variant_id\"] = variant_id;\n    views_array[preview_secret] = [smart_stories_cookie_object];\n    setCookieSmartStories('smart_stories_view', JSON.stringify(views_array), 1);\n  }else{  \n    //Cookie is already created\n    var views_array_cookie = getCookieSmartStories('smart_stories_view');\n    views_array = JSON.parse(views_array_cookie)\n    \n    if(views_array[preview_secret] == undefined){\n      //the preview secret is not in the array\n      smart_stories_cookie_object[\"number_of_times_viewed\"] = 1;\n      smart_stories_cookie_object[\"variant_id\"] = variant_id;\n      views_array[preview_secret] = [smart_stories_cookie_object];\n    }\n    else{\n      var current_preview_secret_array = views_array[preview_secret];\n      if(current_preview_secret_array.filter(e => e.variant_id === variant_id).length > 0){\n        //here preview secret and the variant is in the array\n        var variant_position = current_preview_secret_array.findIndex(e => e.variant_id === variant_id);\n        current_preview_secret_array[variant_position][\"number_of_times_viewed\"] = current_preview_secret_array[variant_position][\"number_of_times_viewed\"] + 1\n      }else{\n        //here the preview secret is in the array but not the variant id\n        smart_stories_cookie_object[\"number_of_times_viewed\"] = 1;\n        smart_stories_cookie_object[\"variant_id\"] = variant_id;\n        views_array[preview_secret].push(smart_stories_cookie_object);\n      }\n    }\n    setCookieSmartStories('smart_stories_view', JSON.stringify(views_array), 1);\n  }\n}\n</script>\n\n</div>"
+          }
+        },
+        "liquid_hnaFAw": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"livraison\">\n  <div style=\"display: flex; align-items: flex-start;\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0803/5310/0121/files/Design_sans_titre_64.png?v=1711458638\" alt=\"30 jours pour changer d'avis\" style=\"width: 24px; height: 24px; margin-right: 10px; margin-top: 2px;\">\n    <div style=\"line-height: 24px;\">\n      <p style=\"color: #323C41; font-weight: bold; margin: 0; margin-top: 5px;\">30 jours pour changer d'avis</p>\n      <p style=\"color: #3CB371; font-weight: bold; margin: 0; margin-top: 2px;\">100% Satisfait ou Remboursé</p>\n      <p style=\"color: #6E767A; font-size: 0.9em; margin: 0; margin-top: 2px; margin-bottom: 8px;\">Retours faciles et guidés</p>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "liquid_yLDXD8": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"benefits-container\">\n    <!-- Satisfait ou remboursé -->\n    <div class=\"benefit-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0871/9253/5371/files/refund.webp?v=1726343342\" alt=\"Satisfait ou remboursé\">\n        <span>Satisfait ou remboursé</span>\n    </div>\n\n    <!-- Paiement sécurisé -->\n    <div class=\"benefit-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0871/9253/5371/files/warranty.webp?v=1726343363\" alt=\"Garantie 2 ans\">\n        <span>Paiement sécurisé</span>\n    </div>\n\n    <!-- Livraison gratuite -->\n    <div class=\"benefit-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0871/9253/5371/files/shipped_47c78a05-d107-4a58-b1a7-2125aa8978da.webp?v=1726343368\" alt=\"Livraison gratuite\">\n        <span>Livraison gratuite</span>\n    </div>\n\n    <!-- Retours faciles -->\n    <div class=\"benefit-item\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0871/9253/5371/files/return-box.webp?v=1726343371\" alt=\"Retours faciles\">\n        <span>Retours faciles</span>\n    </div>\n</div>"
+          }
+        },
+        "collapsible_text_CCz8J8": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Product Details",
+            "content": "<p>Yes. Our antifungal pen contains 25% Undecylenic Acid, a clinically proven ingredient to fight fungus effectively.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_hEkknm": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping",
+            "content": "<ul><li>Free shipping</li><li>Ships within 24–48 hours</li><li>Delivered in 5 to 9 business days</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_4dkd3V": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "30-Day Guarantee",
+            "content": "<ul><li>30-day satisfaction guarantee</li><li>Easy returns and exchanges during the guarantee period</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_text_TMJMhq": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "Is it easy to apply?",
+            "content": "<p>Absolutely. The precision brush makes application clean, simple, and mess-free — even between toes.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_MnetTi": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "How is this different from other creams or oils?",
+            "content": "<p>Unlike basic creams, our pen penetrates deeply and combines Undecylenic Acid with natural oils (tea tree, manuka, aloe) for faster, targeted results.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_LcAHrK": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "What about shipping and guarantee?",
+            "content": "<p>Shipping takes 4–9 business days, and you’re protected by our <strong>90-day money-back guarantee</strong>.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_hhwVe3",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "liquid_7WBdGn",
+        "liquid_9K3pt4",
+        "offer_pGdHxj",
+        "liquid_FJ6Aqt",
+        "liquid_FQpVrJ",
+        "liquid_CVrUDX",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "liquid_wQNJEm",
+        "buy_buttons",
+        "liquid_RWM9DH",
+        "liquid_Pnm9Db",
+        "liquid_qaqar9",
+        "liquid_QbND4Y",
+        "liquid_Gb3mF3",
+        "liquid_AWp3dg",
+        "liquid_tJpDht",
+        "liquid_f9mADK",
+        "liquid_hnaFAw",
+        "liquid_yLDXD8",
+        "collapsible_text_CCz8J8",
+        "collapsible_text_hEkknm",
+        "collapsible_text_4dkd3V",
+        "collapsible_text_TMJMhq",
+        "collapsible_text_MnetTi",
+        "collapsible_text_LcAHrK"
+      ],
+      "custom_css": [
+        ".product-info__liquid {margin-top: 0px !important; /* Réduit l’espace au-dessus */ margin-bottom: 0px !important; /* Réduit l’espace en dessous */}",
+        ".section-blends {padding-top: 0px; /* Ajustez selon vos besoins */ padding-bottom: 30px; /* Ajustez selon vos besoins */}"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "ss_testimonials_38_fQPGCk": {
+      "type": "ss-testimonials-38",
+      "blocks": {
+        "heading_pxWMyf": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<h2>Testimonials #38</h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 24,
+            "heading_size_mobile": 24,
+            "heading_height": 130,
+            "heading_color": "#121212"
+          }
+        },
+        "rating_G8r8Kn": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "rating_text": "<p>Based on 3,250 reviews</p>",
+            "rating_custom": false,
+            "rating_font": "josefin_sans_n4",
+            "rating_size": 13,
+            "rating_size_mobile": 13,
+            "rating_height": 150,
+            "rating_mt": 10,
+            "rating_mt_mobile": 10,
+            "stars_count": 4.5,
+            "stars_size": 28,
+            "stars_size_mobile": 28,
+            "rating_color": "#121212",
+            "stars_color": "#ffffff",
+            "stars_bg_color": "#00b67a",
+            "stars_bg_half_color": "#dddddd"
+          }
+        },
+        "testimonial_UEmJtP": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Super easy to use",
+            "text": "<p>This antifungal pen is super easy to use and mess-free thanks to the twist-up applicator. The formula feels gentle but effective. The mix of tea tree oil, aloe, and vitamin E is a nice touch too. Definitely recommend!</p>",
+            "author": "Lyndzi W,",
+            "date": "1 day ago"
+          }
+        },
+        "testimonial_y76949": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Great result",
+            "text": "<p>After 2nd day I started seeing the results, a great result, I have tried many stuff but nothing works. I was under my Doctor following for 8 month medicine but nothing works. This item is my savior, I have just order a 2nd pack. Thank you 😊</p>",
+            "author": "Sarah J,",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_pq3X9d": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "I’ve tried every cream and spray",
+            "text": "<p>I was skeptical because I’ve tried every cream and spray on the market, but this pen actually works. Within a couple of weeks, my toenails looked clearer and the itching between my toes was gone. Super easy to apply and dries fast no mess at all.</p>",
+            "author": "Karen M,",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_bdhTrW": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "yellow toenails for years",
+            "text": "<p>I’ve been dealing with thick, yellow toenails for years and nothing changed. After using this pen daily, I can finally see healthy growth coming back. It feels like my nails are slowly being restored.</p>",
+            "author": "Robert H,",
+            "date": "3 days ago"
+          }
+        },
+        "testimonial_LVCbEy": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "The applicator is genius",
+            "text": "<p>The applicator is genius — the brush tip makes it so easy to get right under the nail and between toes. No more messy creams. I keep one pen in my bathroom and one in my gym bag. Perfect for daily use.</p>",
+            "author": "Amanda T,",
+            "date": "5 days ago"
+          }
+        },
+        "testimonial_aebtkh": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "I’m not embarrassed to wear sandals",
+            "text": "<p>My doctor prescribed antifungal pills before, but they upset my stomach. This pen gave me results without side effects. After just a few weeks, my nails are smoother, less brittle, and I’m not embarrassed to wear sandals anymore.</p>",
+            "author": "Lisa P,",
+            "date": "1 week ago"
+          }
+        },
+        "testimonial_Dz9rmb": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "I didn’t expect much",
+            "text": "<p>Honestly, I didn’t expect much because I’ve wasted money on other treatments. The redness and burning disappeared quickly, and my toenails are looking healthier each week. I just ordered a second pack.</p>",
+            "author": "James R,",
+            "date": "1 week ago"
+          }
+        },
+        "testimonial_rnrnCC": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "no more itching, no more cracking",
+            "text": "<p>I work on my feet all day and athlete’s foot kept coming back. Since using this pen, no more itching, no more cracking. It feels soothing right after applying, and the formula actually smells nice compared to other stuff I’ve tried.</p>",
+            "author": "Daniel K,",
+            "date": "2 weeks ago"
+          }
+        },
+        "testimonial_xfLbKt": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "by far the highest-quality",
+            "text": "<p>This is by far the highest-quality antifungal treatment I’ve bought. The packaging, instructions, and product itself feel premium. You can tell it’s been well thought out. It’s simple, portable, and really works.</p>",
+            "author": "Michelle W,",
+            "date": "3 weeks ago"
+          }
+        },
+        "testimonial_pTXiEX": {
+          "type": "testimonial",
+          "settings": {
+            "stars_count": 5,
+            "title": "Gave me the confidence",
+            "text": "<p>It gave me the confidence to finally stop hiding my feet. I recommend it to anyone struggling with toenail fungus or athlete’s foot.</p>",
+            "author": "George S,",
+            "date": "3 weeks ago"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pxWMyf",
+        "rating_G8r8Kn",
+        "testimonial_UEmJtP",
+        "testimonial_y76949",
+        "testimonial_pq3X9d",
+        "testimonial_bdhTrW",
+        "testimonial_LVCbEy",
+        "testimonial_aebtkh",
+        "testimonial_Dz9rmb",
+        "testimonial_rnrnCC",
+        "testimonial_xfLbKt",
+        "testimonial_pTXiEX"
+      ],
+      "name": "SS - Testimonials #38",
+      "settings": {
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "content_vertical_align": "center",
+        "slider_view": 3,
+        "slider_view_mobile": 1,
+        "slider_gap": 12,
+        "slider_gap_mobile": 16,
+        "slide_padding_horizontal": 16,
+        "slide_padding_horizontal_mobile": 16,
+        "slide_padding_vertical": 16,
+        "slide_padding_vertical_mobile": 0,
+        "slide_radius": 2,
+        "slide_border_thickness": 0,
+        "slide_content_align": "left",
+        "slide_content_align_mobile": "left",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 14,
+        "title_size_mobile": 14,
+        "title_height": 150,
+        "title_mt": 12,
+        "title_mt_mobile": 12,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 13,
+        "text_size_mobile": 13,
+        "text_height": 150,
+        "text_mt": 6,
+        "text_mt_mobile": 10,
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 12,
+        "author_size_mobile": 12,
+        "author_height": 130,
+        "date_custom": false,
+        "date_font": "josefin_sans_n4",
+        "date_size": 12,
+        "date_size_mobile": 12,
+        "date_height": 150,
+        "date_mt": 8,
+        "date_mt_mobile": 8,
+        "slide_stars_size": 18,
+        "slide_stars_size_mobile": 18,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": true,
+        "arrow_size": 28,
+        "arrow_size_mobile": 28,
+        "arrow_icon_size": 7,
+        "arrow_icon_size_mobile": 7,
+        "arrow_border_thickness": 1,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "title_color": "#121212",
+        "text_color": "#121212",
+        "author_color": "#666666",
+        "date_color": "#666666",
+        "slide_stars_color": "#ffffff",
+        "slide_stars_bg_color": "#00b67a",
+        "slide_stars_bg_half_color": "#dddddd",
+        "slide_bg_color": "#ffffff",
+        "slide_border_color": "#121212",
+        "arrow_color": "#7b7b7b",
+        "arrow_hover_color": "#7b7b7b",
+        "arrow_bg_color": "#ebebeb",
+        "arrow_bg_hover_color": "#f5f5f5",
+        "arrow_border_color": "#c7c7c7",
+        "arrow_border_hover_color": "#c7c7c7",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "media_with_text_G3VJEB": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_bqmYgy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pdt6_eb36048a-a8c4-4763-b2d8-8efe0d1d30af.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Clinically Backed, Targeted Formula",
+            "content": "<p>This antifungal pen is powered by <strong>25% Undecylenic Acid</strong>, an FDA-recognized active for addressing athlete’s foot (tinea pedis). To enhance results, it’s enriched with a blend of botanical oils including <strong>Tea Tree</strong>, <strong>Oregano</strong>, <strong>Manuka, Clove Bud, and Propolis</strong> — carefully selected to soothe, hydrate, and support skin comfort throughout treatment.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bqmYgy"
+      ],
+      "custom_css": [
+        ":host,section,div[class*=\"section\"] {padding-top: 0 !important; padding-bottom: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important;}"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_MPCXi7": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_qAktTK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GIFFINAL1.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "No Accutane. No scary side effects",
+            "content": "<p>A natural solution that clears skin from the root: <strong>hormones, stress, digestion.</strong> Without damaging your body.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_qAktTK"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_8jjd9p": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7mc8Q4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GIFFINAL1.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "No Accutane. No scary side effects",
+            "content": "<p>A natural solution that clears skin from the root: <strong>hormones, stress, digestion.</strong> Without damaging your body.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_7mc8Q4"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "custom_liquid_y4VrX6": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section class=\"comparison-section\">\n  <div class=\"comparison-inner\">\n    <h2><em>Why Us?</em></h2>\n    <p class=\"subtitle\">\n      Why rely on expensive prescriptions with potential side effects when you can naturally support your GLP-1 levels? Meritage Yerba Mate delivers appetite control, sustained energy, and gut health benefits—all without the risks of traditional medications.\n    </p>\n\n    <table class=\"comparison-table no-scroll\">\n      <thead>\n        <tr>\n          <th></th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/yerba.avif?v=1753867274\" alt=\"Meritage Yerba Mate\">\n              <span>Meritage</span>\n            </div>\n          </th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/ozempic.avif?v=1753867304\" alt=\"Injections\">\n              <span>Injections</span>\n            </div>\n          </th>\n          <th>\n            <div class=\"header-icon\">\n              <img src=\"https://cdn.shopify.com/s/files/1/0933/3201/3386/files/material-symbols_no-food.png?v=1753867305\" alt=\"Other Supplements\">\n              <span>Other Supps</span>\n            </div>\n          </th>\n        </tr>\n      </thead>\n      <tbody>\n        <tr>\n          <td>Suppress Cravings</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check red\">✔</span></td>\n          <td><span class=\"check gray\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Reduces Bloating</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Enhances Focus</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Supports Gut & Hormones</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>No Side Effects</td>\n          <td><span class=\"check purple\">✔</span></td>\n          <td><span class=\"check green\">✖</span></td>\n          <td><span class=\"check green\">✖</span></td>\n        </tr>\n        <tr>\n          <td>Cost</td>\n          <td>$59.99<br><small>CAD / month</small></td>\n          <td>$1000+<br><small>CAD / month</small></td>\n          <td>Constantly<br><small>Buying</small></td>\n        </tr>\n      </tbody>\n    </table>\n  </div>\n</section>\n\n<style>\n.comparison-section {\n  background-color: #ede8ff;\n  padding: 30px 15px;\n  text-align: center;\n}\n\n.comparison-inner {\n  max-width: 1000px;\n  margin: 0 auto;\n}\n\n.subtitle {\n  font-size: 14px;\n  color: #333;\n  margin-bottom: 20px;\n}\n\n.comparison-table {\n  width: 100%;\n  border-collapse: collapse;\n  background-color: #fff;\n  border-radius: 12px;\n  overflow: hidden;\n  font-size: 13px;\n  table-layout: fixed;\n}\n\n.comparison-table th,\n.comparison-table td {\n  padding: 12px 8px;\n  text-align: center;\n  border: 1px solid #ddd;\n  vertical-align: middle;\n  word-wrap: break-word;\n}\n\n.comparison-table th {\n  background-color: #f5f2ff;\n  font-weight: 700;\n  font-size: 13px;\n}\n\n.header-icon {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  gap: 4px;\n}\n\n.header-icon img {\n  height: 38px;\n  max-width: 100%;\n}\n\n.check {\n  font-size: 16px;\n  font-weight: bold;\n}\n\n.check.purple { color: #6b5cab; }\n.check.red { color: #e63946; }\n.check.green { color: #6ecf68; }\n.check.gray { color: #999; }\n\n/* Mobile Optimisation */\n@media (max-width: 600px) {\n  .comparison-table th, .comparison-table td {\n    padding: 8px 4px;\n    font-size: 12px;\n  }\n\n  .comparison-section h2 {\n    font-size: 18px;\n  }\n\n  .subtitle {\n    font-size: 13px;\n  }\n\n  .header-icon img {\n    height: 32px;\n  }\n\n  .header-icon span {\n    font-size: 12px;\n  }\n\n  .check {\n    font-size: 15px;\n  }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_FLiQH6": {
+      "type": "faq",
+      "blocks": {
+        "item_KqDpLp": {
+          "type": "item",
+          "settings": {
+            "title": "How long until I see improvements in my skin?",
+            "content": "<p>When used as directed on the skin around the nails, many customers report reilef from symptoms like itching and irritation within the first few weeks. Individual experiences may vary.</p>"
+          }
+        },
+        "item_FmKhth": {
+          "type": "item",
+          "settings": {
+            "title": "How much product do I get in each pen?",
+            "content": "<p>One pen can be used to treat multiple affected areas of the skin, including the skin around multiple toes or fingers, depending on usage frequency.</p>"
+          }
+        },
+        "item_9w86PN": {
+          "type": "item",
+          "settings": {
+            "title": "Is Lunavia chemical-free?",
+            "content": "<p>We use a monograph-compliant antifungal active - 25% Undecylenic Acid - combined with skin-conditioning botanical oils. Our formula contains no parabens, artifical dyes, or synthetic fragrances.</p>"
+          }
+        },
+        "item_U8BnMe": {
+          "type": "item",
+          "settings": {
+            "title": "How often should I apply it?",
+            "content": "<p>We recommend applying as directed on the label. Consistent use is important for full symptom relief and effective treatment of conditions like athlete's foot and ringworm.</p>"
+          }
+        },
+        "item_QCPjCF": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for use around nails?",
+            "content": "<p>Yes. Our formula is intended for use on the skin around the nails and between the toes, as directed. It is not intended to treat fungal infections of the nail itself.</p>"
+          }
+        },
+        "item_bYzCVH": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use Lunavia if I have a sensitive skin type?",
+            "content": "<p>Many user with sensitive skin tolerate the formula well, as it includes soothing botanical ingredients. However, because the product contains a high concentration of Undecylenic Acid (an active antifungal drug),we recommend performing a patch test before full use - especially if you have known sensitivities.</p>"
+          }
+        },
+        "item_LhA7PL": {
+          "type": "item",
+          "settings": {
+            "title": "Is it suitable for men and women?",
+            "content": "<p>Yes. Our antifungal formula is designed for adult use and may be used by both men and women to treat common fungal infections like athlete's foot, ringworm, and jock itch. As with any OTC drug, follow label directions and consult a healthcare provider if you have sensitive skin or underlying conditions.</p>"
+          }
+        },
+        "item_mtCbEh": {
+          "type": "item",
+          "settings": {
+            "title": "What is the full ingredient list?",
+            "content": "<p>Undecylenic Acid (25%), Tea Tree Oil, Oregano Oil, Manuka Oil, Clove Bud Oil, Propolis Extract, Tocopheryl Acetate (Vitamin E), plus other supporting ingredients for optimal penetration.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_KqDpLp",
+        "item_FmKhth",
+        "item_9w86PN",
+        "item_U8BnMe",
+        "item_QCPjCF",
+        "item_bYzCVH",
+        "item_LhA7PL",
+        "item_mtCbEh"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 300,
+        "support_hours": "Our customer service team is available Monday to Friday, from 9am to 8pm.",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "1736349541b004fa39": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_review_widget_htH6DH": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/review-widget/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {
+            "product": "peel-shot-glow-rice-ampoule-duo-by-dr-melaxin"
+          }
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_review_widget_htH6DH"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "174799084244c7d176": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "ss_product_countdown_timer_2_FJgP8B": {
+      "type": "ss-product-countdown-timer-2",
+      "blocks": {
+        "timer_krHb3j": {
+          "type": "timer",
+          "settings": {
+            "wrapper_padding_horizontal": 24,
+            "wrapper_padding_horizontal_mobile": 20,
+            "wrapper_padding_vertical": 10,
+            "wrapper_padding_vertical_mobile": 10,
+            "wrapper_radius": 8,
+            "wrapper_align": "center",
+            "wrapper_align_mobile": "center",
+            "heading": "End of the birthday offer",
+            "heading_custom": false,
+            "heading_font": "helvetica_n3",
+            "heading_size": 14,
+            "heading_size_mobile": 12,
+            "heading_height": 70,
+            "year": "2025",
+            "month": "05",
+            "days_text": "Days",
+            "day": "09",
+            "hours_text": "Hours",
+            "hour": "17",
+            "minutes_text": "Minutes",
+            "minute": "59",
+            "seconds_text": "Seconds",
+            "hide_timer_on_completed": false,
+            "timer_mt": 10,
+            "timer_mt_mobile": 16,
+            "timer_gap": 10,
+            "timer_gap_mobile": 8,
+            "number_custom": false,
+            "number_font": "helvetica_n4",
+            "number_size": 48,
+            "number_size_mobile": 22,
+            "number_height": 130,
+            "timer_text_custom": false,
+            "timer_text_font": "helvetica_n4",
+            "timer_text_size": 14,
+            "timer_text_size_mobile": 12,
+            "timer_text_height": 110,
+            "completed_text": "",
+            "completed_text_custom": false,
+            "completed_text_font": "josefin_sans_n4",
+            "completed_text_size": 16,
+            "completed_text_size_mobile": 16,
+            "completed_text_height": 130,
+            "heading_color": "#000000",
+            "number_color": "#000000",
+            "timer_text_color": "#000000",
+            "completed_text_color": "#ffffff",
+            "wrapper_bg_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "timer_krHb3j"
+      ],
+      "disabled": true,
+      "name": "SS - Product countdown timer #2",
+      "settings": {
+        "timer_positionn": "below_buy",
+        "background_color": "",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "border_thickness": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ss_testimonials_38_fQPGCk",
+    "related-products",
+    "media_with_text_G3VJEB",
+    "media_with_text_MPCXi7",
+    "media_with_text_8jjd9p",
+    "custom_liquid_y4VrX6",
+    "faq_FLiQH6",
+    "1736349541b004fa39",
+    "174799084244c7d176",
+    "ss_product_countdown_timer_2_FJgP8B"
+  ]
+}
