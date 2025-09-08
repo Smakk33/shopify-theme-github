@@ -89,7 +89,7 @@
         "liquid_CVrUDX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"font-family: Arial, sans-serif; font-size:15px; color:#252728; line-height:1.8; margin:10px 0;\">\n\n  <ul style=\"list-style:none; padding-left:0; margin:0;\">\n    <li style=\"margin-bottom:6px;\">💨 Quick-dry & machine washable</li>\n    <li style=\"margin-bottom:6px;\">✨ Streak-free & limescale-free shine</li>\n    <li style=\"margin-bottom:6px;\">💧 Absorbs up to 800ml of water</li>\n    <li style=\"margin-bottom:6px;\">☑️ Machine washable</li>\n\n  </ul>\n\n</div>"
+            "liquid": "<div style=\"font-family: Arial, sans-serif; font-size:15px; color:#252728; line-height:1.8; margin:10px 0;\">\n\n  <ul style=\"list-style:none; padding-left:0; margin:0;\">\n    <li style=\"margin-bottom:6px;\">✨ Glowing LED lights</li>\n    <li style=\"margin-bottom:6px;\">🖐️ Motion-controlled</li>\n    <li style=\"margin-bottom:6px;\">👶 Safe for kids</li>\n    <li style=\"margin-bottom:6px;\">🎉 Fun for the whole family</li>\n\n  </ul>\n\n</div>"
           }
         },
         "description": {
