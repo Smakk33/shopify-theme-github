@@ -349,9 +349,9 @@
           "type": "testimonial",
           "settings": {
             "stars_count": 5,
-            "title": "Super easy to use",
-            "text": "<p>This antifungal pen is super easy to use and mess-free thanks to the twist-up applicator. The formula feels gentle but effective. The mix of tea tree oil, aloe, and vitamin E is a nice touch too. Definitely recommend!</p>",
-            "author": "Lyndzi W,",
+            "title": "So much fun for the kids",
+            "text": "<p>My son and daughter can’t stop playing with this flying ball. It’s safe, bright, and keeps them busy for hours.</p>",
+            "author": "Jessica Carter",
             "date": "1 day ago"
           }
         },
@@ -397,6 +397,7 @@
         },
         "testimonial_aebtkh": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
             "title": "I’m not embarrassed to wear sandals",
@@ -407,6 +408,7 @@
         },
         "testimonial_Dz9rmb": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
             "title": "I didn’t expect much",
@@ -417,6 +419,7 @@
         },
         "testimonial_rnrnCC": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
             "title": "no more itching, no more cracking",
@@ -427,6 +430,7 @@
         },
         "testimonial_xfLbKt": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
             "title": "by far the highest-quality",
@@ -437,6 +441,7 @@
         },
         "testimonial_pTXiEX": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
             "stars_count": 5,
             "title": "Gave me the confidence",
